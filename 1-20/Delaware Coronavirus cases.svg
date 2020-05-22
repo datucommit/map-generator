@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 916.5 609.2" style="enable-background:new 0 0 916.5 609.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F5FBFE;}
+	.st1{fill:#DDEEFA;}
+	.st2{fill:#255078;}
+	.st3{font-family:'Georgia';}
+	.st4{font-size:18px;}
+	.st5{font-size:16px;}
+	.st6{fill:#4C4B4D;}
+	.st7{font-family:'ArialMT';}
+	.st8{font-size:14px;}
+	.st9{fill:#4C4B4C;}
+	.st10{fill:#DB3029;}
+	.st11{font-size:36px;}
+	.st12{fill:#BC7B84;}
+	.st13{fill:#BAAEBF;}
+	.st14{fill:#CD453B;}
+	.st15{fill:#CD483B;}
+	.st16{fill:#FFFFFF;}
+	.st17{font-size:17px;}
+	.st18{font-size:12.4434px;}
+	.st19{font-size:13.6423px;}
+</style>
+<g id="text">
+	<polygon id="blue_bg" class="st0" points="0,473.8 0,510.8 0,520.4 0,609.2 173.5,609.2 173.5,520.4 915,520.4 915,473.8 	"/>
+	<path id="line_bg" class="st1" d="M916.5,0H0l0,0v474.4v2v42.9v2v42.9v2v42.9l0,0h579.8l0,0H913l0,0h3.5V0z M913,56.8v417.6H578.4
+		l-0.6-0.3v0.3H443.6l-0.6-0.3v0.3H3V56.8H913z M913,476.4v42.9H579.8v-42.9H913z M445.1,519.4v-42.9h132.8v42.9H445.1z
+		 M577.8,521.4v42.9H445.1v-42.9H577.8z M310.3,519.4v-42.9h132.8v42.9H310.3z M443.1,521.4v42.9H310.3v-42.9H443.1z M175.5,519.4
+		v-42.9h132.8v42.9H175.5z M308.3,521.4v42.9H175.5v-42.9H308.3z M173.5,476.4v42.9H3v-42.9H173.5z M173.5,521.4v42.9H3v-42.9H173.5
+		z M3,566.3h170.5v39.9H3V566.3z M175.5,566.3h132.8v39.9H175.5V566.3z M310.3,566.3h132.8v39.9H310.3V566.3z M445.1,566.3h132.8
+		v39.9H445.1V566.3z M579.8,521.4H913v84.8H579.8V521.4z"/>
+	<text id="title" transform="matrix(1 0 0 1 22.167 35.8372)" class="st2 st3 st4">COVID-19 in Delaware on</text>
+	<text id="date" transform="matrix(1 0 0 1 235.4693 35.8372)" class="st2 st3 st4">April 7th, 2020</text>
+	<text id="confirmed" transform="matrix(1 0 0 1 162.5878 223.3257)" class="st2 st3 st5">State Confirmed Cases By County</text>
+	<text transform="matrix(1 0 0 1 162.5878 259.6948)" class="st6 st7 st8">New Castle 496</text>
+	<text transform="matrix(1 0 0 1 162.5878 288.8633)" class="st6 st7 st8">Sussex 159</text>
+	<text transform="matrix(1 0 0 1 162.5878 318.0322)" class="st6 st7 st8">Kent 128</text>
+	<text transform="matrix(1 0 0 1 22.167 545.069)" class="st2 st7 st8">Confirmed Cases</text>
+	<text transform="matrix(1 0 0 1 22.167 589.0006)" class="st2 st7 st8">Deaths</text>
+	<text id="current_date" transform="matrix(1 0 0 1 205.6966 500.7867)" class="st2 st7 st8">6 Apr. 2020</text>
+	<text id="previous_date" transform="matrix(1 0 0 1 340.4748 500.7867)" class="st2 st7 st8">5 Apr. 2020</text>
+	<text id="growth_rate__x25_" transform="matrix(1 0 0 1 459.543 500.7867)" class="st2 st7 st8">Growth Rate %</text>
+	<text transform="matrix(1 0 0 1 674.818 500.7867)" class="st2 st7 st8">Total Confirmed Cases</text>
+	<text id="current_сases" transform="matrix(1 0 0 1 228.5522 548.8209)" class="st9 st7 st5">783</text>
+	<text id="previous_deaths" transform="matrix(1 0 0 1 371.2653 593.3004)" class="st9 st7 st5">14</text>
+	<text id="current_deaths" transform="matrix(1 0 0 1 232.0725 592.3207)" class="st9 st7 st5">15</text>
+	<text id="total_cases" transform="matrix(1 0 0 1 733.2673 577.9641)" class="st10 st7 st11">783</text>
+	<text id="previous_сases" transform="matrix(1 0 0 1 363.3525 548.8209)" class="st9 st7 st5">673</text>
+	<text id="cases_growth_rate" transform="matrix(1 0 0 1 493.2656 550.3572)" class="st9 st7 st5">16 %</text>
+	<text id="death_growth_rate" transform="matrix(1 0 0 1 497.6649 594.8364)" class="st9 st7 st5">7 %</text>
+</g>
+<g id="Counties">
+	<path id="sussex_159" class="st12" d="M745.2,339.8c-2.6-8.5-1.8-24.3-11.7-27.9c-3.2-1.2-10,2.6-14.2,1.1c-5-1.9-5.7-6.7-9.8-10.4
+		c-7.7-6.8-17.6-8.5-22.5-17.9l2.2,3.9l-12.9,7.2l-18.5,22.1l-12.7,11.8l-11.7,6.4l-2.8,2.7l16.6,59.3l116.1-12.5
+		c-0.5-2.3-0.9-4.7-1.5-6.9C758.5,365.1,749.3,353.4,745.2,339.8"/>
+	<path id="kent_128" class="st13" d="M652.6,217.2c-5.5-11.7-14.8-17.1-23.6-23.8l2.3,3.9l-14.9,8.8l-12.5,9.9l-7.6,6.7l29.8,106.6
+		l0.7-0.7l11.7-6.4l11-10.4l19.2-23l14.4-8l2.2,3.9c-4.2-8.1-6.1-17-10.4-25.3C667.4,245,659.3,231.4,652.6,217.2"/>
+	<path id="new_castle_496" class="st14" d="M613.4,198.7l13.7-8.1c-1.4-1.2-2.7-2.4-4-3.8c-4.6-4.7-26.8-37.3-20.1-42.4l-11.9-1.3
+		l1-9.6c0-1.1-0.1-2.3-0.2-3.5c-0.4-6.7-0.9-15.8,4-23.1c3.4-5.1,7.1-7.4,9.2-8.8l0.2-0.1c0-0.2,0.1-0.4,0.1-0.7
+		c0.4-2,0.6-3.5,0.7-4.7c0.1-0.7,0.2-1.4,0.3-2h-7.9l-27.9,34.1l24.8,88.5l4.5-4L613.4,198.7z"/>
+</g>
+<g id="Balls">
+	<circle id="new_castle_count" class="st15" cx="595.8" cy="165.3" r="20.1"/>
+	<text id="new_castle_numbers" transform="matrix(1 0 0 1 581.6423 169.8608)" class="st16 st7 st17">496</text>
+	<circle id="kent_count" class="st15" cx="634.5" cy="256" r="14.7"/>
+	<text id="kent_numbers" transform="matrix(1 0 0 1 624.1511 259.2905)" class="st16 st7 st18">128</text>
+	<circle id="sussex_count" class="st15" cx="692.3" cy="345.4" r="16.1"/>
+	<text id="sussex_numbers" transform="matrix(1 0 0 1 680.9209 349.0083)" class="st16 st7 st19">159</text>
+</g>
+<g id="types">
+	<g>
+	<circle id="new_castle_count_1_" class="st15" cx="896.8" cy="-53" r="31.6"/>
+	<text id="new_castle_numbers_1_" transform="matrix(1 0 0 1 870.5437 -47.4119)" class="st16 st7" style="font-size:21px;">5,096</text>
+	</g>
+	<g>
+	<circle id="new_castle_count_2_" class="st15" cx="828.4" cy="-53" r="24.7"/>
+	<text id="new_castle_numbers_2_" transform="matrix(1 0 0 1 808.9619 -48.9873)" class="st16 st7" style="font-size:15px;">1,996</text>
+	</g>
+	<g>
+	<circle id="new_castle_count_4_" class="st15" cx="771.7" cy="-53" r="17.9"/>
+	<text id="new_castle_numbers_4_" transform="matrix(1 0 0 1 759.0737 -48.9873)" class="st16 st7" style="font-size:15px;">500</text>
+	</g>
+	<g>
+	<circle id="new_castle_count_3_" class="st15" cx="724.1" cy="-53" r="13.4"/>
+		<text id="new_castle_numbers_3_" transform="matrix(1 0 0 1 717.6066 -50.0056)" class="st16 st7" style="font-size:11px;">96</text>
+	</g>
+	<g>
+	<circle id="new_castle_count_3_" class="st15" cx="690.1" cy="-53" r="13"/>
+		<text id="new_castle_numbers_3_" transform="matrix(1 0 0 1 685.6066 -50.0056)" class="st16 st7" style="font-size:11px;">9</text>
+	</g>
+</g>
+</svg>
