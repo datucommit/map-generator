@@ -32,11 +32,12 @@ script = """
 	var transform = ''
 	var totalCurr = state.dates[0].counties.pop()
 	var totalPrev = state.dates[1].counties.pop()
-
+    console.log('totalplay', totalCurr, totalPrev)
 	var currentTotalCases = parseOrZero(totalCurr.confirmed);
 	var currentTotalDeaths = parseOrZero(totalCurr.dead);
 	var previousTotalCases = parseOrZero(totalPrev.confirmed);
 	var previousTotalDeaths = parseOrZero(totalPrev.dead);
+    console.log('izzi', currentTotalCases, currentTotalDeaths)
 
 	state.dates[0].counties.sort(function(a,b) { //sort curr confirmed
 	    return b.confirmed - a.confirmed;
@@ -47,7 +48,7 @@ script = """
 	});
 
 	function parseOrZero(val){
-		return val ? parseInt(val) : 0
+		return val ? parseInt(val.replace(/,/g, '')) : 0
 	}
 
 	function displayCasesList(){
@@ -60,15 +61,29 @@ script = """
 		  return i % 2 == 0;
 		});*/
 		
-		var count_elements_list = document.querySelectorAll('#Texts_1_ > text:not([id])')
+		console.log(state, count_elements_list, 'stepan')
+		var count_elements_list = document.querySelectorAll('[id*="texts" i] text:not([id])')
 		
 
 		state.dates[0].counties.sort(function(a,b) {
 		    return b.confirmed - a.confirmed;
 		});
 
-		for (var i = 0; i < state.dates[0].counties.length; i++) {
-			count_elements_list[i].innerHTML = state.dates[0].counties[i].name + ' ' + state.dates[0].counties[i].confirmed
+		//for (var i = 0; i < state.dates[0].counties.length; i++) {
+		//	count_elements_list[i].innerHTML = state.dates[0].counties[i].name + ' ' + state.dates[0].counties[i].confirmed + 'nb'
+		//}
+		
+		for (var i = 0; i < count_elements_list.length; i++) {
+		    if (count_elements_list[i].innerHTML.trim() == '' || count_elements_list[i].innerHTML.trim() == ' ' ) {
+		        continue
+		    }
+		    try {
+		        var text_count = state.dates[0].counties[i].name + ' ' + state.dates[0].counties[i].confirmed
+		    } catch (error) {
+		        var text_count = ''
+		    }
+		    console.log(text_count, state.dates[0].counties[i], 'DARKSOULS')
+		    count_elements_list[i].innerHTML = text_count
 		}
 
 
@@ -96,20 +111,38 @@ script = """
 		return val ? val : 0
 	}
 	
-	document.getElementById('date').innerHTML = formatToday();
-	document.getElementById('total_cases').innerHTML = currentTotalCases;
-	document.getElementById('current_сases').innerHTML = currentTotalCases;
-	document.getElementById('current_deaths').innerHTML = currentTotalDeaths;
+	function numberWithCommas(x) {
+	    console.log(x, x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","), 'comma')
+        return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    }
+	
+	document.querySelector('[id*=date i]').innerHTML = formatToday();
+	var total_cases = document.getElementById('total_cases')
+	total_cases.innerHTML = numberWithCommas(currentTotalCases);
+	var transform = total_cases.getAttribute('transform')
+	var tsplit = transform.split(' ')
+	var tcx = parseFloat(tsplit[transform.split(')')[0].split(' ').length - 2])-((currentTotalCases.toString().length - 3) * 10)
+	// 3. if you add one, you remove 10px
+	var prectx = tsplit[0] + ' ' + tsplit[1] + ' ' + tsplit[2] + ' ' + tsplit[3] + ' ' + tcx  + ' ' + tsplit[5]
+    total_cases.setAttribute('transform', prectx)
+	document.getElementById('current_сases').innerHTML = numberWithCommas(currentTotalCases);
+	document.getElementById('current_deaths').innerHTML = numberWithCommas(currentTotalDeaths);
 	document.getElementById('current_date').innerHTML = formatToday();
 	document.getElementById('previous_date').innerHTML = formatYesterday();
-	document.getElementById('previous_сases').innerHTML = previousTotalCases;
-	document.getElementById('previous_deaths').innerHTML = previousTotalDeaths;
+	document.getElementById('previous_сases').innerHTML = numberWithCommas(previousTotalCases);
+	document.getElementById('previous_deaths').innerHTML = numberWithCommas(previousTotalDeaths);
 
 	document.getElementById('death_growth_rate').innerHTML = calculateGrowthRate(currentTotalDeaths, previousTotalDeaths) + '%'
 	document.getElementById('cases_growth_rate').innerHTML = calculateGrowthRate(currentTotalCases, previousTotalCases) + '%'
 
 
 	function setMapNumbers(){
+	    document.querySelectorAll('[id*=circle i]').forEach(function(el){
+	        el.setAttribute('r', 0)
+	    })
+	    document.querySelectorAll('[id*=number i]').forEach(function(el){
+	        el.innerHTML = ''
+	    })
 		for (var i = 0; i < state.dates[0].counties.length; i++){
 			var splittedString = state.dates[0].counties[i].name.split(' ')
 			if (splittedString.length > 1){
@@ -122,16 +155,14 @@ script = """
 				//
 				//
 
-				var firstWord = splittedString[0]
-				var secondWord = splittedString[1]
-				var id = firstWord + '_' + secondWord + '_numbers'
+				var id = splittedString.join('_') + '_number'
 			}
 			else{
-				var id = state.dates[0].counties[i].name  + '_numbers'
+				var id = state.dates[0].counties[i].name  + '_number'
 			}
 			try {
 				console.log(id, 'elid')
-    			document.querySelector("[id*='" + id + "']").innerHTML = state.dates[0].counties[i].confirmed
+    			document.querySelector("[id*=" + id + " i]").innerHTML = state.dates[0].counties[i].confirmed
 			}
 			catch (e) {}
 	
@@ -144,6 +175,9 @@ script = """
 
 	function setMapFontAndCirclesSize(){
 		for (var i = 0; i < state.dates[0].counties.length; i++){
+		    if (state.dates[0].counties[i].name == 'Morrow'){
+		        debugger
+		    }
 			var circleId = ''
 			var textId = ''
 			var fontSize = ''
@@ -151,24 +185,21 @@ script = """
 			var size = ''
 			var color = 'AEDBF5'
 
-			var splittedString = state.dates[0].counties[i].name.split(' ')
+			var splittedString = state.dates[0].counties[i].name.replace("'", '_x27_').split(' ')
 			if (splittedString.length > 1){
-				var firstWord = splittedString[0]
-				var secondWord = splittedString[1]
-				textId = firstWord + '_' + secondWord + '_numbers'
-				circleId = firstWord + '_' + secondWord + '_circle'
+			    textId = splittedString.join('_') + '_number'
+				circleId = splittedString.join('_') + '_circle'
 			}
 			else{
-				textId = state.dates[0].counties[i].name  + '_numbers'
-				circleId = state.dates[0].counties[i].name  + '_circle'
+				textId = state.dates[0].counties[i].name.replace("'", '_x27_')  + '_number'
+				circleId = state.dates[0].counties[i].name.replace("'", '_x27_')  + '_circle'
 			}
 
-			var circleElement = document.querySelector("[id*='" + circleId + "']")
+			var circleElement = document.querySelector("[id*=" + circleId + " i]")
 			console.log(circleId)
-			var cx = parseFloat(circleElement.getAttribute('cx'))
-			var cy = parseFloat(circleElement.getAttribute('cy'))
+			var stconfirmed = parseInt(state.dates[0].counties[i].confirmed.replace(/,/g, ''), 10)
 
-			if(state.dates[0].counties[i].confirmed < 10){
+			if(stconfirmed < 10){
 				fontSize = "6px"
 				var Class = "st1 st2 st5"
 				var r = 7.3
@@ -176,7 +207,7 @@ script = """
 				size = 'xsmall'
 				//color = 'B0B6CE'
 			}
-			if(state.dates[0].counties[i].confirmed > 10 && state.dates[0].counties[i].confirmed < 100){
+			if(stconfirmed >= 10 && stconfirmed < 100){
 				fontSize = "10px"
 				var Class = "st1 st2 st4"
 				var r = 11.9
@@ -185,7 +216,7 @@ script = """
 				color = 'B69BAE' // prev level
 				color = 'B0B6CE'
 			}
-			if(state.dates[0].counties[i].confirmed > 100 && state.dates[0].counties[i].confirmed < 500){
+			if(stconfirmed >= 100 && stconfirmed < 1000){
 				fontSize = "12px"
 				var Class = "st1 st2 st7"
 				var r = 14.7
@@ -194,7 +225,7 @@ script = """
 				color = 'B8808E'
 				color = 'B69BAE'
 			}
-			if(state.dates[0].counties[i].confirmed > 100 && state.dates[0].counties[i].confirmed < 1000){
+			if(stconfirmed >= 1000 && stconfirmed < 10000){
 				fontSize = "16px"
 				var Class = "st1 st2 st6"
 				var r = 21.4
@@ -204,19 +235,20 @@ script = """
 				color = 'B8808E'
 				
 			}
-			if(state.dates[0].counties[i].confirmed > 1000){
+			if(stconfirmed >= 10000){
 				fontSize = "20px"
 				var Class = "st1 st2 st3"
 				var r = 35.2
-				keyword = uncapitalizeFirstLetter(state.dates[0].counties[i].name).replace(' ', '')
+				keyword = uncapitalizeFirstLetter(state.dates[0].counties[i].name).replace(' ', '').replace("'", '_x27_')
 				size = 'xlarge'
 				color = 'D63B37'
 				color = 'C3606B'
 			}
 
-			var countyId = state.dates[0].counties[i].name.replace(' ', '_') + '_1_'
-			console.log(countyId, color, size)
-			var county = document.querySelector("[id^='" + countyId + "']")
+			//var countyId = state.dates[0].counties[i].name.replace(' ', '_').replace("'", '_x27_') + '_1_'
+			var countyId = state.dates[0].counties[i].name.replace(/ /g, '_').replace("'", '_x27_')
+			console.log(countyId, color, size, state.dates[0].counties[i].name)
+			var county = document.querySelector("[id*=" + countyId + " i]")
 			county.setAttribute('style', 'fill: #' + color)
 			
             var circles = []
@@ -246,19 +278,28 @@ script = """
                 xlarge: circles[4]
             }
             
-            if (state.dates[0].counties[i].confirmed > 10000 && circles.length > 5) {
+            if (state.dates[0].counties[i].confirmed >= 100000 && circles.length > 5) {
                 circle_sizes['xxlarge'] = circles[6]
                 size = 'xxlarge'
             }
+            
+            console.log(circleElement, circleId, circle_sizes, 'dajsdas', stconfirmed > 1000, size, stconfirmed, state.dates[0].counties[i].confirmed, state.dates[0].counties[i])
 
 			//transform = mapCasesTextPosition[keyword][size]
-			transform = "matrix(1 2.630000e-03 -2.630000e-03 1 " + (cx + circle_sizes[size].cx) + " " + (cy + circle_sizes[size].cy) + ")"
-			//console.log('TRANSFORM', transform)
+			
+			var cx = parseFloat(circleElement.getAttribute('cx'))
+			var cy = parseFloat(circleElement.getAttribute('cy'))
+			
+			var original_transform = document.querySelector("[id*=" + textId + " i]").getAttribute('transform')
+			var otsplit = original_transform.split(' ')
+			transform = otsplit[0] + ' ' + otsplit[1] + ' ' + otsplit[2] + ' ' + otsplit[3] + ' ' + (cx + circle_sizes[size].cx) + ' ' + (cy + circle_sizes[size].cy) + ')'
+			//transform = "matrix(1 2.630000e-03 -2.630000e-03 1 " + (cx + circle_sizes[size].cx) + " " + (cy + circle_sizes[size].cy) + ")"
+			console.log('TRANSFORM', transform)
 			console.log(textId)
 			console.log(circleId)
-			document.querySelector("[id^='" + textId + "']").setAttribute('transform', transform)
+			document.querySelector("[id*=" + textId + " i]").setAttribute('transform', transform)
 			console.log('tr')
-			document.querySelector("[id^='" + textId + "']").setAttribute('style', 'font-size:' + circle_sizes[size].fontSize + ';')
+			document.querySelector("[id*=" + textId + " i]").setAttribute('style', 'font-size:' + circle_sizes[size].fontSize + ';')
 			circleElement.setAttribute('r', circle_sizes[size].r)
 		}
 	}
@@ -267,6 +308,16 @@ script = """
 
 	setMapNumbers()
 	setMapFontAndCirclesSize()
+	
+	function nth(d) {
+      if (d > 3 && d < 21) return 'th';
+      switch (d % 10) {
+        case 1:  return "st";
+        case 2:  return "nd";
+        case 3:  return "rd";
+        default: return "th";
+      }
+    }
 
 	function formatToday(){
 		var months = {
@@ -284,8 +335,7 @@ script = """
 			11 : 'December'
 		}
 		date = new Date()
-		return months[date.getMonth()] + ' ' + date.getDate() + ', ' + date.getFullYear()
-
+		return months[cmonth - 1] + ' ' + cday + nth(cday) + ', ' + date.getFullYear()
 	}
 
 	function formatYesterday(){
@@ -304,9 +354,10 @@ script = """
 			11 : 'December'
 		}
 		date = new Date()
-		return months[date.getMonth()] + ' ' + (date.getDate() - 1) + ', ' + date.getFullYear()
+		return months[cmonth - 1] + ' ' + (cday - 1) + nth(cday) + ', ' + date.getFullYear()
 
 	}
+	console.log('ABSOLUTELY DONE')
 	]]>
 	</script>"""
 
@@ -351,20 +402,25 @@ def create_full_json_object(prevfile, currfile, state):
 @route('/upload', method='POST')
 def do_upload():
     filename = request.forms.get('filename')
-    state = request.files.get('prev-date').filename.split('-')[0]
-    prev_date = request.files.get('prev-date').file.read().decode("utf-8")
-    curr_date = request.files.get('curr-date').file.read().decode("utf-8")
+    # state = request.files.get('prev-date').filename.split('-')[0].strip()
+    state = ' '.join(request.files.get('prev-date').filename.split('-')[:-1])
+    prev_date = request.files.get('prev-date').file.read().decode("utf-8").replace('.','')
+    curr_date = request.files.get('curr-date').file.read().decode("utf-8").replace('.','')
+
+    cday, cmonth = request.files.get('curr-date').filename.split('-')[-1].split('.')[0].split('_')
 
     svg_string = ''
     fj = create_full_json_object(prev_date, curr_date, state)
     sdasjs = json.dumps(fj)
 
-    with open(f'1-20/{state} Coronavirus cases.svg', 'r') as state_svg:
+    with open(f'1-19/{state} Coronavirus cases.svg', 'r') as state_svg:
         svg_string = state_svg.read()
         # response.headers['Content-Type'] = 'image/svg+xml'
-        script_prefix = """
+        script_prefix = f"""
         <script type="text/javascript">
             <![CDATA[
+        var cday = {cday}
+        var cmonth = {cmonth}
         var state = """
         # remove last closing tag to insert data
         svg_string = svg_string.split('</svg>')[0]

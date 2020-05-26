@@ -45,6 +45,7 @@
 	<text id="title" transform="matrix(1 0 0 1 32.8483 35.8372)" class="st3 st4 st5">COVID-19 in South Carolina Counties on</text>
 	<text id="date" transform="matrix(1 0 0 1 362.4693 35.8372)" class="st3 st4 st5">April 27th, 2020</text>
 	<text id="confirmed" transform="matrix(1 0 0 1 32.8482 98.5938)" class="st3 st4 st6">State Confirmed Cases By County</text>
+	<text transform="matrix(1 0 0 1 32.8481 130.4998)" class="st7 st8 st9">Abbeville  10</text>
 	<text transform="matrix(1 0 0 1 32.8592 151.8539)" class="st7 st8 st9">Aiken  10</text>
 	<text transform="matrix(1 0 0 1 32.8592 173.2075)" class="st7 st8 st9">Allendale  10</text>
 	<text transform="matrix(1 0 0 1 32.8377 194.5612)" class="st7 st8 st9">Anderson  10</text>
@@ -52,23 +53,32 @@
 	<text transform="matrix(1 0 0 1 32.8377 237.2687)" class="st7 st8 st9">Barnwell  10</text>
 	<text transform="matrix(1 0 0 1 32.8377 258.6224)" class="st7 st8 st9">Beaufort  10</text>
 	<text transform="matrix(1 0 0 1 32.8377 279.976)" class="st7 st8 st9">Berkeley  10</text>
-	<text transform="matrix(1 0 0 1 32.8481 130.4998)" class="st7 st8 st9">Abbeville  10</text>
+	<text transform="matrix(1 0 0 1 32.8374 301.3292)" class="st7 st8 st9">Calhoun  10</text>
 	<text transform="matrix(1 0 0 1 32.8377 322.6837)" class="st7 st8 st9">Charleston  10</text>
 	<text transform="matrix(1 0 0 1 32.8374 344.0367)" class="st7 st8 st9">Cherokee  10</text>
-	<text transform="matrix(1 0 0 1 32.8374 301.3292)" class="st7 st8 st9">Calhoun  10</text>
 	<text transform="matrix(1 0 0 1 32.8374 365.3911)" class="st7 st8 st9">Chester  10</text>
 	<text transform="matrix(1 0 0 1 32.8374 386.744)" class="st7 st8 st9">Chesterfield  10</text>
 	<text transform="matrix(1 0 0 1 32.8376 408.0986)" class="st7 st8 st9">Clarendon  10</text>
 	<text transform="matrix(1 0 0 1 32.8374 429.4523)" class="st7 st8 st9">Colleton  10</text>
 	<text transform="matrix(1 0 0 1 32.8376 450.8053)" class="st7 st8 st9">Darlington  10</text>
+
+	<text transform="matrix(1 0 0 1 199.9998 130.4995)" class="st7 st8 st9">Dillon  10</text>
+	<text transform="matrix(1 0 0 1 199.9998 151.8531)" class="st7 st8 st9">Dorchester  10</text>
+	<text transform="matrix(1 0 0 1 199.9998 173.2069)" class="st7 st8 st9">Edgefield  10</text>
+	<text transform="matrix(1 0 0 1 199.9998 194.5608)" class="st7 st8 st9">Fairfield  10</text>
+	<text transform="matrix(1 0 0 1 199.9998 215.9144)" class="st7 st8 st9">Florence  10</text>
+	<text transform="matrix(1 0 0 1 199.9998 237.2679)" class="st7 st8 st9">Georgetown  10</text>
+	<text transform="matrix(1 0 0 1 199.9998 258.6216)" class="st7 st8 st9">Greenville  10</text>
+	<text transform="matrix(1 0 0 1 199.9999 279.975)" class="st7 st8 st9">Greenwood  10</text>
+	<text transform="matrix(1 0 0 1 199.9998 301.3292)" class="st7 st8 st9">Hampton  10</text>
 	<text transform="matrix(1 0 0 1 200.0001 322.6829)" class="st7 st8 st9">Horry  10</text>
 	<text transform="matrix(1 0 0 1 200.0001 344.0363)" class="st7 st8 st9">Jasper  10</text>
 	<text transform="matrix(1 0 0 1 200.0001 365.39)" class="st7 st8 st9">Kershaw  10</text>
 	<text transform="matrix(1 0 0 1 199.9999 386.7437)" class="st7 st8 st9">Lancaster  10</text>
 	<text transform="matrix(1 0 0 1 199.9998 408.0969)" class="st7 st8 st9">Laurens  10</text>
-	<text transform="matrix(1 0 0 1 199.9998 301.3292)" class="st7 st8 st9">Hampton  10</text>
 	<text transform="matrix(1 0 0 1 200 429.451)" class="st7 st8 st9">Lee  10</text>
 	<text transform="matrix(1 0 0 1 200 450.8048)" class="st7 st8 st9">Lexington  10</text>
+
 	<text transform="matrix(1 0 0 1 353.873 130.4994)" class="st7 st8 st9">McCormick  10</text>
 	<text transform="matrix(1 0 0 1 353.873 151.8533)" class="st7 st8 st9">Marion  10</text>
 	<text transform="matrix(1 0 0 1 353.873 173.2068)" class="st7 st8 st9">Marlboro  10</text>
@@ -77,20 +87,13 @@
 	<text transform="matrix(1 0 0 1 353.873 237.2682)" class="st7 st8 st9">Orangeburg  10</text>
 	<text transform="matrix(1 0 0 1 353.873 258.6222)" class="st7 st8 st9">Pickens  10</text>
 	<text transform="matrix(1 0 0 1 353.873 279.9762)" class="st7 st8 st9">Richland  10</text>
+	<text transform="matrix(1 0 0 1 353.8731 301.3297)" class="st7 st8 st9">Saluda  10</text>
 	<text transform="matrix(1 0 0 1 353.8736 322.6835)" class="st7 st8 st9">Spartanburg  10</text>
 	<text transform="matrix(1 0 0 1 353.8736 344.0374)" class="st7 st8 st9">Sumter  10</text>
 	<text transform="matrix(1 0 0 1 353.8733 365.3911)" class="st7 st8 st9">Union  10</text>
-	<text transform="matrix(1 0 0 1 353.8731 301.3297)" class="st7 st8 st9">Saluda  10</text>
 	<text transform="matrix(1 0 0 1 353.8736 386.7451)" class="st7 st8 st9">Williamsburg  10</text>
 	<text transform="matrix(1 0 0 1 353.8731 408.099)" class="st7 st8 st9">York  10</text>
-	<text transform="matrix(1 0 0 1 199.9998 151.8531)" class="st7 st8 st9">Dorchester  10</text>
-	<text transform="matrix(1 0 0 1 199.9998 173.2069)" class="st7 st8 st9">Edgefield  10</text>
-	<text transform="matrix(1 0 0 1 199.9998 194.5608)" class="st7 st8 st9">Fairfield  10</text>
-	<text transform="matrix(1 0 0 1 199.9998 215.9144)" class="st7 st8 st9">Florence  10</text>
-	<text transform="matrix(1 0 0 1 199.9998 237.2679)" class="st7 st8 st9">Georgetown  10</text>
-	<text transform="matrix(1 0 0 1 199.9998 130.4995)" class="st7 st8 st9">Dillon  10</text>
-	<text transform="matrix(1 0 0 1 199.9998 258.6216)" class="st7 st8 st9">Greenville  10</text>
-	<text transform="matrix(1 0 0 1 199.9999 279.975)" class="st7 st8 st9">Greenwood  10</text>
+
 </g>
 <g id="Counties">
 	<path id="york_1_" class="st10" d="M666.5,135.2l-27.8,1.4l-3,5.5v13.4l1.7,6.4l8.7,1.4l33.2-5.7c0.1-0.9,0-1.7-0.1-2
@@ -114,8 +117,8 @@
 	<path id="beaufort" class="st10" d="M719.9,406.5c6-2.5,10.5-8.8,15-13.3c3.5-3.5,7-7.1,10.4-10.6c8.5-5.5,1.4-10.8,1.1-17.2
 		l-0.6,1.5l-4.8-2l-23.7-12.7l-1.7,1.1v0.9l1.1,2.6l2.2,10.2l2.2,15.7l-10,9.5l-0.9,5.1c0.8,0.9,2.3,2.5,2.9,3
 		c0.6,0.6,2.4,1.9,3.5,2.7l1.8,1.2h1.5v1l0.4,0.2l-0.4,0.6V406.5L719.9,406.5z"/>
-	<polygon id="dorchesten" class="st10" points="743.4,297 743,298 734.9,298 732.2,293.8 731.4,291.7 727.8,294.6 718.7,301.5 
-		713.4,305.3 725.6,310.9 730.2,314.8 730.4,314.6 730.4,312.1 745.9,312.8 745.9,330.3 763.6,330.3 766,325.8 766,322.7 763.7,320 
+	<polygon id="dorchester" class="st10" points="743.4,297 743,298 734.9,298 732.2,293.8 731.4,291.7 727.8,294.6 718.7,301.5
+		713.4,305.3 725.6,310.9 730.2,314.8 730.4,314.6 730.4,312.1 745.9,312.8 745.9,330.3 763.6,330.3 766,325.8 766,322.7 763.7,320
 		764.4,315.6 754,309.8 745.1,302.9 747.3,299.6 	"/>
 	<path id="jasper" class="st10" d="M706.5,402.9c0.6,0.4,1.2,0.7,1.9,1.1h4.2c-0.7-0.5-1.4-1.1-1.7-1.4c-0.9-0.9-3.5-3.7-3.5-3.7
 		l-0.6-0.6l1.4-7.8l9.6-9.1l-2-13.8l-2-9.1l-0.8,1.4l-7.7-1.2l-2.5-6.6h-3.4l-3.5,4.7l-8.6,9.7l-0.1,0.1c0.3,0.4,0.6,0.7,0.9,1.1
@@ -132,7 +135,7 @@
 		l2.8-1.7H677l1.5-1.1l0,0l-2.7-2.4v-22.9L662.8,286.5z"/>
 	<path id="allendale" class="st10" d="M654.5,320.6l-0.3,0.2c4.7,2.8,7.4,6,10.4,10.7c3.9,5.9,6.2,12,8.1,17.9l6.2-5.5v-10.4
 		l9.3-8.7l-6.7-6.5l-0.2-0.1l-3.3,2.4H654.5L654.5,320.6z"/>
-	<polygon id="bamberg" class="st10" points="707.5,305.9 696.5,298.3 687.9,294.7 679.2,291.9 679.2,312.2 680.6,313.5 683.8,315.9 
+	<polygon id="bamberg" class="st10" points="707.5,305.9 696.5,298.3 687.9,294.7 679.2,291.9 679.2,312.2 680.6,313.5 683.8,315.9
 		690.7,322.6 699.8,314 	"/>
 	<path id="hampton" class="st10" d="M682.3,345.4l-8.5,7.5c0.4,1.5,0.9,3,1.2,4.5c0.5,1.9,1,3.7,1.5,5.6c1.7-0.2,3.5-0.4,5.3,0.1
 		c1.1,0.2,1.9,0.7,2.7,1.1l0,0l8.6-9.7l4.4-5.9h7.4l2.6,6.9l3.5,0.6l1.2-2.1v-2.7l2-1.2l-23.7-23l-8.3,7.7L682.3,345.4L682.3,345.4z
@@ -145,7 +148,7 @@
 	<path id="berkeley" class="st10" d="M791.5,281.9l-5.1-0.1l-7.2-2.4l-0.3-0.3c-1.4-1.5-3.2-3.3-3.7-3.6c-0.2-0.1-1-0.3-5.8-4.8
 		l-9.7-2.3l-1.1,3.2l-7.7,4.6l-2,4.6l-4.3,12.8l7.4,5.1l-2.3,3.5l6.3,4.9l15.3,8.7l9.9,8l1.5,2.8l3.4-4.2c2.4-4.5,5-9.9,5.4-11.4
 		c-0.2-0.7-0.1-2.3,1.4-6.1c0.9-2.3,2.2-5.2,3.5-6.2c0.9-0.7,6.2-6.7,11.2-12.6l-0.4-0.2L791.5,281.9z"/>
-	<path id="charlteston" class="st10" d="M810.6,287.8c-3,3.5-10.6,12.5-12.2,13.7c-1.1,0.9-3.5,7-3.6,8.7c0.4,0.9-0.1,3.1-5.8,13.9
+	<path id="charleston" class="st10" d="M810.6,287.8c-3,3.5-10.6,12.5-12.2,13.7c-1.1,0.9-3.5,7-3.6,8.7c0.4,0.9-0.1,3.1-5.8,13.9
 		l-0.2,0.2l-6.6,8.3l-3.6-6.7l-9.3-7.5l-1.9-1.1l-0.2,1.5l2.2,2.4v5.3l-3.8,6.9h-19.7V344l1.4,2.1l5.5,6.6l2,6.5l1.5,1.7l-1.2,1.1
 		c0.7-0.3,1.4-0.6,2.8-0.7c1.7-0.1,3,0.2,4.3-0.7c1.9-1.4,3.5-4.6,5.6-6.4c4.9-4.1,9.2-7.8,13-12.9c3.5-4.8,7.5-10.6,12.1-14.4
 		c4.1-3.5,7.5-5.9,9.6-10.9c2-4.7,4.7-7.2,9.6-9.6c2.8-1.4,7.1-1.8,9.1-4.3c1.7-2.2,1.9-4.8,3.3-7.2c0.1-0.2,0.2-0.4,0.4-0.6
@@ -159,7 +162,7 @@
 		c0,0.7,0.2,1.2,0.4,1.2h2l-0.4,1.9l-1,5.9l7.1,7l3.2-9.2l4.9-5.6h4.2l6.2-4.4l3-2.8l12.4-12.2l-2.3-4.5L750.4,228.7z"/>
 	<path id="chesterfield" class="st10" d="M753.1,154.2v-2.8l-26.4,2.7l-18.8,1.7l2.3,3.3l7.7,9.9v1.2h2.1l1.9,6.6
 		c7.7,7.3,8,8.3,8.1,8.8c0.1,0.6,1.1,2.6,1.9,4.3l0.3,0.2l13.9-14l9.3-2.8l4.8-2.4c-1.1-2.8-4.1-10.1-6.9-16.6L753.1,154.2z"/>
-	<polygon id="clarendon" class="st10" points="755.9,269.5 768.3,231.9 759.7,228.9 744.4,243.7 737.2,248.8 733.4,248.8 
+	<polygon id="clarendon" class="st10" points="755.9,269.5 768.3,231.9 759.7,228.9 744.4,243.7 737.2,248.8 733.4,248.8
 		729.9,252.8 726.5,262.7 728.4,264.1 728.4,268.2 731,269.4 738,276.3 744.6,276.3 748.7,273.7 	"/>
 	<path id="orangeburg" class="st10" d="M745.9,279.4l-0.3,0.2h-8.9l-7.8-7.6l-1.7-0.7l-6.6,8.3l-0.6-1.8c-1.9,0.8-5.4,1.5-7,1.8
 		l-0.6,0.1l-8.1-4.9l-5.8-2.4l-8.9-4.4l-3.7-1.8l-2.5-2.2l-8.9,5l-8.4,12.1l-1.5,2.5l24.5,8l9.2,3.9l11.7,8.1l6.7-4.8l9-6.9l7.1-5.6
@@ -173,10 +176,10 @@
 		l-5.6-1.8L822.1,240.7z"/>
 	<path id="dillon" class="st10" d="M814.7,182.5l-13.3-10.3l-8.5-4.6l-3.6-3.3l-0.2,1l-6.7,23.7c1,0.6,2.5,1.5,3.8,2.3l6.3-1.7
 		l2.7-1.4l11.4-3.8h10.8L814.7,182.5z"/>
-	<polygon id="saluda" class="st10" points="635,258.2 637.3,255.8 638.4,252.7 641.1,246.6 643.2,237.8 644.2,236.5 640.5,236.5 
-		629.5,228.4 623.7,228.4 619.7,232.1 617.3,235.8 615.2,239.7 612.6,241.7 611.8,244.9 618.3,244.9 624,255.9 628.5,255.9 
+	<polygon id="saluda" class="st10" points="635,258.2 637.3,255.8 638.4,252.7 641.1,246.6 643.2,237.8 644.2,236.5 640.5,236.5
+		629.5,228.4 623.7,228.4 619.7,232.1 617.3,235.8 615.2,239.7 612.6,241.7 611.8,244.9 618.3,244.9 624,255.9 628.5,255.9
 		632.7,258.2 	"/>
-	<polygon id="fairfield" class="st10" points="657.3,214.7 657.5,214.5 673.8,214.5 680.9,208.5 688.5,208.5 690.1,207 686.9,201.7 
+	<polygon id="fairfield" class="st10" points="657.3,214.7 657.5,214.5 673.8,214.5 680.9,208.5 688.5,208.5 690.1,207 686.9,201.7
 		683.2,194.9 683.5,191.1 683.5,186.7 646.4,189.3 646.4,195.4 648.6,198.3 652.4,204.4 656.5,211.6 	"/>
 	<path id="chester_1_" class="st10" d="M678.8,162.6l0.2-1.4c0-0.1,0-0.2,0.1-0.3l-32.9,5.7l-7.8-1.2l4.4,16.5l2.8,4.1l37.9-2.7
 		v-2.5l-2.9-17.6L678.8,162.6z"/>
@@ -188,7 +191,7 @@
 		c-0.4,1-0.9,2.3-1.9,3.6c-0.4,0.5-0.8,1.1-1.2,1.5c-0.2,0.2-0.6,0.7-0.7,0.9c0,0.3,0.1,0.9,0.1,1.3c0.1,0.6,0.1,1.2,0.1,1.6
 		c0,0.6,0,1.4,0.1,1.6c0.4,0.4,1.9,1.1,2.7,1.5c1.4,0.7,2.5,1.2,3.8,1.5c4.2,1.1,7,3.4,9.5,5.4l0.3,0.3c1.2,1.2,3.2,3.2,4.6,3.6
 		C525.4,206.1,525.7,205.9,526.6,205.2z"/>
-	<polygon id="pickens_1_" class="st10" points="553.2,158.9 542.1,158.9 537.3,161.6 531.2,161.6 526.4,164 534.5,183.1 
+	<polygon id="pickens_1_" class="st10" points="553.2,158.9 542.1,158.9 537.3,161.6 531.2,161.6 526.4,164 534.5,183.1
 		539.4,193.6 544.4,190.6 548.8,185.1 554.7,181.2 560.2,178.5 560.2,171.6 556.8,162.9 	"/>
 	<path id="greenwood" class="st10" d="M608.1,245.8l1.4-6l3-2.2l1.8-3.4l0.6-0.9l-6.2-4.4l-7.2-3.3l-7.8-4.1l-5.4-5.4l-4-3.6
 		c-0.4,1.9-0.7,3.5-0.7,3.8s0,1.2-2,3.3v1.1l2.9,2.5l1.4,2.5l6.2,9.3l-5.1,6.6l-0.9,3.8l2,5.2l2.7-2.3h15.3L608.1,245.8z"/>
@@ -209,15 +212,15 @@
 		/>
 	<path id="calhoun" class="st10" d="M691.3,265l8.8,4.4l6.1,2.5l7.1,4.3c2.5-0.5,5.3-1.2,5.9-1.5c0.6-0.4,1.2-0.6,1.8-0.6l4.3-5.4
 		v-2.4l-9.1-8.9l-0.1,0.2l-13.3-2.7l-11-4.3l-7.4-3.6v6.9h12.5l-9.3,8l-0.8,0.4l1.4,1.2L691.3,265z"/>
-	<path id="alken" class="st10" d="M669.4,266.9H656l-6.7-6.2l-4.4-7.4l-2.7-0.8l-0.6,1.4l-1.2,3.7l-3.9,3.9h-0.7v3.5l-6.1,6.1
+	<path id="aiken" class="st10" d="M669.4,266.9H656l-6.7-6.2l-4.4-7.4l-2.7-0.8l-0.6,1.4l-1.2,3.7l-3.9,3.9h-0.7v3.5l-6.1,6.1
 		l-6.2,5.6c0.4,1.1,0.7,2.7,0.1,3.8c-0.4,0.7-1,1.2-1.8,1.3c-0.5,0.2-1.8,1.7-3.3,3.5c0.2,0.1,0.4,0.2,0.6,0.4
 		c2.7,2,4.8,4.8,6.6,7.1c0.4,0.6,0.9,1.2,1.4,1.8c2,2.5,2.5,5.1,3,7.3c0.2,1.2,0.5,2.3,0.9,3.3c0.2,0.6,0.7,1,1.5,1.7
 		c0.4,0.4,0.9,0.8,1.3,1.2c1.5,1.5,3.1,2.9,4.8,4.1l7-10.2l12.2-13.7l5.9-9.2l7.4-10.7L669.4,266.9z"/>
 	<path id="lancaster_1_" class="st10" d="M707.3,161l-3.4-4.9l-19.4,1.8c-1.2-3.4-2.4-6.7-3.5-10.1l-1.5-1.3l-0.2,4.4
 		c1.1,2.4,2.3,4.7,3.4,7.1c-0.1,0.7-0.1,1.5-0.2,2.3l1.1,0.4l3.3,19.9v8.8h0.1l8-9.6l4.1,6.2h3.2l5.8-3.8l-1.4-2l0.4-3.3l2.5-2.8
 		h4.7v-4L707.3,161z"/>
-	<polygon id="lexington" class="st10" points="673,266.1 685.6,259 687.7,257.2 680.9,257.2 680.9,241.2 678.3,236.1 668.2,230.5 
-		664.7,228.9 657.8,225.5 655.2,223.8 650.2,232.4 648.5,235.6 647.8,237.4 646.3,239.3 644.3,247.8 643.5,249.5 646.9,250.5 
+	<polygon id="lexington" class="st10" points="673,266.1 685.6,259 687.7,257.2 680.9,257.2 680.9,241.2 678.3,236.1 668.2,230.5
+		664.7,228.9 657.8,225.5 655.2,223.8 650.2,232.4 648.5,235.6 647.8,237.4 646.3,239.3 644.3,247.8 643.5,249.5 646.9,250.5
 		652,258.8 657.3,263.5 671,263.5 	"/>
 </g>
 <g id="balls">
@@ -234,10 +237,10 @@
 	<circle id="lancaster_circle" class="st0" cx="696.8" cy="168.9" r="8.4"/>
 	<circle id="kershaw_circle" class="st0" cx="707.5" cy="201.8" r="8.4"/>
 	<circle id="sumter_circle" class="st0" cx="725.6" cy="235.4" r="8.4"/>
-	<circle id="berkeley_circle_1_" class="st0" cx="747.4" cy="257.3" r="8.4"/>
+	<circle id="clarendon_circle" class="st0" cx="747.4" cy="257.3" r="8.4"/>
 	<circle id="berkeley_circle" class="st0" cx="771.4" cy="295.6" r="8.4"/>
-	<circle id="dorchesten_circle" class="st0" cx="745.9" cy="311" r="8.4"/>
-	<circle id="charlteston_circle" class="st0" cx="766" cy="342.2" r="8.4"/>
+	<circle id="dorchester_circle" class="st0" cx="745.9" cy="311" r="8.4"/>
+	<circle id="charleston_circle" class="st0" cx="766" cy="342.2" r="8.4"/>
 	<circle id="colleton_circle" class="st0" cx="723.3" cy="332.2" r="8.4"/>
 	<circle id="beaufort_circle" class="st0" cx="734" cy="378" r="8.4"/>
 	<circle id="jasper_circle" class="st0" cx="705.3" cy="369.8" r="8.4"/>
@@ -249,7 +252,7 @@
 	<circle id="calhoun_circle" class="st0" cx="707.5" cy="264" r="8.4"/>
 	<circle id="richland_circle" class="st0" cx="690.1" cy="230.3" r="8.4"/>
 	<circle id="lexington_circle" class="st0" cx="664.6" cy="245.9" r="8.4"/>
-	<circle id="alken_circle" class="st0" cx="643.1" cy="278.6" r="8.4"/>
+	<circle id="aiken_circle" class="st0" cx="643.1" cy="278.6" r="8.4"/>
 	<circle id="edgefield_circle" class="st0" cx="612.3" cy="265.6" r="8.4"/>
 	<circle id="saluda_circle" class="st0" cx="630.4" cy="242.4" r="8.4"/>
 	<circle id="fairfield_circle" class="st0" cx="668.3" cy="199.9" r="8.4"/>
@@ -271,7 +274,7 @@
 	<text id="marion_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 795.9372 205.4556)" class="st11 st8 st12">10</text>
 	<text id="horry_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 832.7872 219.8518)" class="st11 st8 st12">10</text>
 	<text id="georgetown_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 813.4372 265.8037)" class="st11 st8 st12">10</text>
-	<text id="williamsburg__numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 780.5373 257.4038)" class="st11 st8 st12">10</text>
+	<text id="williamsburg_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 780.5373 257.4038)" class="st11 st8 st12">10</text>
 	<text id="florence_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 772.1373 217.1018)" class="st11 st8 st12">10</text>
 	<text id="darlington_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 750.6372 191.2519)" class="st11 st8 st12">10</text>
 	<text id="marlboro_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 770.4372 167.2519)" class="st11 st8 st12">10</text>
@@ -280,10 +283,10 @@
 	<text id="lancaster_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 692.837 170.7305)" class="st11 st8 st12">10</text>
 	<text id="kershaw_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 703.5372 203.6037)" class="st11 st8 st12">10</text>
 	<text id="sumter_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 721.6871 237.2519)" class="st11 st8 st12">10</text>
-	<text id="berkeley_numbers_1_" transform="matrix(1 2.629991e-03 -2.629991e-03 1 743.4371 259.1018)" class="st11 st8 st12">10</text>
+	<text id="clarendon_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 743.4371 259.1018)" class="st11 st8 st12">10</text>
 	<text id="berkeley_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 767.3872 297.4028)" class="st11 st8 st12">10</text>
-	<text id="dorchesten_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 741.9372 312.8518)" class="st11 st8 st12">10</text>
-	<text id="charlteston_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 762.0372 344.0518)" class="st11 st8 st12">10</text>
+	<text id="dorchester_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 741.9372 312.8518)" class="st11 st8 st12">10</text>
+	<text id="charleston_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 762.0372 344.0518)" class="st11 st8 st12">10</text>
 	<text id="colleton_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 719.3372 334.0037)" class="st11 st8 st12">10</text>
 	<text id="beaufort_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 730.0872 379.9019)" class="st11 st8 st12">10</text>
 	<text id="jasper_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 701.2872 371.6819)" class="st11 st8 st12">10</text>
@@ -295,7 +298,7 @@
 	<text id="calhoun_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 703.5372 265.8518)" class="st11 st8 st12">10</text>
 	<text id="richland_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 686.1371 232.1518)" class="st11 st8 st12">10</text>
 	<text id="lexington_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 660.6372 247.7519)" class="st11 st8 st12">10</text>
-	<text id="alken_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 639.1371 280.4124)" class="st11 st8 st12">10</text>
+	<text id="aiken_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 639.1371 280.4124)" class="st11 st8 st12">10</text>
 	<text id="edgefield_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 608.3372 267.4519)" class="st11 st8 st12">10</text>
 	<text id="saluda_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 626.4744 244.2519)" class="st11 st8 st12">10</text>
 	<text id="fairfield_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 664.2872 201.7517)" class="st11 st8 st12">10</text>

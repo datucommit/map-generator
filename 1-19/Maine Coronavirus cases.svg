@@ -24,16 +24,28 @@
 </style>
 <g id="TYPES">
 	<g>
-	<circle id="_x31_" class="st0" cx="533.4" cy="-58.6" r="8.4"/>
-	<text id="_x31__numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 526.4372 -54.7481)" class="st13 st8" style="font-size:11px;">10</text>
-	</g><g><circle id="_x32_" class="st0" cx="610.5" cy="-56.9" r="10.1"/>
-	<text id="_x32__numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 603.887 -53.2908)" class="st13 st8" style="font-size:12px;">60</text>
-	</g><g><circle id="_x33_" class="st0" cx="692.2" cy="-59.6" r="13.9"/>
-	<text id="_x33__numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 681.2004 -55.4739)" class="st13 st8" style="font-size:13px;">100</text>
-	</g><g><circle id="_x34_" class="st0" cx="786.7" cy="-59.6" r="18.4"/>
-	<text id="_x34__numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 774.0338 -54.9456)" class="st13 st8 st6">500</text>
-	</g><g><circle id="_x35_" class="st0" cx="888.3" cy="-58.6" r="25"/>
-	<text id="_x35__numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 868.4979 -52.3987)" class="st13 st8" style="font-size:17px;">1500</text>
+		<circle id="_x31_" class="st0" cx="533.4" cy="-58.6" r="8.4"/>
+		
+			<text id="_x31__numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 530.4372 -54.7481)" class="st13 st8" style="font-size:11px;">1</text>
+	</g>
+	<g>
+		<circle id="_x32_" class="st0" cx="610.5" cy="-56.9" r="10.1"/>
+		
+			<text id="_x32__numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 602.887 -53.2908)" class="st13 st8" style="font-size:12px;">10</text>
+	</g>
+	<g>
+		<circle id="_x33_" class="st0" cx="692.2" cy="-59.6" r="13.9"/>
+		
+			<text id="_x33__numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 681.2004 -55.4739)" class="st13 st8" style="font-size:13px;">100</text>
+	</g>
+	<g>
+		<circle id="_x34_" class="st0" cx="788" cy="-60.9" r="19.7"/>
+		
+			<text id="_x34__numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 771.0338 -54.9456)" class="st13 st8" style="font-size:13px;">1,000</text>
+	</g>
+	<g>
+		<circle id="_x35_" class="st0" cx="888.3" cy="-58.6" r="25"/>
+		<text id="_x35__numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 866.4979 -52.3987)" class="st13 st8 st9">15,000</text>
 	</g>
 </g>
 <g id="Texts">
@@ -46,7 +58,7 @@
 		v39.9H445.1V566.3z M579.8,521.4H913v84.8H579.8V521.4z"/>
 	<text id="title" transform="matrix(1 0 0 1 32.8483 35.8372)" class="st3 st4 st5">COVID-19 in Maine on</text>
 	<text id="date" transform="matrix(1 0 0 1 220.4693 35.8372)" class="st3 st4 st5">April 27th, 2020</text>
-	<text id="confirmed"  transform="matrix(1 0 0 1 125.4952 138.6914)" class="st3 st4 st6">State Confirmed Cases By County</text>
+	<text id="confirmed" transform="matrix(1 0 0 1 125.4952 138.6914)" class="st3 st4 st6">State Confirmed Cases By County</text>
 	<text transform="matrix(1 0 0 1 125.4953 178.3569)" class="st7 st8 st9">Androscoggin  15</text>
 	<text transform="matrix(1 0 0 1 125.4951 204.5725)" class="st7 st8 st9">Aroostook  13</text>
 	<text transform="matrix(1 0 0 1 125.4951 230.7881)" class="st7 st8 st9">Cumberland  9</text>

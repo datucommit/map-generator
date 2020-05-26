@@ -46,7 +46,7 @@
 	<text transform="matrix(1 0 0 1 83.9387 374.3213)" class="st6 st7 st8">Carroll  4</text>
 	<text transform="matrix(1 0 0 1 83.9387 400.5377)" class="st6 st7 st8">Cecil  3</text>
 	<text transform="matrix(1 0 0 1 173.4527 400.5377)" class="st6 st7 st8 st10"> </text>
-	<text id="Yuma_53_x09__1_" transform="matrix(1 0 0 1 233.6728 217.0293)" class="st6 st7 st8">Charles  9</text>
+	<text transform="matrix(1 0 0 1 233.6728 217.0293)" class="st6 st7 st8">Charles  9</text>
 	<text transform="matrix(1 0 0 1 233.6728 243.2446)" class="st6 st7 st8">Dorchester  549</text>
 	<text transform="matrix(1 0 0 1 233.6725 269.4597)" class="st6 st7 st8">Frederick  448</text>
 	<text transform="matrix(1 0 0 1 233.6727 295.6743)" class="st6 st7 st8">Garrett  263</text>
@@ -54,9 +54,9 @@
 	<text transform="matrix(1 0 0 1 233.6727 348.1055)" class="st6 st7 st8">Howard  11</text>
 	<text transform="matrix(1 0 0 1 233.6727 374.3208)" class="st6 st7 st8">Kent  18</text>
 	<text transform="matrix(1 0 0 1 233.6727 400.5377)" class="st6 st7 st8">Montgomery  11</text>
-	<text id="Yuma_53_x09__2_" transform="matrix(1 0 0 1 387.5759 217.0293)" class="st6 st7 st8">Prince George&apos;s  9</text>
+	<text transform="matrix(1 0 0 1 387.5759 217.0293)" class="st6 st7 st8">Prince George&apos;s  9</text>
 	<text transform="matrix(1 0 0 1 387.5759 243.2444)" class="st6 st7 st8">Queen Anne&apos;s  549</text>
-	<text transform="matrix(1 0 0 1 387.5757 269.4595)" class="st6 st7 st8">St. Mary&apos;s  448</text>
+	<text transform="matrix(1 0 0 1 387.5757 269.4595)" class="st6 st7 st8">st Mary&apos;s  448</text>
 	<text transform="matrix(1 0 0 1 387.5758 295.6743)" class="st6 st7 st8">Somerset  263</text>
 	<text transform="matrix(1 0 0 1 387.5758 321.8899)" class="st6 st7 st8">Talbot  18</text>
 	<text transform="matrix(1 0 0 1 387.5758 348.105)" class="st6 st7 st8">Washington  11</text>
@@ -86,7 +86,7 @@
 	<path id="anne_arundel" class="st11" d="M735.8,238.3c3-8.5,10.8-15.5,7.9-25.5c-1.3-4.2-6.6-6.5-6.4-10.8l-1.7,1.7l-7.7-7.7
 		l0.9-3.1l-5.5-1.2l-0.7,2.2l-7.3,4.2l-9.3,7.1l-2.5,2.6l9.9,19.8l-1.8,6l-0.4,16.2l-1.5,4.8l5.8-0.9l10.3,6
 		c-0.2-3.8-0.2-5.9,2.8-9.8C731.8,245.5,733.9,243.6,735.8,238.3z"/>
-	<path id="baltimore" class="st11" d="M714.5,127.2l-2.4,7.9l-6,2.8l-7.9,26.2l4.7,1.4l-2.8,9.2l1.4,1.9l3,0.9l0.5,0.8
+	<path id="baltimore_county" class="st11" d="M714.5,127.2l-2.4,7.9l-6,2.8l-7.9,26.2l4.7,1.4l-2.8,9.2l1.4,1.9l3,0.9l0.5,0.8
 		c2,3.6,4.8,7.9,5.8,9c0.3,0.1,0.7,0.3,1.1,0.4c0.3,0.1,0.7,0.3,1.1,0.4c0.2-0.8,0.6-1.7,0.9-2.3l-0.7-7.6l2.7-9l23.1,7l-5.5,18.3
 		l4.6,4.6c1.8-2.8,5.9-3.6,8.1-6c3.3-3.5,2.8-8.9,5.6-12.4c1.4-1.7,2.7-2.3,4.2-2.4l-10.1-19.7l-10.2-3.1l-5.8-15.5l3.4-11.4
 		L714.5,127.2z"/>
@@ -105,7 +105,7 @@
 	<path id="kent" class="st11" d="M806.9,180.9l-6,1.3l-19-5.7l0.7-2.5c-2,1.2-4.5,2-5.9,3.7c-3,3.6-4.1,7-7.6,10.1
 		c-3.9,3.3-5.1,5.4-7.3,10.1c-1.6,3.4-4.2,7.3-1.4,11.6c2.5,3.7,5.1,4.1,6.5,6l-1.3-1.7l3.7-2.5l8.6-8.4l6.4-3.4
 		c9.6-6.3,11.8-6.4,12.9-5.6c1.3,0.1,5.4-0.2,9.9-0.6l0.2-12.3L806.9,180.9z"/>
-	<path id="st._mary_x27_s" class="st11" d="M735.2,320.4l-0.5,2.5l-8.5-2L712.6,302l-4.6-5.3l-8.9-2.2l-2.6,2.1l-7.3,7.8l-1,3.4
+	<path id="st_mary_x27_s" class="st11" d="M735.2,320.4l-0.5,2.5l-8.5-2L712.6,302l-4.6-5.3l-8.9-2.2l-2.6,2.1l-7.3,7.8l-1,3.4
 		l0.9,2.9l2.2,12.4l-2.5,0.5c6.8,2.6,12.6,5.9,19,9c8.3,3.8,14.4,12,23.8,7.1c5.7-2.9,5.5-5.9,4.6-11.5
 		C736,325.2,735.3,323.3,735.2,320.4z"/>
 	<path id="queen_anne_x27_s" class="st11" d="M805.6,222.4l0.5-0.3l0.3-0.2l0.4-23.4c-7.1,0.5-9.9,0.6-11.2,0.3
@@ -130,7 +130,7 @@
 	<ellipse id="somerset_circle" class="st12" cx="808.9" cy="351.9" rx="9" ry="9"/>
 	<ellipse id="wicomico_circle" class="st12" cx="817.1" cy="319.6" rx="9" ry="9"/>
 	<ellipse id="dorchester_circle" class="st12" cx="774.2" cy="301.1" rx="9" ry="9"/>
-	<ellipse id="st._mary_x27_s_circle" class="st12" cx="709.5" cy="317.8" rx="9" ry="9"/>
+	<ellipse id="st_mary_x27_s_circle" class="st12" cx="709.5" cy="317.8" rx="9" ry="9"/>
 	<ellipse id="charles_circle" class="st12" cx="676.8" cy="290.2" rx="9" ry="9"/>
 	<ellipse id="calvert_circle" class="st12" cx="719.7" cy="284.2" rx="9" ry="9"/>
 	<ellipse id="prince_george_x27_s_circle" class="st12" cx="697.5" cy="242.8" rx="9" ry="9"/>
@@ -142,7 +142,7 @@
 	<ellipse id="kent_circle" class="st12" cx="781.5" cy="191.5" rx="9" ry="9"/>
 	<ellipse id="cecil_circle" class="st12" cx="795.4" cy="153.5" rx="9" ry="9"/>
 	<ellipse id="harford_circle" class="st12" cx="759.2" cy="148.5" rx="9" ry="9"/>
-	<ellipse id="baltimore_circle" class="st12" cx="721" cy="156.8" rx="9" ry="9"/>
+	<ellipse id="baltimore_county_circle" class="st12" cx="721" cy="156.8" rx="9" ry="9"/>
 	<ellipse id="howard_circle" class="st12" cx="690.6" cy="187.5" rx="9" ry="9"/>
 	<ellipse id="montgomery_circle" class="st12" cx="661.3" cy="196.8" rx="9" ry="9"/>
 	<ellipse id="carroll_circle" class="st12" cx="685.9" cy="142.2" rx="9" ry="9"/>
@@ -154,7 +154,7 @@
 	<text id="somerset_numbers" transform="matrix(0.9566 0.2913 -0.2913 0.9566 804.2128 352.5178)" class="st13 st7 st14">10</text>
 	<text id="wicomico_numbers" transform="matrix(0.9566 0.2913 -0.2913 0.9566 812.4885 320.1896)" class="st13 st7 st14">10</text>
 	<text id="dorchester_numbers" transform="matrix(0.9566 0.2913 -0.2913 0.9566 769.5305 301.735)" class="st13 st7 st14">10</text>
-	<text id="st._mary_x27_s_numbers" transform="matrix(0.9566 0.2913 -0.2913 0.9566 704.7978 318.5004)" class="st13 st7 st14">10</text>
+	<text id="st_mary_x27_s_numbers" transform="matrix(0.9566 0.2913 -0.2913 0.9566 704.7978 318.5004)" class="st13 st7 st14">10</text>
 	<text id="charles_numbers" transform="matrix(0.9566 0.2913 -0.2913 0.9566 672.0041 290.8674)" class="st13 st7 st14">10</text>
 	<text id="calvert_numbers" transform="matrix(0.9566 0.2913 -0.2913 0.9566 715.0842 284.852)" class="st13 st7 st14">10</text>
 	
@@ -167,7 +167,7 @@
 	<text id="kent_numbers" transform="matrix(0.9566 0.2913 -0.2913 0.9566 776.8981 192.208)" class="st13 st7 st14">10</text>
 	<text id="cecil_numbers" transform="matrix(0.9566 0.2913 -0.2913 0.9566 790.6789 154.0844)" class="st13 st7 st14">10</text>
 	<text id="harford_numbers" transform="matrix(0.9566 0.2913 -0.2913 0.9566 754.4072 149.1345)" class="st13 st7 st14">10</text>
-	<text id="baltimore_numbers" transform="matrix(0.9566 0.2913 -0.2913 0.9566 716.2778 157.4499)" class="st13 st7 st14">10</text>
+	<text id="baltimore_county_numbers" transform="matrix(0.9566 0.2913 -0.2913 0.9566 716.2778 157.4499)" class="st13 st7 st14">10</text>
 	<text id="howard_numbers" transform="matrix(0.9566 0.2913 -0.2913 0.9566 686.0475 188.1611)" class="st13 st7 st14">10</text>
 	<text id="montgomery_numbers" transform="matrix(0.9566 0.2913 -0.2913 0.9566 656.6132 197.517)" class="st13 st7 st14">10</text>
 	<text id="carroll_numbers" transform="matrix(0.9566 0.2913 -0.2913 0.9566 681.1725 142.8288)" class="st13 st7 st14">10</text>

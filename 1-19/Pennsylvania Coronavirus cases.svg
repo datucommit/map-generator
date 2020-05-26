@@ -19,7 +19,6 @@
 	.st13{fill:#4C4B4C;}
 	.st14{fill:#DB3029;}
 	.st15{font-size:36px;}
-	.st16{fill:none;}
 </style>
 <g id="Texts">
 	<polygon id="blue_bg" class="st0" points="0,612.7 0,649.7 0,659.3 0,748.1 173.5,748.1 173.5,659.3 915,659.3 915,612.7 	"/>
@@ -32,16 +31,16 @@
 	<text id="title" transform="matrix(1 0 0 1 32.8483 35.8372)" class="st2 st3 st4">COVID-19 in Pennsylvania on</text>
 	<text id="date" transform="matrix(1 0 0 1 276.4693 35.8372)" class="st2 st3 st4">April 27th, 2020</text>
 	<text id="confirmed" transform="matrix(1 0 0 1 39.0952 108.0669)" class="st2 st3 st5">State Confirmed Cases By County</text>
-	<text transform="matrix(1 0 0 1 39.1168 163.1759)" class="st6 st7 st8">Allegheny  10</text>
-	<text transform="matrix(1 0 0 1 39.1168 182.9896)" class="st6 st7 st8">Armstrong  10</text>
+	<text transform="matrix(1 0 0 1 39.1165 143.3618)" class="st6 st7 st8">Adams  10</text>
+	<text transform="matrix(1 0 0 1 39.1168 163.1758)" class="st6 st7 st8">Allegheny  10</text>
+	<text transform="matrix(1 0 0 1 39.1168 182.9895)" class="st6 st7 st8">Armstrong  10</text>
 	<text transform="matrix(1 0 0 1 39.0953 202.803)" class="st6 st7 st8">Beaver  10</text>
-	<text transform="matrix(1 0 0 1 39.0953 222.6171)" class="st6 st7 st8">Bedford  10</text>
+	<text transform="matrix(1 0 0 1 39.0953 222.6172)" class="st6 st7 st8">Bedford  10</text>
 	<text transform="matrix(1 0 0 1 39.0953 242.4309)" class="st6 st7 st8">Berks  10</text>
 	<text transform="matrix(1 0 0 1 39.0953 262.2446)" class="st6 st7 st8">Blair  10</text>
-	<text transform="matrix(1 0 0 1 39.0953 282.0585)" class="st6 st7 st8">Bradford  10</text>
-	<text transform="matrix(1 0 0 1 39.1165 143.3618)" class="st6 st7 st8">Adams  10</text>
-	<text transform="matrix(1 0 0 1 39.0953 321.6862)" class="st6 st7 st8">Butler  10</text>
-	<text transform="matrix(1 0 0 1 39.095 341.4996)" class="st6 st7 st8">Cambria  10</text>
+	<text transform="matrix(1 0 0 1 39.0953 282.0586)" class="st6 st7 st8">Bradford  10</text>
+	<text transform="matrix(1 0 0 1 39.0953 321.6863)" class="st6 st7 st8">Butler  10</text>
+	<text transform="matrix(1 0 0 1 39.095 341.4995)" class="st6 st7 st8">Cambria  10</text>
 	<text transform="matrix(1 0 0 1 39.095 301.8723)" class="st6 st7 st8">Bucks  10</text>
 	<text transform="matrix(1 0 0 1 39.095 361.3137)" class="st6 st7 st8">Cameron  10</text>
 	<text transform="matrix(1 0 0 1 39.1168 381.1274)" class="st6 st7 st8">Carbon  10</text>
@@ -55,44 +54,44 @@
 	<text transform="matrix(1 0 0 1 39.1171 559.4521)" class="st6 st7 st8">Dauphin  10</text>
 	<text transform="matrix(1 0 0 1 39.1172 579.2659)" class="st6 st7 st8">Delaware  10</text>
 	<text transform="matrix(1 0 0 1 181.0336 143.3618)" class="st6 st7 st8">Elk  10</text>
-	<text transform="matrix(1 0 0 1 181.0335 163.1754)" class="st6 st7 st8">Erie  10</text>
+	<text transform="matrix(1 0 0 1 181.0335 163.1753)" class="st6 st7 st8">Erie  10</text>
 	<text transform="matrix(1 0 0 1 39.1168 519.8242)" class="st6 st7 st8">Crawford  10</text>
-	<text transform="matrix(1 0 0 1 181.0337 182.9896)" class="st6 st7 st8">Fayette  10</text>
+	<text transform="matrix(1 0 0 1 181.0337 182.9895)" class="st6 st7 st8">Fayette  10</text>
 	<text transform="matrix(1 0 0 1 181.0339 202.8032)" class="st6 st7 st8">Forest  10</text>
-	<text transform="matrix(1 0 0 1 181.0339 222.6168)" class="st6 st7 st8">Franklin  10</text>
+	<text transform="matrix(1 0 0 1 181.0339 222.6167)" class="st6 st7 st8">Franklin  10</text>
 	<text transform="matrix(1 0 0 1 181.0339 242.4309)" class="st6 st7 st8">Fulton  10</text>
 	<text transform="matrix(1 0 0 1 181.0339 262.2449)" class="st6 st7 st8">Greene  10</text>
-	<text transform="matrix(1 0 0 1 181.0339 282.0585)" class="st6 st7 st8">Huntingdon  10</text>
+	<text transform="matrix(1 0 0 1 181.0339 282.0586)" class="st6 st7 st8">Huntingdon  10</text>
 	<text transform="matrix(1 0 0 1 181.0339 301.8726)" class="st6 st7 st8">Indiana  10</text>
-	<text transform="matrix(1 0 0 1 181.0339 321.6859)" class="st6 st7 st8">Jefferson  10</text>
-	<text transform="matrix(1 0 0 1 181.0339 341.4999)" class="st6 st7 st8">Juniata  10</text>
+	<text transform="matrix(1 0 0 1 181.0339 321.686)" class="st6 st7 st8">Jefferson  10</text>
+	<text transform="matrix(1 0 0 1 181.0339 341.5)" class="st6 st7 st8">Juniata  10</text>
 	<text transform="matrix(1 0 0 1 181.0339 361.3135)" class="st6 st7 st8">Lackawanna  10</text>
 	<text transform="matrix(1 0 0 1 181.0339 400.9413)" class="st6 st7 st8">Lawrence  10</text>
 	<text transform="matrix(1 0 0 1 181.0339 420.7551)" class="st6 st7 st8">Lebanon  10</text>
 	<text transform="matrix(1 0 0 1 181.0336 440.569)" class="st6 st7 st8">Lehigh  10</text>
-	<text transform="matrix(1 0 0 1 181.0335 381.1273)" class="st6 st7 st8">Lancaster  10</text>
+	<text transform="matrix(1 0 0 1 181.0335 381.1272)" class="st6 st7 st8">Lancaster  10</text>
 	<text transform="matrix(1 0 0 1 181.0339 460.3826)" class="st6 st7 st8">Luzerne  10</text>
 	<text transform="matrix(1 0 0 1 181.0335 480.1968)" class="st6 st7 st8">Lycoming  10</text>
 	<text transform="matrix(1 0 0 1 181.0335 519.8242)" class="st6 st7 st8">Mercer  10</text>
-	<text transform="matrix(1 0 0 1 181.0339 539.6381)" class="st6 st7 st8">Mifflin  10</text>
+	<text transform="matrix(1 0 0 1 181.0339 539.6382)" class="st6 st7 st8">Mifflin  10</text>
 	<text transform="matrix(1 0 0 1 181.0335 559.4521)" class="st6 st7 st8">Monroe  10</text>
 	<text transform="matrix(1 0 0 1 181.0339 579.2659)" class="st6 st7 st8">Montgomery  10</text>
 	<text transform="matrix(1 0 0 1 321.063 143.3618)" class="st6 st7 st8">Montour  10</text>
 	<text transform="matrix(1 0 0 1 181.0339 500.0106)" class="st6 st7 st8">McKean  10</text>
 	<text transform="matrix(1 0 0 1 321.0632 163.1758)" class="st6 st7 st8">Northampton  10</text>
-	<text transform="matrix(1 0 0 1 321.0632 182.9896)" class="st6 st7 st8">Northumberland  10</text>
-	<text transform="matrix(1 0 0 1 321.0632 202.8036)" class="st6 st7 st8">Perry  10</text>
-	<text transform="matrix(1 0 0 1 321.0628 222.6173)" class="st6 st7 st8">Philadelphia  10</text>
-	<text transform="matrix(1 0 0 1 321.063 242.431)" class="st6 st7 st8">Pike  10</text>
+	<text transform="matrix(1 0 0 1 321.0632 182.9895)" class="st6 st7 st8">Northumberland  10</text>
+	<text transform="matrix(1 0 0 1 321.0632 202.8037)" class="st6 st7 st8">Perry  10</text>
+	<text transform="matrix(1 0 0 1 321.0628 222.6172)" class="st6 st7 st8">Philadelphia  10</text>
+	<text transform="matrix(1 0 0 1 321.063 242.4309)" class="st6 st7 st8">Pike  10</text>
 	<text transform="matrix(1 0 0 1 321.0629 262.2449)" class="st6 st7 st8">Potter  10</text>
 	<text transform="matrix(1 0 0 1 321.0629 282.0588)" class="st6 st7 st8">Schuylkill  10</text>
 	<text transform="matrix(1 0 0 1 321.0628 301.8728)" class="st6 st7 st8">Snyder  10</text>
-	<text transform="matrix(1 0 0 1 321.0628 321.6864)" class="st6 st7 st8">Somerset  10</text>
+	<text transform="matrix(1 0 0 1 321.0628 321.6865)" class="st6 st7 st8">Somerset  10</text>
 	<text transform="matrix(1 0 0 1 321.0628 341.5002)" class="st6 st7 st8">Sullivan  10</text>
-	<text transform="matrix(1 0 0 1 321.0628 381.1283)" class="st6 st7 st8">Tioga  10</text>
+	<text transform="matrix(1 0 0 1 321.0628 381.1284)" class="st6 st7 st8">Tioga  10</text>
 	<text transform="matrix(1 0 0 1 321.0628 400.9417)" class="st6 st7 st8">Union  10</text>
-	<text transform="matrix(1 0 0 1 321.0628 420.7552)" class="st6 st7 st8">Venango  10</text>
-	<text transform="matrix(1 0 0 1 321.0628 361.3141)" class="st6 st7 st8">Susquehanna  10</text>
+	<text transform="matrix(1 0 0 1 321.0628 420.7551)" class="st6 st7 st8">Venango  10</text>
+	<text transform="matrix(1 0 0 1 321.0628 361.314)" class="st6 st7 st8">Susquehanna  10</text>
 	<text transform="matrix(1 0 0 1 321.0628 440.5698)" class="st6 st7 st8">Warren  10</text>
 	<text transform="matrix(1 0 0 1 321.0628 460.3835)" class="st6 st7 st8">Washington  10</text>
 	<text transform="matrix(1 0 0 1 321.0628 480.1975)" class="st6 st7 st8">Wayne  10</text>
@@ -320,13 +319,13 @@
 	<circle id="washington_circle" class="st10" cx="529.4" cy="433.2" r="8.4"/>
 	<circle id="allegheny_circle" class="st10" cx="537.8" cy="402.3" r="8.4"/>
 	
-		<ellipse id="beaver_circle" transform="matrix(0.3162 -0.9487 0.9487 0.3162 -12.649 751.651)" class="st10" cx="515.1" cy="384.6" rx="8.4" ry="8.4"/>
+		<ellipse id="beaver_circle" transform="matrix(0.6756 -0.7373 0.7373 0.6756 -116.4478 504.5151)" class="st10" cx="515.1" cy="384.6" rx="8.4" ry="8.4"/>
 	<circle id="lawrence_circle" class="st10" cx="509.4" cy="359.4" r="8.4"/>
 	<circle id="mercer_circle" class="st10" cx="509.4" cy="330.6" r="8.4"/>
 	
-		<ellipse id="crawford_circle" transform="matrix(0.3162 -0.9487 0.9487 0.3162 71.3099 691.1364)" class="st10" cx="515.1" cy="296.1" rx="8.4" ry="8.4"/>
+		<ellipse id="crawford_circle" transform="matrix(0.6756 -0.7373 0.7373 0.6756 -51.2019 475.8064)" class="st10" cx="515.1" cy="296.1" rx="8.4" ry="8.4"/>
 	
-		<ellipse id="erie_circle" transform="matrix(0.3162 -0.9487 0.9487 0.3162 95.7509 671.6461)" class="st10" cx="513.8" cy="269.4" rx="8.4" ry="8.4"/>
+		<ellipse id="erie_circle" transform="matrix(0.6756 -0.7373 0.7373 0.6756 -31.9392 466.1866)" class="st10" cx="513.8" cy="269.4" rx="8.4" ry="8.4"/>
 	<text id="pike_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 842.9744 263.4519)" class="st11 st7 st12">10</text>
 	<text id="wayne_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 823.9372 242.4519)" class="st11 st7 st12">10</text>
 	<text id="susquehanna_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 786.9872 232.9018)" class="st11 st7 st12">10</text>
@@ -397,14 +396,14 @@
 </g>
 <g id="table_data">
 	<text transform="matrix(1 0 0 1 26.0954 687.1666)" class="st2 st7 st8">Confirmed Cases</text>
-	<text transform="matrix(1 0 0 1 26.0954 731.0983)" class="st2 st7 st8">Deaths</text>
+	<text transform="matrix(1 0 0 1 26.0954 731.0984)" class="st2 st7 st8">Deaths</text>
 	<text id="current_date" transform="matrix(1 0 0 1 209.6251 642.8844)" class="st2 st7 st8">6 Apr. 2020</text>
 	<text id="previous_date" transform="matrix(1 0 0 1 344.4033 642.8844)" class="st2 st7 st8">5 Apr. 2020</text>
 	<text id="growth_rate__x25_" transform="matrix(1 0 0 1 463.4716 642.8844)" class="st2 st7 st8">Growth Rate %</text>
 	<text transform="matrix(1 0 0 1 678.7466 642.8844)" class="st2 st7 st8">Total Confirmed Cases</text>
 	<text id="current_сases" transform="matrix(1 0 0 1 232.4807 690.9186)" class="st13 st7 st5">783</text>
 	<text id="previous_deaths" transform="matrix(1 0 0 1 375.1936 735.3981)" class="st13 st7 st5">14</text>
-	<text id="current_deaths" transform="matrix(1 0 0 1 236.001 734.4183)" class="st13 st7 st5">15</text>
+	<text id="current_deaths" transform="matrix(1 0 0 1 236.001 734.4182)" class="st13 st7 st5">15</text>
 	<text id="total_cases" transform="matrix(1 0 0 1 719.3683 720.0618)" class="st14 st7 st15">783</text>
 	<text id="previous_сases" transform="matrix(1 0 0 1 367.2809 690.9186)" class="st13 st7 st5">673</text>
 	<text id="cases_growth_rate" transform="matrix(1 0 0 1 497.1942 692.4548)" class="st13 st7 st5">16 %</text>
@@ -412,31 +411,24 @@
 </g>
 <g id="TYPES_1_">
 	<g>
-		<circle id="_x33__1_" class="st10" cx="780.3" cy="-54.4" r="16.6"/>
-		
-			<text id="_x33__numbers_1_" transform="matrix(1 2.629900e-03 -2.629900e-03 1 766.22 -51.4744)" class="st11 st7" style="font-size:10.3745px;">1,000</text>
+		<circle id="_x33__1_" class="st10" cx="830.3" cy="-45" r="14.8"/>
+		<text transform="matrix(1 0 0 1 817.2398 -40.8365)" class="st1 st7" style="font-size:10px;">1,000</text>
 	</g>
 	<g>
-		<circle id="_x32__1_" class="st10" cx="729.9" cy="-54.9" r="11.6"/>
-		
-			<text id="_x32__numbers_1_" transform="matrix(1 2.629882e-03 -2.629882e-03 1 719.7615 -50.6114)" class="st11 st7" style="font-size:10.3745px;">100</text>
+		<circle id="_x32__1_" class="st10" cx="792.7" cy="-44.6" r="11.2"/>
+		<text transform="matrix(1 0 0 1 784.0438 -40.8364)" class="st1 st7" style="font-size:10px;">100</text>
 	</g>
 	<g>
-		<circle id="_x31__2_" class="st10" cx="649.7" cy="-53.2" r="7.4"/>
-		
-			<text id="_x31__numbers_2_" transform="matrix(1 2.629928e-03 -2.629928e-03 1 644.3755 -49.3517)" class="st11 st7" style="font-size:8.8924px;">10</text>
+		<circle id="_x31__3_" class="st10" cx="733.5" cy="-42.8" r="4.8"/>
+		<text transform="matrix(1 0 0 1 731.4447 -40.0922)" class="st1 st7" style="font-size:8px;">9</text>
 	</g>
 	<g>
-		<circle id="_x31__1_" class="st10" cx="687.1" cy="-53.2" r="9.9"/>
-		
-			<rect x="682" y="-57.6" transform="matrix(2.629874e-03 -1 1 2.629874e-03 738.0651 634.17)" class="st16" width="9.9" height="9.3"/>
-		
-			<text id="_x31__numbers_1_" transform="matrix(1 2.629873e-03 -2.629873e-03 1 681.5018 -50.3175)" class="st11 st7" style="font-size:8.8924px;">50</text>
+		<circle id="_x31__1_" class="st10" cx="759" cy="-43" r="7.5"/>
+		<text transform="matrix(1 0 0 1 754.2629 -40.0925)" class="st1 st7" style="font-size:8px;">10</text>
 	</g>
 	<g>
-		<circle id="_x34__1_" class="st10" cx="833.8" cy="-51.8" r="20.3"/>
-		
-			<text id="_x34__numbers_1_" transform="matrix(1 2.629892e-03 -2.629892e-03 1 817.2222 -47.7134)" class="st11 st7" style="font-size:10.3745px;">25,000</text>
+		<circle id="_x34__1_" class="st10" cx="872.7" cy="-43" r="18.7"/>
+		<text transform="matrix(1 0 0 1 856.7615 -39.8365)" class="st1 st7" style="font-size:10px;">10,000</text>
 	</g>
 </g>
 </svg>

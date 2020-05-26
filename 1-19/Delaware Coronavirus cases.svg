@@ -72,24 +72,24 @@
 </g>
 <g id="types">
 	<g>
-	<circle id="" class="st15" cx="896.8" cy="-53" r="31.6"/>
-	<text id="" transform="matrix(1 0 0 1 870.5437 -47.4119)" class="st16 st7" style="font-size:21px;">5,096</text>
+		<circle class="st15" cx="896.8" cy="-53" r="31.6"/>
+		<text transform="matrix(1 0 0 1 870.5437 -47.4119)" class="st16 st7" style="font-size:21px;">5,096</text>
 	</g>
 	<g>
-	<circle id="" class="st15" cx="828.4" cy="-53" r="24.7"/>
-	<text id="" transform="matrix(1 0 0 1 808.9619 -48.9873)" class="st16 st7" style="font-size:15px;">1,996</text>
+		<circle class="st15" cx="828.4" cy="-53" r="24.7"/>
+		<text transform="matrix(1 0 0 1 808.9619 -48.9873)" class="st16 st7" style="font-size:15px;">1,996</text>
 	</g>
 	<g>
-	<circle id="" class="st15" cx="771.7" cy="-53" r="17.9"/>
-	<text id="" transform="matrix(1 0 0 1 759.0737 -48.9873)" class="st16 st7" style="font-size:15px;">500</text>
+		<circle class="st15" cx="771.7" cy="-53" r="17.9"/>
+		<text transform="matrix(1 0 0 1 759.0737 -48.9873)" class="st16 st7" style="font-size:15px;">500</text>
 	</g>
 	<g>
-	<circle id="" class="st15" cx="724.1" cy="-53" r="13.4"/>
-		<text id="" transform="matrix(1 0 0 1 717.6066 -50.0056)" class="st16 st7" style="font-size:11px;">96</text>
+		<circle class="st15" cx="724.1" cy="-53" r="13.4"/>
+		<text transform="matrix(1 0 0 1 717.6066 -49.0056)" class="st16 st7" style="font-size:12px;">10</text>
 	</g>
 	<g>
-	<circle id="" class="st15" cx="690.1" cy="-53" r="13"/>
-		<text id="" transform="matrix(1 0 0 1 685.6066 -50.0056)" class="st16 st7" style="font-size:11px;">9</text>
+		<circle class="st15" cx="690.1" cy="-53" r="13"/>
+		<text transform="matrix(1 0 0 1 686.6066 -50.0056)" class="st16 st7" style="font-size:11px;">1</text>
 	</g>
 </g>
 </svg>
