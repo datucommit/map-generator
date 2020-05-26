@@ -454,6 +454,6 @@ def do_upload():
     upload.save(file_path)
     return "File successfully saved to '{0}'.".format(save_path)
 
-if __name__ == '__main__':
-    run(host='localhost', port=6968)
-run(host='localhost', port=6968)
+# if __name__ == '__main__':
+#     run(host='localhost', port=8080)
+run(host='localhost', port=8080)
