@@ -481,4 +481,4 @@ def do_upload():
 
 # if __name__ == '__main__':
 #     run(host='localhost', port=8080)
-run(host='localhost', port=6968)
+run(host='0.0.0.0', port=6968)
