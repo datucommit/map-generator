@@ -73,8 +73,11 @@ script = """
 		//	count_elements_list[i].innerHTML = state.dates[0].counties[i].name + ' ' + state.dates[0].counties[i].confirmed + 'nb'
 		//}
 		
+		console.log(count_elements_list, 'fullcel')
+		
 		for (var i = 0; i < count_elements_list.length; i++) {
 		    if (count_elements_list[i].innerHTML.trim() == '' || count_elements_list[i].innerHTML.trim() == ' ' ) {
+		        console.log('cel', count_elements_list[i].innerHTML)
 		        continue
 		    }
 		    try {
@@ -83,6 +86,7 @@ script = """
 		        var text_count = ''
 		    }
 		    console.log(text_count, state.dates[0].counties[i], 'DARKSOULS')
+		    console.log(text_count, 'tcount')
 		    count_elements_list[i].innerHTML = text_count
 		}
 
@@ -162,7 +166,14 @@ script = """
 			}
 			try {
 				console.log(id, 'elid')
-    			document.querySelector("[id*=" + id + " i]").innerHTML = state.dates[0].counties[i].confirmed
+				var element = document.querySelector("[id=" + id + " i]")
+				if (!element) {
+				    element = document.querySelector("[id=" + id + "s i]")
+                    if (!element) {
+                        element = document.querySelector("[id*=" + id + " i]")
+                    }
+				}
+    			element.innerHTML = state.dates[0].counties[i].confirmed
 			}
 			catch (e) {}
 	
@@ -195,7 +206,10 @@ script = """
 				circleId = state.dates[0].counties[i].name.replace("'", '_x27_')  + '_circle'
 			}
 
-			var circleElement = document.querySelector("[id*=" + circleId + " i]")
+			var circleElement = document.querySelector("[id=" + circleId + " i]")
+			if (!circleElement) {
+			    circleElement = document.querySelector("[id*=" + circleId + " i]")
+			}
 			console.log(circleId)
 			var stconfirmed = parseInt(state.dates[0].counties[i].confirmed.replace(/,/g, ''), 10)
 
@@ -248,7 +262,10 @@ script = """
 			//var countyId = state.dates[0].counties[i].name.replace(' ', '_').replace("'", '_x27_') + '_1_'
 			var countyId = state.dates[0].counties[i].name.replace(/ /g, '_').replace("'", '_x27_')
 			console.log(countyId, color, size, state.dates[0].counties[i].name)
-			var county = document.querySelector("[id*=" + countyId + " i]")
+			var county = document.querySelector("[id=" + countyId + " i]")
+			if (!county) {
+			    county = document.querySelector("[id*=" + countyId + " i]")
+			}
 			county.setAttribute('style', 'fill: #' + color)
 			
             var circles = []
@@ -290,16 +307,24 @@ script = """
 			var cx = parseFloat(circleElement.getAttribute('cx'))
 			var cy = parseFloat(circleElement.getAttribute('cy'))
 			
-			var original_transform = document.querySelector("[id*=" + textId + " i]").getAttribute('transform')
+			var textElement = document.querySelector("[id=" + textId + " i]")
+			if (!textElement) {
+                textElement = document.querySelector("[id=" + textId + "s i]")
+                if (!textElement) {
+                    textElement = document.querySelector("[id*=" + textId + " i]")
+                }
+			}
+			
+			var original_transform = textElement.getAttribute('transform')
 			var otsplit = original_transform.split(' ')
 			transform = otsplit[0] + ' ' + otsplit[1] + ' ' + otsplit[2] + ' ' + otsplit[3] + ' ' + (cx + circle_sizes[size].cx) + ' ' + (cy + circle_sizes[size].cy) + ')'
 			//transform = "matrix(1 2.630000e-03 -2.630000e-03 1 " + (cx + circle_sizes[size].cx) + " " + (cy + circle_sizes[size].cy) + ")"
-			console.log('TRANSFORM', transform)
+			console.log('TRANSFORM', transform, textId, textElement, circleElement)
 			console.log(textId)
 			console.log(circleId)
-			document.querySelector("[id*=" + textId + " i]").setAttribute('transform', transform)
+			textElement.setAttribute('transform', transform)
 			console.log('tr')
-			document.querySelector("[id*=" + textId + " i]").setAttribute('style', 'font-size:' + circle_sizes[size].fontSize + ';')
+			textElement.setAttribute('style', 'font-size:' + circle_sizes[size].fontSize + ';')
 			circleElement.setAttribute('r', circle_sizes[size].r)
 		}
 	}
@@ -456,4 +481,4 @@ def do_upload():
 
 # if __name__ == '__main__':
 #     run(host='localhost', port=8080)
-run(host='0.0.0.0', port=80)
+run(host='localhost', port=6968)

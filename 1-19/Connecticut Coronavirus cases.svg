@@ -53,14 +53,16 @@
 <text id="title" transform="matrix(1 0 0 1 32.8483 35.8369)" class="st3 st4 st5">COVID-19 in Connecticut on</text>
 <text id="date" transform="matrix(1 0 0 1 267.0382 35.8369)" class="st3 st4 st5">April 27th, 2020</text>
 <text id="confirmed" transform="matrix(1 0 0 1 117.993 207.6707)" class="st3 st4 st6">State Confirmed Cases By County</text>
-<text transform="matrix(1 0 0 1 117.9931 252.4771)" class="st7 st8 st9">litchfield 53</text>
-<text transform="matrix(1 0 0 1 117.9929 280.5254)" class="st7 st8 st9">Hartford 53</text>
-<text transform="matrix(1 0 0 1 117.993 310.1843)" class="st7 st8 st9">Tolland 53</text>
-<text transform="matrix(1 0 0 1 117.9929 338.2327)" class="st7 st8 st9">Windham 53</text>
-<text transform="matrix(1 0 0 1 241.8998 253.1321)" class="st7 st8 st9">Fairfield 53</text>
-<text transform="matrix(1 0 0 1 241.8997 281.1804)" class="st7 st8 st9">New Haven 53</text>
-<text transform="matrix(1 0 0 1 241.8997 310.8394)" class="st7 st8 st9">Middlesex 53</text>
-<text transform="matrix(1 0 0 1 241.8996 338.8877)" class="st7 st8 st9">New London 53</text>
+<g id="Texts">
+	<text transform="matrix(1 0 0 1 117.9931 252.4771)" class="st7 st8 st9">litchfield 53</text>
+	<text transform="matrix(1 0 0 1 117.9929 280.5254)" class="st7 st8 st9">Hartford 53</text>
+	<text transform="matrix(1 0 0 1 117.993 310.1843)" class="st7 st8 st9">Tolland 53</text>
+	<text transform="matrix(1 0 0 1 117.9929 338.2327)" class="st7 st8 st9">Windham 53</text>
+	<text transform="matrix(1 0 0 1 241.8998 253.1321)" class="st7 st8 st9">Fairfield 53</text>
+	<text transform="matrix(1 0 0 1 241.8997 281.1804)" class="st7 st8 st9">New Haven 53</text>
+	<text transform="matrix(1 0 0 1 241.8997 310.8394)" class="st7 st8 st9">Middlesex 53</text>
+	<text transform="matrix(1 0 0 1 241.8996 338.8877)" class="st7 st8 st9">New London 53</text>
+</g>
 <circle id="New_London_circle" class="st10" cx="780.6" cy="253.5" r="29.9"/>
 <text id="New_London_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 753.6008 259.491)" class="st11 st8 st12">1000</text>
 <circle id="Middlesex_circle" class="st10" cx="710.4" cy="273.5" r="29.9"/>

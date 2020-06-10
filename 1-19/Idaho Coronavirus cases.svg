@@ -35,6 +35,7 @@
 	<text id="date" transform="matrix(1 0 0 1 217.4693 35.8372)" class="st2 st3 st4">April 27th, 2020</text>
 	<text id="confirmed" transform="matrix(1 0 0 1 32.8696 116.2927)" class="st2 st3 st5">State Confirmed Cases By County</text>
 	<g>
+		<text transform="matrix(1 0 0 1 32.8696 155.9988)" class="st6 st7 st8">Ada  10</text>
 		<text transform="matrix(1 0 0 1 32.8698 181.8894)" class="st6 st7 st8">Adams  10</text>
 		<text transform="matrix(1 0 0 1 32.8483 207.7803)" class="st6 st7 st8">Bannock 10</text>
 		<text transform="matrix(1 0 0 1 32.8483 233.6709)" class="st6 st7 st8">Bear Lake  10</text>
@@ -42,10 +43,9 @@
 		<text transform="matrix(1 0 0 1 32.8483 285.4524)" class="st6 st7 st8">Bingham  10</text>
 		<text transform="matrix(1 0 0 1 32.8483 311.3433)" class="st6 st7 st8">Blaine  10</text>
 		<text transform="matrix(1 0 0 1 32.8483 337.2344)" class="st6 st7 st8">Boise  10</text>
-		<text transform="matrix(1 0 0 1 32.8696 155.9988)" class="st6 st7 st8">Ada  10</text>
+		<text transform="matrix(1 0 0 1 32.8481 363.1245)" class="st6 st7 st8">Bonner  10</text>
 		<text transform="matrix(1 0 0 1 32.8483 389.0159)" class="st6 st7 st8">Bonneville  10</text>
 		<text transform="matrix(1 0 0 1 32.8481 414.9066)" class="st6 st7 st8">Boundary  10</text>
-		<text transform="matrix(1 0 0 1 32.8481 363.1245)" class="st6 st7 st8">Bonner  10</text>
 	</g>
 	<g>
 		<text transform="matrix(1 0 0 1 145.4051 155.9983)" class="st6 st7 st8">Butte  10</text>
@@ -53,12 +53,12 @@
 		<text transform="matrix(1 0 0 1 145.4048 207.7798)" class="st6 st7 st8">Canyon  10</text>
 		<text transform="matrix(1 0 0 1 145.4051 233.6707)" class="st6 st7 st8">Caribou  10</text>
 		<text transform="matrix(1 0 0 1 145.4048 259.5613)" class="st6 st7 st8">Cassia  10</text>
+		<text transform="matrix(1 0 0 1 145.4048 285.4521)" class="st6 st7 st8">Clark  10</text>
 		<text transform="matrix(1 0 0 1 145.405 311.3433)" class="st6 st7 st8">Clearwater  10</text>
 		<text transform="matrix(1 0 0 1 145.405 337.2339)" class="st6 st7 st8">Custer  10</text>
 		<text transform="matrix(1 0 0 1 145.405 363.125)" class="st6 st7 st8">Elmore  10</text>
 		<text transform="matrix(1 0 0 1 145.405 389.0153)" class="st6 st7 st8">Franklin  10</text>
 		<text transform="matrix(1 0 0 1 145.405 414.9069)" class="st6 st7 st8">Fremont  10</text>
-		<text transform="matrix(1 0 0 1 145.4048 285.4521)" class="st6 st7 st8">Clark  10</text>
 	</g>
 	<g>
 		<text transform="matrix(1 0 0 1 261.9614 155.9983)" class="st6 st7 st8">Gem  10</text>

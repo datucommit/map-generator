@@ -32,6 +32,7 @@
 	<text id="title" transform="matrix(1 0 0 1 32.8483 35.8372)" class="st2 st3 st4">COVID-19 in Iowa on</text>
 	<text id="date" transform="matrix(1 0 0 1 210.4693 35.8372)" class="st2 st3 st4">April 27th, 2020</text>
 	<text id="confirmed" transform="matrix(1 0 0 1 24.848 109.1328)" class="st2 st3 st5">State Confirmed Cases By County</text>
+	<text transform="matrix(1 0 0 1 24.8698 154.8994)" class="st6 st7 st8">Adair  10</text>
 	<text transform="matrix(1 0 0 1 24.8701 173.0537)" class="st6 st7 st8">Adams  10</text>
 	<text transform="matrix(1 0 0 1 24.8486 191.2085)" class="st6 st7 st8">Allamakee  10</text>
 	<text transform="matrix(1 0 0 1 24.8486 209.3633)" class="st6 st7 st8">Appanoose  10</text>
@@ -39,42 +40,41 @@
 	<text transform="matrix(1 0 0 1 24.8486 245.6726)" class="st6 st7 st8">Benton  10</text>
 	<text transform="matrix(1 0 0 1 24.8486 263.8276)" class="st6 st7 st8">Black Hawk  10</text>
 	<text transform="matrix(1 0 0 1 24.8486 281.9824)" class="st6 st7 st8">Boone  10</text>
-	<text transform="matrix(1 0 0 1 24.8698 154.8994)" class="st6 st7 st8">Adair  10</text>
+	<text transform="matrix(1 0 0 1 24.8483 300.1367)" class="st6 st7 st8">Bremer  10</text>
 	<text transform="matrix(1 0 0 1 24.8486 318.2915)" class="st6 st7 st8">Buchanan  10</text>
 	<text transform="matrix(1 0 0 1 24.8483 336.4463)" class="st6 st7 st8">Buena Vista  10</text>
-	<text transform="matrix(1 0 0 1 24.8483 300.1367)" class="st6 st7 st8">Bremer  10</text>
 	<text transform="matrix(1 0 0 1 24.8483 354.6006)" class="st6 st7 st8">Butler  10</text>
 	<text transform="matrix(1 0 0 1 24.8483 372.7556)" class="st6 st7 st8">Calhoun  10</text>
 	<text transform="matrix(1 0 0 1 24.8485 390.9098)" class="st6 st7 st8">Carroll  10</text>
 	<text transform="matrix(1 0 0 1 24.8483 409.0647)" class="st6 st7 st8">Cass  10</text>
 	<text transform="matrix(1 0 0 1 24.8485 427.2197)" class="st6 st7 st8">Cedar  10</text>
+	<text transform="matrix(1 0 0 1 24.8486 445.374)" class="st6 st7 st8">Cerro Gordo  10</text>
 	<text transform="matrix(1 0 0 1 24.8482 463.5284)" class="st6 st7 st8">Cherokee  10</text>
 	<text transform="matrix(1 0 0 1 24.8482 481.684)" class="st6 st7 st8">Chickasaw  10</text>
 	<text transform="matrix(1 0 0 1 24.8482 499.8387)" class="st6 st7 st8">Clarke  10</text>
 	<text transform="matrix(1 0 0 1 24.8482 517.9927)" class="st6 st7 st8">Clay  10</text>
 	<text transform="matrix(1 0 0 1 24.8482 536.1472)" class="st6 st7 st8">Clayton  10</text>
-	<text transform="matrix(1 0 0 1 24.8486 445.374)" class="st6 st7 st8">Cerro Gordo  10</text>
 	<text transform="matrix(1 0 0 1 24.8485 554.3026)" class="st6 st7 st8">Clinton  10</text>
 	<text transform="matrix(1 0 0 1 24.8486 572.4574)" class="st6 st7 st8">Crawford  10</text>
+	<text transform="matrix(1 0 0 1 24.8483 590.6116)" class="st6 st7 st8">Dallas  10</text>
 	<text transform="matrix(1 0 0 1 152.3312 154.8994)" class="st6 st7 st8">Davis  10</text>
 	<text transform="matrix(1 0 0 1 152.3312 173.0537)" class="st6 st7 st8">Decatur  10</text>
 	<text transform="matrix(1 0 0 1 152.331 191.1692)" class="st6 st7 st8">Delaware  10</text>
 	<text transform="matrix(1 0 0 1 152.3308 209.3235)" class="st6 st7 st8">Des Moines10</text>
 	<text transform="matrix(1 0 0 1 152.3307 227.478)" class="st6 st7 st8">Dickinson  10</text>
-	<text transform="matrix(1 0 0 1 24.8483 590.6116)" class="st6 st7 st8">Dallas  10</text>
 	<text transform="matrix(1 0 0 1 152.3308 245.6323)" class="st6 st7 st8">Dubuque  10</text>
+	<text transform="matrix(1 0 0 1 152.3309 263.7637)" class="st6 st7 st8">Emmet  10</text>
 	<text transform="matrix(1 0 0 1 152.3313 281.9248)" class="st6 st7 st8">Fayette  10</text>
 	<text transform="matrix(1 0 0 1 152.331 300.0857)" class="st6 st7 st8">Floyd  10</text>
 	<text transform="matrix(1 0 0 1 152.3313 318.2478)" class="st6 st7 st8">Franklin  10</text>
-	<text transform="matrix(1 0 0 1 152.3309 263.7637)" class="st6 st7 st8">Emmet  10</text>
 	<text transform="matrix(1 0 0 1 152.331 336.4092)" class="st6 st7 st8">Fremont  10</text>
 	<text transform="matrix(1 0 0 1 152.3311 354.5696)" class="st6 st7 st8">Greene  10</text>
+	<text transform="matrix(1 0 0 1 152.331 372.7305)" class="st6 st7 st8">Grundy  10</text>
 	<text transform="matrix(1 0 0 1 152.3311 390.8918)" class="st6 st7 st8">Guthrie  10</text>
 	<text transform="matrix(1 0 0 1 152.3311 409.052)" class="st6 st7 st8">Hamilton  10</text>
 	<text transform="matrix(1 0 0 1 152.3311 427.2137)" class="st6 st7 st8">Hancock  10</text>
 	<text transform="matrix(1 0 0 1 152.3311 445.3746)" class="st6 st7 st8">Hardin  10</text>
 	<text transform="matrix(1 0 0 1 152.331 463.5352)" class="st6 st7 st8">Harrison  10</text>
-	<text transform="matrix(1 0 0 1 152.331 372.7305)" class="st6 st7 st8">Grundy  10</text>
 	<text transform="matrix(1 0 0 1 152.331 483.1598)" class="st6 st7 st8">Henry  10</text>
 	<text transform="matrix(1 0 0 1 152.3311 501.3206)" class="st6 st7 st8">Howard  10</text>
 	<text transform="matrix(1 0 0 1 152.3313 519.4812)" class="st6 st7 st8">Humboldt  10</text>
@@ -82,12 +82,13 @@
 	<text transform="matrix(1 0 0 1 152.3313 555.8031)" class="st6 st7 st8">Iowa  10</text>
 	<text transform="matrix(1 0 0 1 152.3313 573.964)" class="st6 st7 st8">Jackson  10</text>
 	<text transform="matrix(1 0 0 1 152.3313 590.5228)" class="st6 st7 st8">Jasper  10</text>
+	<text transform="matrix(1 0 0 1 279.2139 154.8994)" class="st6 st7 st8">Wright  10</text>
 	<text transform="matrix(1 0 0 1 279.2134 173.0603)" class="st6 st7 st8">Jefferson  10</text>
 	<text transform="matrix(1 0 0 1 279.2134 191.2285)" class="st6 st7 st8">Johnson  10</text>
+	<text transform="matrix(1 0 0 1 279.2134 209.3899)" class="st6 st7 st8">Jones  10</text>
 	<text transform="matrix(1 0 0 1 279.2135 227.4978)" class="st6 st7 st8">Keokuk  10</text>
 	<text transform="matrix(1 0 0 1 279.2135 245.6582)" class="st6 st7 st8">Kossuth  10</text>
 	<text transform="matrix(1 0 0 1 279.214 263.7976)" class="st6 st7 st8">Lee  10</text>
-	<text transform="matrix(1 0 0 1 279.2134 209.3899)" class="st6 st7 st8">Jones  10</text>
 	<text transform="matrix(1 0 0 1 279.214 281.959)" class="st6 st7 st8">Linn  10</text>
 	<text transform="matrix(1 0 0 1 279.214 300.1199)" class="st6 st7 st8">Louisa  10</text>
 	<text transform="matrix(1 0 0 1 279.214 318.2803)" class="st6 st7 st8">Lucas  10</text>
@@ -95,10 +96,10 @@
 	<text transform="matrix(1 0 0 1 279.214 354.6023)" class="st6 st7 st8">Madison  10</text>
 	<text transform="matrix(1 0 0 1 279.214 372.7627)" class="st6 st7 st8">Mahaska  10</text>
 	<text transform="matrix(1 0 0 1 279.214 390.9242)" class="st6 st7 st8">Marion  10</text>
+	<text transform="matrix(1 0 0 1 279.214 409.085)" class="st6 st7 st8">Marshall  10</text>
 	<text transform="matrix(1 0 0 1 279.214 427.2461)" class="st6 st7 st8">Mills  10</text>
 	<text transform="matrix(1 0 0 1 279.214 445.4075)" class="st6 st7 st8">Mitchell  10</text>
 	<text transform="matrix(1 0 0 1 279.2138 463.5682)" class="st6 st7 st8">Monona  10</text>
-	<text transform="matrix(1 0 0 1 279.214 409.085)" class="st6 st7 st8">Marshall  10</text>
 	<text transform="matrix(1 0 0 1 279.2138 481.7286)" class="st6 st7 st8">Monroe  10</text>
 	<text transform="matrix(1 0 0 1 279.2138 499.8889)" class="st6 st7 st8">Montgomery  10</text>
 	<text transform="matrix(1 0 0 1 279.2137 518.0503)" class="st6 st7 st8">Muscatine  10</text>
@@ -117,10 +118,10 @@
 	<text transform="matrix(1 0 0 1 405.5375 300.084)" class="st6 st7 st8">Shelby  10</text>
 	<text transform="matrix(1 0 0 1 405.5375 318.2361)" class="st6 st7 st8">Sioux  10</text>
 	<text transform="matrix(1 0 0 1 405.5375 336.3884)" class="st6 st7 st8">Story  10</text>
+	<text transform="matrix(1 0 0 1 405.5378 354.5405)" class="st6 st7 st8">Tama  10</text>
 	<text transform="matrix(1 0 0 1 405.5375 372.6929)" class="st6 st7 st8">Taylor  10</text>
 	<text transform="matrix(1 0 0 1 405.5375 390.8459)" class="st6 st7 st8">Union  10</text>
 	<text transform="matrix(1 0 0 1 405.5375 408.9987)" class="st6 st7 st8">Van Buren  10</text>
-	<text transform="matrix(1 0 0 1 405.5378 354.5405)" class="st6 st7 st8">Tama  10</text>
 	<text transform="matrix(1 0 0 1 405.5379 427.1509)" class="st6 st7 st8">Wapello  10</text>
 	<text transform="matrix(1 0 0 1 405.5379 445.3031)" class="st6 st7 st8">Warren  10</text>
 	<text transform="matrix(1 0 0 1 405.5379 463.4557)" class="st6 st7 st8">Washington  10</text>
@@ -128,9 +129,8 @@
 	<text transform="matrix(1 0 0 1 405.5379 499.7601)" class="st6 st7 st8">Webster  10</text>
 	<text transform="matrix(1 0 0 1 405.5379 517.9127)" class="st6 st7 st8">Winnebago  10</text>
 	<text transform="matrix(1 0 0 1 405.5379 536.0658)" class="st6 st7 st8">Winneshiek  10</text>
-	<text transform="matrix(1 0 0 1 405.5375 572.3701)" class="st6 st7 st8">Worth  10</text>
-	<text transform="matrix(1 0 0 1 279.2139 154.8994)" class="st6 st7 st8">Wright  10</text>
 	<text transform="matrix(1 0 0 1 405.5378 554.2184)" class="st6 st7 st8">Woodbury  10</text>
+	<text transform="matrix(1 0 0 1 405.5375 572.3701)" class="st6 st7 st8">Worth  10</text>
 </g>
 <g id="counties">
 	<path id="taylor_1_" class="st9" d="M647.7,494.1l-24.9,0.6v19c7.9-0.1,16.3-0.2,24.9-0.5V494.1z"/>
