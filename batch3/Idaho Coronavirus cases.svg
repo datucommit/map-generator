@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 916.5 609.2" style="enable-background:new 0 0 916.5 609.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F5FBFE;}
+	.st1{fill:#DDEEFA;}
+	.st2{fill:#255078;}
+	.st3{font-family:'Georgia';}
+	.st4{font-size:18px;}
+	.st5{font-size:16px;}
+	.st6{fill:#4C4B4D;}
+	.st7{font-family:'ArialMT';}
+	.st8{font-size:14px;}
+	.st9{letter-spacing:21;}
+	.st10{letter-spacing:14;}
+	.st11{fill:#ADD8F3;}
+	.st12{fill:#CD483B;}
+	.st13{fill:#FFFFFF;}
+	.st14{font-size:6.7546px;}
+	.st15{fill:#4C4B4C;}
+	.st16{fill:#DB3029;}
+	.st17{font-size:36px;}
+	.st18{fill:none;}
+</style>
+<g id="Texts">
+	<polygon id="blue_bg" class="st0" points="0,473.8 0,510.8 0,520.4 0,609.2 173.5,609.2 173.5,520.4 915,520.4 915,473.8 	"/>
+	<path id="line_bg" class="st1" d="M916.5,0H0l0,0v474.4v2v42.9v2v42.9v2v42.9l0,0h579.8l0,0H913l0,0h3.5V0z M913,56.8v417.6H578.4
+		l-0.6-0.3v0.3H443.6l-0.6-0.3v0.3H3V56.8H913z M913,476.4v42.9H579.8v-42.9H913z M445.1,519.4v-42.9h132.8v42.9H445.1z
+		 M577.8,521.4v42.9H445.1v-42.9H577.8z M310.3,519.4v-42.9h132.8v42.9H310.3z M443.1,521.4v42.9H310.3v-42.9H443.1z M175.5,519.4
+		v-42.9h132.8v42.9H175.5z M308.3,521.4v42.9H175.5v-42.9H308.3z M173.5,476.4v42.9H3v-42.9H173.5z M173.5,521.4v42.9H3v-42.9H173.5
+		z M3,566.3h170.5v39.9H3V566.3z M175.5,566.3h132.8v39.9H175.5V566.3z M310.3,566.3h132.8v39.9H310.3V566.3z M445.1,566.3h132.8
+		v39.9H445.1V566.3z M579.8,521.4H913v84.8H579.8V521.4z"/>
+	<text id="title" transform="matrix(1 0 0 1 32.8483 35.8372)" class="st2 st3 st4">COVID-19 in Idaho on</text>
+	<text id="date" transform="matrix(1 0 0 1 217.4693 35.8372)" class="st2 st3 st4">April 27th, 2020</text>
+	<text id="confirmed" transform="matrix(1 0 0 1 32.8696 116.2927)" class="st2 st3 st5">State Confirmed Cases By County</text>
+	<g>
+		<text transform="matrix(1 0 0 1 32.8696 155.9988)" class="st6 st7 st8">Ada  10</text>
+		<text transform="matrix(1 0 0 1 32.8698 181.8894)" class="st6 st7 st8">Adams  10</text>
+		<text transform="matrix(1 0 0 1 32.8483 207.7803)" class="st6 st7 st8">Bannock 10</text>
+		<text transform="matrix(1 0 0 1 32.8483 233.6709)" class="st6 st7 st8">Bear Lake  10</text>
+		<text transform="matrix(1 0 0 1 32.8483 259.5615)" class="st6 st7 st8">Benewah  10</text>
+		<text transform="matrix(1 0 0 1 32.8483 285.4524)" class="st6 st7 st8">Bingham  10</text>
+		<text transform="matrix(1 0 0 1 32.8483 311.3433)" class="st6 st7 st8">Blaine  10</text>
+		<text transform="matrix(1 0 0 1 32.8483 337.2344)" class="st6 st7 st8">Boise  10</text>
+		<text transform="matrix(1 0 0 1 32.8481 363.1245)" class="st6 st7 st8">Bonner  10</text>
+		<text transform="matrix(1 0 0 1 32.8483 389.0159)" class="st6 st7 st8">Bonneville  10</text>
+		<text transform="matrix(1 0 0 1 32.8481 414.9066)" class="st6 st7 st8">Boundary  10</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 145.4051 155.9983)" class="st6 st7 st8">Butte  10</text>
+		<text transform="matrix(1 0 0 1 145.4051 181.8894)" class="st6 st7 st8">Camas  10</text>
+		<text transform="matrix(1 0 0 1 145.4048 207.7798)" class="st6 st7 st8">Canyon  10</text>
+		<text transform="matrix(1 0 0 1 145.4051 233.6707)" class="st6 st7 st8">Caribou  10</text>
+		<text transform="matrix(1 0 0 1 145.4048 259.5613)" class="st6 st7 st8">Cassia  10</text>
+		<text transform="matrix(1 0 0 1 145.4048 285.4521)" class="st6 st7 st8">Clark  10</text>
+		<text transform="matrix(1 0 0 1 145.405 311.3433)" class="st6 st7 st8">Clearwater  10</text>
+		<text transform="matrix(1 0 0 1 145.405 337.2339)" class="st6 st7 st8">Custer  10</text>
+		<text transform="matrix(1 0 0 1 145.405 363.125)" class="st6 st7 st8">Elmore  10</text>
+		<text transform="matrix(1 0 0 1 145.405 389.0153)" class="st6 st7 st8">Franklin  10</text>
+		<text transform="matrix(1 0 0 1 145.405 414.9069)" class="st6 st7 st8">Fremont  10</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 261.9614 155.9983)" class="st6 st7 st8">Gem  10</text>
+		<text transform="matrix(1 0 0 1 261.9614 181.8889)" class="st6 st7 st8">Gooding  10</text>
+		<text transform="matrix(1 0 0 1 261.9614 233.6709)" class="st6 st7 st8">Jefferson  10</text>
+		<text transform="matrix(1 0 0 1 261.9614 259.5615)" class="st6 st7 st8">Jerome  10</text>
+		<text transform="matrix(1 0 0 1 261.9614 285.4524)" class="st6 st7 st8">Kootenai  10</text>
+		<text transform="matrix(1 0 0 1 261.9614 311.3433)" class="st6 st7 st8">Latah  10</text>
+		<text transform="matrix(1 0 0 1 261.9614 337.2339)" class="st6 st7 st8">Lemhi  10</text>
+		<text transform="matrix(1 0 0 1 261.9617 207.7798)" class="st6 st7 st8">Idaho  10</text>
+		<text transform="matrix(1 0 0 1 261.9617 363.1255)" class="st6 st7 st8">Lewis  10</text>
+		<text transform="matrix(1 0 0 1 261.9618 389.0156)" class="st6 st7 st8">Lincoln  10</text>
+		<text transform="matrix(1 0 0 1 261.9614 414.9062)" class="st6 st7 st8">Madison  10</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 377.0283 155.9988)" class="st6 st7 st8">Minidoka  10</text>
+		<text transform="matrix(1 0 0 1 377.0283 181.8892)" class="st6 st7 st8">Nez Perce  10</text>
+		<text transform="matrix(1 0 0 1 377.0283 207.7798)" class="st6 st7 st8">Oneida  10</text>
+		<text transform="matrix(1 0 0 1 377.0283 233.6709)" class="st6 st7 st8">Owyhee  10</text>
+		<text transform="matrix(1 0 0 1 377.0283 259.5615)" class="st6 st7 st8">Payette  10</text>
+		<text transform="matrix(1 0 0 1 377.0283 285.4526)" class="st6 st7 st8">Power  10</text>
+		<text transform="matrix(1 0 0 1 377.0283 311.3433)" class="st6 st7 st8">Shoshone  10</text>
+		<text transform="matrix(1 0 0 1 376.7832 363.1252)" class="st6 st7 st8">Twin Falls  10</text>
+		<text transform="matrix(1 0 0 1 376.7832 389.0154)" class="st6 st7 st8">Valley  10</text>
+		<text transform="matrix(1 0 0 1 376.7834 414.9069)" class="st6 st7 st8">Washington  10</text>
+		<text transform="matrix(1 0 0 1 376.7836 337.2341)" class="st6 st7 st8">Teton  10</text>
+	</g>
+</g>
+<path id="oneida_1_" class="st11" d="M733.5,447.8c11.9,2.2,22.6,4.1,31.9,5.7l1.2-4.2l2.9-3.7v-2.1l-2.4-1.2l-3.5-1.5v-2.2
+	l-3.2-3.2l-2.2-5.7h-1.8v4.6h-3.8V432h-1.8l-2.2,4.9l-12.2-1.7L733.5,447.8z"/>
+<path id="madison_1_" class="st11" d="M799.6,366.8l-11.2-5.8v2.3l-0.7,0.2c-0.3,0.1-0.5,0.2-0.7,0.3c0.1,0.9,0.4,3.1,0.7,5.3
+	l1.3,0.9l4.8,2.8l2.9,1.2l1.7,2.3l7,1.2l3.4-11.1l-2.7,0.8L799.6,366.8z"/>
+<path id="bingham_1_" class="st11" d="M759.7,376.6l-5.1,2.1l-5.5,0.9l-1.1,2.1v3.8v0.8v1.9l-3,2.4l-0.9,1.7l-0.2,1.8h0.1l-2.5,11
+	l-0.1,1.1l3.4,2.1h2.1l3.5-3.9l0.7-0.5l1.2-3h5.2l1.9,1.5l29.6,4.8l4.4,0.6l1.7-4.2v-6.9c-0.4-0.2-0.9-0.5-1.6-0.9
+	c-0.9-0.5-2.7-2-4.2-3.3c-0.9-0.8-1.8-1.6-2.1-1.7c-0.6-0.4-5.2-2.8-6.9-3.6c-0.1-0.1-1.2-0.7-2.3-1c-1-0.3-7.8-1.5-11.3-2.2
+	l-0.2-0.1l-5-1.9l0.6-1c0.6-1,1.2-2.1,1.3-2.4c0-0.5,0.8-3.3,1.6-5.9h-5.2v4L759.7,376.6L759.7,376.6z"/>
+<polygon id="teton_1_" class="st11" points="816.5,363.7 810.8,365.5 807.1,377.5 809.2,377.9 812.1,379.5 813.7,382 813.7,384.5 
+	814.5,385.3 815.6,385.5 819.1,363.9 "/>
+<path id="shoshone_1_" class="st11" d="M688.7,142.8c-1-1.6-1.6-3.3-2.3-4.8l-0.1-0.2c-0.7-2-1.2-3.3-2-4.6
+	c-0.1-0.1-0.2-0.3-0.4-0.5c-0.8-1-1.9-2.5-1.9-4.3l0.1-0.5l-4.3-2.8h-0.6l-1.2,1.2l-1.6,6.8l-0.4,3.4l-4.7,16.9l-4.6,19.8l-0.9,5.6
+	l13,3.4l21.9,3.9l6.8,1c-0.2-0.9-0.4-1.6-1-2.7c-0.9-1.7-1.7-3.4-2.4-5.1c-1-2.5-2-4.8-3.5-6.7c-1-1.2-1.5-1.5-2.8-2
+	c-0.6-0.3-1.2-0.5-1.9-0.9c-2.8-1.4-3.4-3.2-3.8-4.8c-0.2-0.6-0.4-1.1-0.7-1.7c-0.5-1.1-0.9-1.6-1.3-2.1c-1.7-2.2-1.5-3.6,0.1-6.7
+	C689.6,151.9,689.8,146.2,688.7,142.8z"/>
+<path id="nez_perce_1_" class="st11" d="M648.6,194.4l-2.4,2.6l-2.7-0.2l-7.1-1.7l-1.1,4.8v19.2l-0.9,1.1l1.2,2.8v0.5
+	c0,0.3,0.1,0.5,0.4,1c0.3,0.6,0.7,1.3,0.8,2.3l0,0l0.5-1.4l6.1-19l6.1,1.9h5.4l1.1-1.5l-2.6-6.8l0.8-5.6L648.6,194.4L648.6,194.4z"
+	/>
+<path id="franklin_2_" class="st11" d="M787.3,440.4l-4.6-1.1l-4.3-0.9l-1.8,7.9h-4.1l-1.2-1.2v1.1l-3,3.9l-1,3.7
+	c7,1.2,13.2,2.3,18.5,3.2l-0.6-0.9l-0.5-6.6l2.2-3.6L787.3,440.4z"/>
+<polygon id="bannock_1_" class="st11" points="767.8,440.7 771.2,442.5 771.2,442.6 773.2,444.6 775,444.6 777,436.3 778.4,436.6 
+	778.4,425.2 774.9,422.4 770.8,420.6 770.8,414.9 774.1,406.5 758.6,404 756.7,402.5 753.5,402.5 752.7,404.5 752.7,405.6 
+	753.2,405.6 754.9,403.4 757.3,403.4 759.7,406.2 762.5,425.8 759.8,429.1 761.9,434.5 765.3,438.1 765.3,439.7 "/>
+<path id="bonneville_1_" class="st11" d="M810,409.7l1.8,0.4l3.6-22.7l-1.8-0.4l-1.7-1.7v-2.8l-1.1-1.7l-2.2-1.2l-41.8-7.1
+	c-0.8,2.7-1.6,5.5-1.6,5.9c0,0.5-0.5,1.4-1,2.4l2.8,1.1c1.1,0.2,10.1,1.9,11.3,2.2c1.4,0.4,2.7,1.1,2.8,1.2c0.2,0.1,6.2,3.2,6.9,3.7
+	c0.4,0.2,1.1,0.8,2.4,1.9c1.3,1.1,3.2,2.7,3.9,3.1c1.3,0.8,2,1.1,2,1.1l0.5,0.3v8.4l-1.7,4L810,409.7z"/>
+<polygon id="caribou_1_" class="st11" points="776,406.8 772.7,415.4 772.7,419.4 776,420.9 780.3,424.3 780.3,436.9 783.1,437.5 
+	787.5,438.6 788.2,430.1 804.1,431.5 804.1,436.2 806.1,437.3 807.4,437.2 811.4,412 809.6,411.5 788.6,408.8 "/>
+<path id="bear_lake_1_" class="st11" d="M788.2,457.5c7.4,1.2,12.8,2.1,15.6,2.6l3.3-21l-1.5,0.1l-3.4-1.8v-4.1l-12.3-1.1l-1.2,14.4
+	l-2.1,3.3l0.4,5.6L788.2,457.5z"/>
+<path id="jefferson_1_" class="st11" d="M779.9,354.4l-16.3-5.1l-1.8,4.4l-2,16.9h7.6l-0.1,0.2l28.3,4.8l-0.2-0.3l-2.6-1.1l-4.9-2.8
+	l-2.1-1.4l-0.1-0.4c-0.2-1.3-0.8-5.8-0.8-6.3c0-0.7,0.5-1.2,1.5-1.5V360l-5.9-3.1v-2.6L779.9,354.4z"/>
+<path id="blaine_1_" class="st11" d="M728.8,416.9l0.8-1.7c0.5-5.1,1.1-11.1,1.3-11.6c0.1-0.4,1.8-6.6,3-10.7l0.2-0.7h4.4l0.1,1.8
+	c0,0,0.2-0.2,0.3-0.5s-0.1-0.5-0.1-0.6c0,0,0.1,0.1,0.3,0.2c0.6,0.4,2,0.6,3.1,0.7l0.3-2.3l1.3-2.4l2.6-2.1v-0.2l-15.5-2.4v-2.5
+	l1.4-1.1l-2-1h-4.7l-2.2-2c-0.5-0.6-1.5-1.7-1.7-2.5c-0.1-0.3-0.2-0.9,1.3-4.5l-1.4-1.9v-1.6l-1-0.3l-3.1,2.7v-5.1l-8.5-8.2
+	l-2.5-5.6l-3.3-2.7l-4.2-1.5l-6.9-0.2l-8.7-8.7h-0.6l-1.4,1.6h-1.2v1.6l-1,2.3l9.8,3l1.1,14.1l2.4,10.6l1.6,3l0.8,6.5l34,6.6
+	l-0.1,6.3l-3.1,9.3l-1.8,3.4l-2.5,8.2h4.6L728.8,416.9z"/>
+<path id="gooding_1_" class="st11" d="M670.7,399.2l2.1,3.7c1.3,0.7,4.6,2.4,5.2,3c0.1,0.1,0.4,0.3,0.6,0.4l6.2-25.8l-2.5-0.5
+	l-12.9-3.5l-1.4,13l3.7,3.3l-0.3,4.3L670.7,399.2z"/>
+<path id="jerome_1_" class="st11" d="M682.3,409.3c0.4,0.6,3.3,1.9,4.5,2.4c0.6,0.3,1.1,0.5,1.4,0.6c1.1,0.6,6.5,3.5,7.6,4.1l7,0.2
+	l1.8-9.9H700l-2.4-2.2l-6.9-2.2l-1.2-2.4l-4-1.5h-3.4l-2.1,8.8C681.2,408,682,408.6,682.3,409.3z"/>
+<polygon id="lincoln_1_" class="st11" points="710.1,406.8 711.2,406.8 714.1,400.4 717.7,386.9 686.6,380.8 682.8,396.6 
+	686.1,396.6 691,398.5 692.2,400.8 698.7,402.9 700.8,404.8 708.1,404.8 "/>
+<polygon id="minidoka_1_" class="st11" points="709.9,419.1 711.9,419.1 714.8,418.3 716.9,414.4 719.5,414.4 722.2,405.3 
+	724.1,401.9 727,393 727,388.7 719.5,387.2 715.8,401.1 712.4,408.7 709.4,408.7 707.3,406.7 706.6,406.7 704.7,416.7 705.1,416.7 
+	"/>
+<polygon id="camas_1_" class="st11" points="692.9,380.2 692.2,374.6 690.6,371.5 688.2,360.6 687.1,347.8 678.2,345 675.2,350.6 
+	671,363.5 669.7,373.5 669.6,374.6 682.7,378.2 "/>
+<path id="power_1_" class="st11" d="M736.8,433.5l10.6,1.5l2.1-4.8h4.9V428h3.9l2.2-2.7l-2.6-18.4l-1.4-1.7h-0.6l-1.7,2.3h-3.3v-1.2
+	l-3.3,3.7h-3.4l-4.8-2.9l0.2-2.4l2-9c-1.1-0.1-2.8-0.4-3.7-0.9c-0.2-0.1-0.6-0.4-0.9-0.7h-1.6c-0.7,2.4-2.7,9.7-2.8,10.1
+	c-0.1,0.5-0.8,7.2-1.2,11.3l-0.1,0.3l-0.8,1.7h1.7l7.2,3.7l-2.1,10.1L736.8,433.5z"/>
+<path id="adams_1_" class="st11" d="M644.4,263.4l-9.8-3.6c-1.5,2-2.9,3.9-4.5,5.8c-0.3,0.4-0.6,0.8-1,1.2c-1.2,1.4-2.6,3.2-3,4.4
+	c-0.3,0.8-0.4,1.4-0.6,2.1c-0.3,1.5-0.7,3-2.2,5l6.2,3.5l-0.1,2.7l-0.9,2.7l0.2,7.7l1.8,3.9l2.7,3.9l5.2,0.7l2.2-1.6l1.2-8.5
+	l1.5-9.4l5.3-6.3l0.9-1.7v-1.4l-0.1-0.1L649,275l-2.4-1.9l-5.9-2.5l3.6-2.4L644.4,263.4L644.4,263.4L644.4,263.4z"/>
+<path id="washington_1_" class="st11" d="M607.7,305c3.2,0.4,5.7,1.2,6.5,6.5l0.1,0.6l-0.5,1.3l1.6,0.9l6.6,1.5h4.2l3.8,1.8
+	c0.7-0.2,1.3-0.5,1.6-0.6c0.3-1.1,0.9-3.2,0.9-3.3c0.1-0.3,0.4-1.8,0.6-2.8c0.2-0.8,0.3-1.5,0.4-1.7c0.1-0.2,0.2-0.7,2-2.8v-1.3
+	l-3.2-0.4L629,300l-1.9-4.4l-0.2-8.4l1-2.9v-1.2l-5.5-3.2c-1.2,1.2-2.6,2-3.9,2.7c-1.2,0.7-2.3,1.3-3.1,2.2c-1,1.1-2,2.4-3,3.8
+	s-2.1,2.8-3.2,4.1c-1.8,2.1-2.2,3.6-2.5,7.4c-0.1,1.2-0.5,2.3-0.8,3.2c-0.1,0.4-0.3,0.9-0.4,1.2c0.1,0.1,0.3,0.1,0.5,0.1
+	C606.4,304.8,607,304.9,607.7,305z"/>
+<path id="valley_1_" class="st11" d="M650.2,279l-5,5.9l-1.4,8.9l-1.1,7.9l3.1,0.6l-2.1,3.6l-1.7,5.2l-2.4,2.3l-0.9,2.1l-1.5,3
+	l2.2-0.6l3.2-1.8h3.3l0.3,0.4c0.3,0.4,0.7,0.9,0.9,1.1c1,0,4.3,0.5,17.1,3c1.1-1.2,2.8-2.8,3.9-2.8c0.7,0,2.7-0.5,4.1-0.8l1.9-2.4
+	v-6.8l-1-2.5l5.2-4.8l2.9-1.7l2.6-3.3l4.2,3.9l1.4-1.3c1.3-1.4,2.4-2.2,3.1-2.2c0.1,0,0.2,0,0.3,0c0.9-0.7,3.1-3.4,3.4-3.9
+	c0.3-0.4,0.7-0.6,1-0.7c0.4-0.2,0.7-0.4,0.8-0.7c0.4-0.8,0.6-2.5,0.7-3.1l0.8-7.2l0.7-0.7l-48.2-8.9c-0.3,0.5-0.6,1.2-0.7,1.5
+	c-0.1,0.3-0.4,0.7-0.7,1.1l0.8,0.7v2.7L650.2,279z"/>
+<path id="lemhi_1_" class="st11" d="M704.4,277.4c0,0.3-0.2,1-1.7,2.2l-1.3,1.5l-0.8,6.7c-0.1,0.3-0.4,2.4-0.9,3.6
+	c-0.4,1-1.2,1.4-1.7,1.6c-0.1,0.1-0.3,0.1-0.3,0.2c0,0-2.4,3.3-4,4.4l0.3,2.3l1.9,2.2l2.7,5.1l2.2,3.2l1.2,0.8l3-1.8
+	c0.8-0.8,1.6-1.7,1.7-2c0-0.9,0.8-2.6,1-3.1l0.2-0.2l2.7-3.1l2.6-3.6h4.6v7.9l4.9,6.7l2.6,4.8l2.1,2.3l3,1.8l4.6,3.4l3.2-0.7
+	l2.5-0.3l1.3,4.7l1,7l6.7,2.1l3.8,1.4h5.1l0.8,0.7V337l0.4-0.8l-1.5-2.1c-0.6-0.8-1.5-1.5-2.5-2.3c-1.3-1-2.8-2.2-3.8-3.8
+	c-2.2-3.5-1.3-7.1-0.5-9.9l0.1-0.3c0.9-3.3,0.1-7.3-1.9-9.5c-0.5-0.6-1-0.8-2.1-1.1c-0.8-0.3-1.6-0.6-2.5-1.2c-1.9-1.3-3-3.1-4-4.7
+	c-0.2-0.3-0.4-0.6-0.6-0.9c-1.9-3.1-2.8-7.1-3.5-10.7c-0.4-1.7-0.7-3.4-1.1-4.8c-1.5-4.9-3-10.2-3.3-15.1c-0.1-0.8,0-1.8,0.1-3.1
+	c0.1-1.3,0.2-4.1-0.1-5.4c-0.2,0.1-0.3,0.2-0.5,0.3c-2.4,1.6-4.9,3.4-7.3,5.1c-1.5,1.1-3,2.1-4.4,3.1l-2.4,1.7l-1.3-2.7
+	c-0.7-1.4-2.1-2.5-3.6-3.5c-1.1-0.8-2.5-1.7-3.4-3l-3.8,2.6c0,0-1.3,0.5-2.1,0.8c-0.4,0.1-0.8,0.1-1.1-0.2c-0.4-0.3-0.7-0.7-0.8-1.1
+	l-0.2,1.7c1.2,2.1,2.7,4.3,3,4.6c0.7,0.7,1.6,2.4,1.7,2.8l0.3,0.5l-0.3,0.5C705.6,275.2,704.6,276.9,704.4,277.4z"/>
+<path id="fremont_1_" class="st11" d="M798.2,339.6l-2.2,3.5l-1.6,6.2l-6.5,5.1l-5.4-0.1v1.4l17.6,9.1l5.6,0.1l10.6-3.2l3.1,0.2
+	l3.8-23.9l-1.3-0.7l-0.3-0.4c-1.2-1.5-2.1-3.7-2.9-6.1c-0.9-2.4-2.1-5.6-3.3-6.1c-0.5-0.2-1.3,0.2-1.9,0.5c-1.2,0.7-1.9,1.7-2.9,3
+	c-0.5,0.7-1,1.4-1.6,2.1c-0.5,0.5-0.9,1-1.4,1.3l0.1,0.2l-3.6,7.3L798.2,339.6z"/>
+<path id="butte_1_" class="st11" d="M752.6,343.6v-3.8l-3.3-1.2l-7.1-2.2l-3.1-0.1l-2.1,6.4l-2.1,15.4l-13.6,6.8v0.5l2.2,0.6v2.5
+	l1.7,2.4l-0.2,0.5c-0.6,1.5-1.3,3.3-1.3,3.9c0.2,0.3,0.7,1,1.2,1.6l1.5,1.4h4.3l3.6,1.8v1.8l-1.6,1.3l13.6,2.1v-4l1.7-3.3l6.4-1
+	l3.6-1.5v-4.7h0.1l1.9-16.4l-8.9-2l0.2-6.8L752.6,343.6z"/>
+<path id="custer_1_" class="st11" d="M674.3,317.2l5.8,10.2v10.2h0.4l1.4-1.6h2.3l8.7,8.8l6.6,0.2l4.7,1.7l3.8,3l2.6,5.7l8.8,8.5
+	v1.7h0.1v-1.9l13.8-6.8l2-14.7l2.6-7.7l3.5,0.2l-0.9-6.4l-0.9-3l-0.8,0.1l-3.9,0.9l-5.2-3.9l-3.3-2l-2.3-2.7l-2.7-4.9l-5.2-7.1v-6.6
+	h-1.7l-2.1,2.9l-2.7,3.1c-0.4,0.8-0.8,1.9-0.8,2.3c0,1-1.3,2.4-2.4,3.4l-0.2,0.1l-4.2,2.5l-2.6-1.7l-2.5-3.6l-2.7-5l-2.1-2.4
+	l-0.3-2.4c-0.4,0.3-0.8,0.7-1.2,1.2L688,302l-4-3.7l-1.7,2.1l-2.9,1.7l-4.1,3.7l0.6,1.8v7.6L674.3,317.2z"/>
+<path id="ada_1_" class="st11" d="M623.4,370.6l6.7-0.3l0.2,1.4h4.1l3.9-21.4l-3.2-6.1l-2.6-3.8l-2.5-2.8l-5-1.9l-2.1-0.5v2.5
+	c0,0.3,0,0.7-1.4,2c-0.2,5.7-0.2,12.2-0.1,12.9c0.1,0.3,0.5,1.3-2.6,3.9l-0.7,3.6l0.2,0.2h3.3v8.1L623.4,370.6z"/>
+<path id="elmore_1_" class="st11" d="M650.3,393.1l0.2,1.1l3.3,1h7.5l1.3,1.4h1.9l1.6-7l1.7-16.4l1.4-10.3l4.3-13.2l3.6-6.8l1-2.3
+	v-1.2h-3.2l-3.6-1.6h-7.5l-3.6,1.5l-4.8,4.3c-1.7,1.9-3.6,4.3-4,4.9c-0.1,0.5-0.6,1.1-5.1,2.6l-0.3,0.1h-6.1l-4.1,22.5h-7.2
+	l-0.2-1.4l-3.6,0.2l0.2,0.2l5.3,5.4l1.4,3.1l16.9,4.3l3.1,1v3.5L650.3,393.1z"/>
+<polygon id="bonner_1_" class="st11" points="664,98.8 666.9,82.2 663,81.1 653.4,122.5 668.7,125.8 668.7,130.2 672.9,131.8 
+	674.5,125.5 676.5,123.4 678.5,123.4 682.6,126 687.2,105.4 "/>
+<polygon id="benewah_1_" class="st11" points="643.5,165.1 650,171.1 652.5,171.9 657.6,173.9 662.7,175.3 663.1,172.9 666.7,157.4 
+	664,156.6 662.6,155.6 659.5,156.8 652,156.6 645.9,154.8 "/>
+<polygon id="kootenai_1_" class="st11" points="646.3,152.9 652.4,154.8 659.1,154.8 662.9,153.3 664.9,154.9 667.1,155.6 
+	667.7,153.1 672.4,136.2 672.6,133.6 666.8,131.6 666.8,127.3 652.9,124.3 "/>
+<polygon id="latah_1_" class="st11" points="636.9,193.1 643.9,194.9 645.5,195.1 647.8,192.6 656.5,192.6 656.4,193.6 658.5,193.6 
+	660.4,189.1 662.4,177.1 657,175.8 651.9,173.8 649,172.8 643,167.1 "/>
+<path id="clearwater_1_" class="st11" d="M717.3,203.6c-0.6-0.4-1.7-0.6-2.5-0.8c-0.5-0.1-1-0.2-1.4-0.4l-1.5-0.5l-0.3-1.5
+	c-0.2-1-0.5-1.7-1-2.6c-0.4-0.6-0.9-1.1-1.4-1.6c-1.2-1.1-2.6-2.5-3-5.3c-0.1-0.7-0.2-1.3-0.3-1.8l-7.4-1.1l-21.9-3.9l-12.9-3.3
+	l-1.5,8.9l-2.5,5.7h-3.6l-0.6,4.4l1.5,3.9h3l3.7,2.2v3.1l1.7,0.4l2.7,2.9l1.1,1.7l2.3,1.4l3.9,1.1l2.2-2.3c0.8-1.6,1.7-3.4,1.8-3.7
+	c0.2-0.5,1.3-2.1,2.2-3.4l0.3-0.4l36-0.5c-0.5-0.8-0.6-1.7-0.6-2.3C717.3,203.8,717.3,203.8,717.3,203.6z"/>
+<path id="lewis_1_" class="st11" d="M649.2,210.1l-4.5-1.4l-4.3,13.2l2.1-0.5l2.7-1.3c1.1-1,2.3-2.2,2.5-2.5
+	c0.1-0.2,0.2-0.6,4.1-3.8l0.6-0.5l2.5,1.8l2.7,3.3l2.3-1.1l2.6-2.1l1.9-1.1l-1.1-2l-0.4-1.6l-0.9-0.2v-3.5l-2.4-1.3h-1.8l0.6,1.5
+	l-2.3,3L649.2,210.1z"/>
+<path id="idaho_1_" class="st11" d="M723,208.2c-0.3-0.1-0.6-0.1-0.9-0.1c-0.4,0-0.9,0-1.5-0.2l-37.8,0.5c-0.8,1.1-1.5,2.3-1.6,2.5
+	c-0.2,0.5-1.5,3.2-1.9,4.1l-0.2,0.2l-3.1,3.2l-5.4-1.5l-2.7-1.7l-1.3-2l-1.8-1.9l0.1,0.3l1.8,3.2l-3.4,2l-2.7,2.1l-3.6,1.8l-3.5-4.3
+	l-1-0.8c-1.3,1.1-2.7,2.3-3,2.7c-0.1,0.3-0.6,1-3,3.1l-0.2,0.2l-3.1,1.5l-3.2,0.7l-2,6.2c0.2,0.1,0.5,0.2,0.7,0.3
+	c1,0.4,2.2,0.8,3.2,1.6c1.9,1.6,3.3,4.3,3.4,7v0.3c0.3,3.3,0.4,6.8-1,9.1c-0.8,1.3-1.8,1.9-2.6,2.3c-0.3,0.2-0.5,0.3-0.7,0.4
+	c-0.5,0.4-0.7,0.8-1,1.4c-0.3,0.5-0.5,0.9-0.9,1.4c-1.1,1.5-2.2,3-3.2,4.4l10.6,3.8v7.1l-1.5,1.1l3.1,1.4l1,0.8
+	c0.4-0.5,0.7-1,0.8-1.1c0.2-0.5,1-2.2,1-2.2l0.3-0.7l50.8,9.4c0.4-0.3,0.7-0.6,0.8-0.8c0.1-0.4,0.4-1.1,2.1-3.8
+	c-0.4-0.7-0.9-1.5-1.2-1.8c-0.7-0.7-2.8-4.2-3.4-5.2l-0.2-0.3l0.7-5.2l2.9,0.7l0.1,0.6c0.1,0.4,0.2,0.8,0.3,1.1
+	c0.6-0.2,1.3-0.5,1.5-0.6l3.7-2.5c-0.6-1.4-0.7-3.2,0.1-5.5c0.9-2.4,1.8-4.8,2.7-7.2c0.8-2,1.5-4,2.3-6l8.4-22.6
+	c1.1-2.5,3.4-7.6,2.3-9.8C724.6,209.1,724.3,208.6,723,208.2z"/>
+<path id="boundary_1_" class="st11" d="M662.2,71l3,0.7l-1.8,7.6l5.6,1.6l-2.8,16.6l21.5,6.1l5.7-25.8C683,75.5,672.6,73.3,662.2,71
+	z"/>
+<path id="canyon_1_" class="st11" d="M608.3,329l-2.4,9.7l0.8,0.9l3.3,5.1v4.2l1.9,2.1l1.7,5.6l2.9,2.3l0.6-3.3l0.3-0.2
+	c1-0.9,2-1.9,2.2-2.3c-0.3-1.5-0.2-8.2,0-13.7v-0.5l0.3-0.3c0.5-0.4,0.9-0.9,1.1-1.1v-2.8l-7-2.4h-1.6l-3.7-3.2L608.3,329z"/>
+<path id="payette_1_" class="st11" d="M609.7,327.4l3.6,3.1h0.6l1.4-1.7l2.3-5.3l1.6,0.1c0.3,0.1,1.4,0.6,2,1.2
+	c0.4,0.1,1.4,0,2.5-0.2l3.2-3l1.7-2.5l-2.8-1.3h-4.2l-7-1.7l-1.4-0.8l-4.4,12.1L609.7,327.4z"/>
+<path id="owyhee_1_" class="st11" d="M586,418.1c24.6,5.4,48,10.4,69.8,14.8l8.1-34.4h-2.3l-1.3-1.4l-7.1-0.1l-4.5-1.4l-0.5-2.7
+	l1.4-3.2v-1.8l-1.7-0.6l-17.7-4.5l-1.7-3.7l-5.2-5.2l-3.6-4.8v-6.8h-2.1l-5.6-4.5l-1.8-5.7l-2.2-2.3v-4.4l-2.8-4.4L586,418.1z"/>
+<path id="cassia_1_" class="st11" d="M735.6,430.8l1.7-8.6l-5.5-2.9h-3.1l-3.4-3.2H718l-2.1,3.6l-4,1.1h-2.5l-4.9-2.4l-5.4-0.1v1.8
+	l-1.4,3.2l-7.3-0.7l-1,1.4l-3.4,14.8c16.5,3.2,31.8,6.1,45.5,8.6L735.6,430.8z"/>
+<path id="twin_falls_1_" class="st11" d="M684.3,438.5l3.5-15.2l1.9-2.6l7,0.7l0.7-1.6v-1.4l-2.1-0.1l-0.2-0.1
+	c-0.1-0.1-6.5-3.6-7.7-4.2c-0.3-0.2-0.8-0.4-1.3-0.6c-2.7-1.1-4.8-2.1-5.4-3.2c-0.3-0.6-1.9-1.6-2.8-2.1c-0.6-0.4-1-0.6-1.2-0.8
+	c-0.4-0.3-2.9-1.7-5.1-2.8l-0.3-0.2l-2.7-4.9l1-2.8l0.2-3l-2.3-2.1l-9.8,41.7C666.9,435.1,675.8,436.8,684.3,438.5z"/>
+<path id="boise_1_" class="st11" d="M672.9,318.6c-0.4,0.1-3.6,1-4.8,1c-0.4,0.1-1.8,1.2-2.9,2.5l-0.4,0.4l-0.5-0.1
+	c-6-1.2-15.8-3-17.2-3.1c-0.5,0.2-1.2,0-2.3-1.5H643l-3.1,1.7l-3.8,1.1l-0.9,2.4l-3.7,13.5l2.4,2.7l2.8,4.1l3.1,5.9h6.1
+	c1.5-0.5,3.3-1.2,3.8-1.5c0.3-0.6,1.2-1.8,4.4-5.5l5.2-4.7l4.1-1.7h8.3l3.6,1.6h2.8v-9.7L672.9,318.6L672.9,318.6z"/>
+<path id="clark_1_" class="st11" d="M799.9,332.4c-0.3-0.1-0.6-0.2-0.9-0.3c-1-0.3-1.9-0.6-2.9-0.9c-3.6-1.2-6.7-2.3-10.4-1.4
+	c-0.7,0.2-1.4,0.4-2.1,0.6c-1.4,0.5-3,1-5,0.9c-2.6-0.1-5.3-1.1-7.5-1.8l-0.6-0.2c-1.4-0.5-5-1.8-6.3-1.2c-0.7,0.3-0.9,1.7-1.1,3.5
+	c-0.1,0.4-0.1,0.8-0.2,1.2l-0.8,6.2l-0.7-0.9v3H759l-0.9-0.8h-3.6v4.2l-1.4,1.8L753,351l7.5,1.6l2.3-5.4l17.7,5.5h7l5.5-4.3l1.6-5.9
+	l2.8-4.5l5.8-0.2l2.2-4.6C803.3,333.5,801.5,332.9,799.9,332.4z"/>
+<path id="gem_1_" class="st11" d="M640.3,310.1l1.7-5l0.8-1.4l-1-0.2l-2.8,2.1l-1.7-0.2v1.8l-0.2,0.3c-0.8,0.9-1.7,2.1-1.8,2.4
+	c0,0.1-0.2,0.8-0.3,1.5c-0.3,1.6-0.6,2.7-0.7,3c-0.2,0.6-0.9,2.9-0.9,3.2c0,0.5-0.2,1-2.9,1.8l-2.3,3.4l-3.7,3.4l-0.3,0.1
+	c-3.5,0.7-4.2-0.1-4.4-0.3c-0.2-0.2-0.7-0.5-1.1-0.7l-2,4.5l-0.9,1.2l6.5,2.3l3.3,0.8l4.4,1.6l3.5-13.1l1.1-3l2.4-4.9l1-2.4
+	L640.3,310.1z"/>
+<circle id="bear_lake_circle" class="st12" cx="796.6" cy="447" r="8"/>
+<text id="bear_lake_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 792.8913 449.2635)" class="st13 st7 st14">20</text>
+<circle id="franklin_circle" class="st12" cx="778.2" cy="447.1" r="8"/>
+<text id="franklin_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 774.5079 449.4302)" class="st13 st7 st14">20</text>
+<circle id="oneida_circle" class="st12" cx="752.5" cy="442.2" r="8"/>
+<text id="oneida_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 748.8079 444.5191)" class="st13 st7 st14">20</text>
+<circle id="caribou_circle" class="st12" cx="792.3" cy="420.1" r="8"/>
+<text id="caribou_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 788.5357 422.3746)" class="st13 st7 st14">20</text>
+<circle id="bannock_circle" class="st12" cx="768.2" cy="426.7" r="8"/>
+<text id="bannock_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 764.5135 429.0135)" class="st13 st7 st14">20</text>
+<circle id="power_circle" class="st12" cx="746.8" cy="419.1" r="8"/>
+<text id="power_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 743.0413 421.416)" class="st13 st7 st14">20</text>
+<circle id="cassia_circle" class="st12" cx="715.2" cy="432.3" r="8"/>
+<text id="cassia_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 711.4745 434.5969)" class="st13 st7 st14">20</text>
+<circle id="bingham_circle" class="st12" cx="764.9" cy="392.9" r="8"/>
+<text id="bingham_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 761.1469 395.2349)" class="st13 st7 st14">20</text>
+<circle id="bonneville_circle" class="st12" cx="802.1" cy="389.7" r="8"/>
+<text id="bonneville_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 798.3746 392.0381)" class="st13 st7 st14">20</text>
+<circle id="teton_circle" class="st12" cx="814.6" cy="372.3" r="8"/>
+<text id="teton_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 810.8788 374.5413)" class="st13 st7 st14">20</text>
+<circle id="madison_circle" class="st12" cx="798.6" cy="368.8" r="8"/>
+<text id="madison_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 794.9078 371.1268)" class="st13 st7 st14">20</text>
+<circle id="jefferson_circle" class="st12" cx="772.2" cy="361.6" r="8"/>
+<text id="jefferson_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 768.519 363.8604)" class="st13 st7 st14">20</text>
+<circle id="minidoka_circle" class="st12" cx="715.4" cy="405.6" r="8"/>
+<text id="minidoka_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 711.6967 407.8526)" class="st13 st7 st14">20</text>
+<circle id="lincoln_circle" class="st12" cx="699.7" cy="393.2" r="8"/>
+<text id="lincoln_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 695.9302 395.4412)" class="st13 st7 st14">20</text>
+<circle id="jerome_circle" class="st12" cx="692.9" cy="408.3" r="8"/>
+<text id="jerome_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 689.1747 410.5889)" class="st13 st7 st14">20</text>
+<circle id="twin_falls_circle" class="st12" cx="674.9" cy="422.1" r="8"/>
+<text id="twin_falls_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 671.1771 424.3746)" class="st13 st7 st14">20</text>
+<circle id="fremont_circle" class="st12" cx="807.3" cy="350.5" r="8"/>
+<text id="fremont_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 803.5856 352.7955)" class="st13 st7 st14">20</text>
+<circle id="clark_circle" class="st12" cx="776.8" cy="340.9" r="8"/>
+<text id="clark_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 773.0413 343.1729)" class="st13 st7 st14">20</text>
+<circle id="butte_circle" class="st12" cx="742.1" cy="365.5" r="8"/>
+<text id="butte_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 738.3746 367.838)" class="st13 st7 st14">20</text>
+<circle id="blaine_circle" class="st12" cx="707.2" cy="370.8" r="8"/>
+<text id="blaine_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 703.4857 373.0858)" class="st13 st7 st14">20</text>
+<circle id="gooding_circle" class="st12" cx="676.5" cy="388.6" r="8"/>
+<text id="gooding_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 672.8079 390.919)" class="st13 st7 st14">20</text>
+<circle id="camas_circle" class="st12" cx="680.6" cy="364.8" r="8"/>
+<text id="camas_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 676.8412 367.0413)" class="st13 st7 st14">20</text>
+<circle id="owyhee_circle" class="st12" cx="624.5" cy="401.8" r="8"/>
+<text id="owyhee_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 620.7411 404.097)" class="st13 st7 st14">20</text>
+<circle id="elmore_circle" class="st12" cx="655" cy="365.9" r="8"/>
+<text id="elmore_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 651.2856 368.1524)" class="st13 st7 st14">20</text>
+<circle id="ada_circle" class="st12" cx="628.9" cy="353.5" r="8"/>
+<text id="ada_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 625.1603 355.754)" class="st13 st7 st14">20</text>
+<circle id="canyon_circle" class="st12" cx="613.9" cy="341.5" r="8"/>
+<text id="canyon_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 610.1747 343.7889)" class="st13 st7 st14">20</text>
+<circle id="custer_circle" class="st12" cx="707.5" cy="327.6" r="8"/>
+<text id="custer_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 703.7468 329.9095)" class="st13 st7 st14">20</text>
+<circle id="boise_circle" class="st12" cx="652.5" cy="330.9" r="8"/>
+<text id="boise_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 648.7747 333.1539)" class="st13 st7 st14">20</text>
+<circle id="gem_circle" class="st12" cx="629.3" cy="322.5" r="8"/>
+<text id="gem_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 625.5381 324.7471)" class="st13 st7 st14">20</text>
+<circle id="payette_circle" class="st12" cx="616.5" cy="322" r="8"/>
+<text id="payette_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 612.7524 324.3206)" class="st13 st7 st14">20</text>
+<circle id="washington_circle" class="st12" cx="619.7" cy="301" r="8"/>
+<text id="washington_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 616.0079 303.2635)" class="st13 st7 st14">20</text>
+<circle id="lemhi_circle" class="st12" cx="726.8" cy="298" r="8"/>
+<text id="lemhi_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 723.0649 300.254)" class="st13 st7 st14">20</text>
+<circle id="valley_circle" class="st12" cx="664.7" cy="293.8" r="8"/>
+<text id="valley_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 660.9635 296.0484)" class="st13 st7 st14">20</text>
+<circle id="adams_circle" class="st12" cx="635.8" cy="281.9" r="8"/>
+<text id="adams_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 632.0858 284.1873)" class="st13 st7 st14">20</text>
+<circle id="idaho_circle" class="st12" cx="678.7" cy="242.8" r="8"/>
+<text id="idaho_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 674.9524 245.0762)" class="st13 st7 st14">20</text>
+<circle id="lewis_circle" class="st12" cx="653.6" cy="211.4" r="8"/>
+<text id="lewis_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 649.8967 213.6656)" class="st13 st7 st14">20</text>
+<circle id="nez_perce_circle" class="st12" cx="641.7" cy="202.2" r="8"/>
+<text id="nez_perce_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 637.9692 204.5318)" class="st13 st7 st14">20</text>
+<circle id="clearwater_circle" class="st12" cx="680.2" cy="196.2" r="8"/>
+<text id="clearwater_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 676.4302 198.4708)" class="st13 st7 st14">20</text>
+<circle id="latah_circle" class="st12" cx="649.3" cy="183.3" r="8"/>
+<text id="latah_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 645.6136 185.5818)" class="st13 st7 st14">20</text>
+<circle id="benewah_circle" class="st12" cx="655.8" cy="164" r="8"/>
+<text id="benewah_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 652.0747 166.2747)" class="st13 st7 st14">20</text>
+<circle id="shoshone_circle" class="st12" cx="679.7" cy="168" r="8"/>
+<text id="shoshone_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 675.9421 170.2486)" class="st13 st7 st14">20</text>
+<circle id="kootenai_circle" class="st12" cx="659.4" cy="141.5" r="8"/>
+<text id="kootenai_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 655.7247 143.804)" class="st13 st7 st14">20</text>
+<circle id="bonner_circle" class="st12" cx="670.4" cy="113.2" r="8"/>
+<text id="bonner_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 666.6525 115.5113)" class="st13 st7 st14">20</text>
+<circle id="boundary_circle" class="st12" cx="677.8" cy="87.3" r="8"/>
+<text id="boundary_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 674.0247 89.5892)" class="st13 st7 st14">20</text>
+<g id="table_data">
+	<text transform="matrix(1 0 0 1 26.9251 545.1666)" class="st2 st7 st8">Confirmed Cases</text>
+	<text transform="matrix(1 0 0 1 26.9251 589.0984)" class="st2 st7 st8">Deaths</text>
+	<text id="current_date" transform="matrix(1 0 0 1 210.4548 500.8844)" class="st2 st7 st8">6 Apr. 2020</text>
+	<text id="previous_date" transform="matrix(1 0 0 1 345.233 500.8844)" class="st2 st7 st8">5 Apr. 2020</text>
+	<text id="growth_rate__x25_" transform="matrix(1 0 0 1 464.3013 500.8844)" class="st2 st7 st8">Growth Rate %</text>
+	<text transform="matrix(1 0 0 1 679.5763 500.8844)" class="st2 st7 st8">Total Confirmed Cases</text>
+	<text id="current_сases" transform="matrix(1 0 0 1 233.3104 548.9186)" class="st15 st7 st5">783</text>
+	<text id="previous_deaths" transform="matrix(1 0 0 1 370.0468 593.3981)" class="st15 st7 st5">14</text>
+	<text id="current_deaths" transform="matrix(1 0 0 1 236.8307 592.4182)" class="st15 st7 st5">15</text>
+	<text id="total_cases" transform="matrix(1 0 0 1 720.198 578.0618)" class="st16 st7 st17">783</text>
+	<text id="previous_сases" transform="matrix(1 0 0 1 368.1106 548.9186)" class="st15 st7 st5">673</text>
+	<text id="cases_growth_rate" transform="matrix(1 0 0 1 498.0239 550.4548)" class="st15 st7 st5">16 %</text>
+	<text id="death_growth_rate" transform="matrix(1 0 0 1 502.4232 594.9341)" class="st15 st7 st5">7 %</text>
+</g>
+<g id="types">
+	<g>
+		<circle id="_x34__1_" class="st12" cx="883.3" cy="-42.5" r="17"/>
+		
+			<text id="_x34__numbers_1_" transform="matrix(1 2.629946e-03 -2.629946e-03 1 869.7509 -39.0023)" class="st13 st7" style="font-size:9px;">20,800</text>
+	</g>
+	<g>
+		<circle id="_x33__1_" class="st12" cx="837.6" cy="-40.1" r="13.9"/>
+		
+			<text id="_x33__numbers_1_" transform="matrix(1 2.629954e-03 -2.629954e-03 1 825.4574 -36.0193)" class="st13 st7" style="font-size:9px;">1,000</text>
+	</g>
+	<g>
+		<circle id="_x32__1_" class="st12" cx="796.4" cy="-40" r="10.4"/>
+		
+			<text id="_x32__numbers_1_" transform="matrix(1 2.629936e-03 -2.629936e-03 1 787.7492 -36.1608)" class="st13 st7" style="font-size:10px;">100</text>
+	</g>
+	<g>
+		<circle id="_x31__2_" class="st12" cx="731.9" cy="-40" r="6"/>
+		
+			<text id="_x31__numbers_2_" transform="matrix(1 2.629982e-03 -2.629982e-03 1 730.1271 -37.6575)" class="st13 st7" style="font-size:6px;">1</text>
+	</g>
+	<g>
+		<circle id="_x31__1_" class="st12" cx="762" cy="-40" r="8"/>
+		
+			<rect x="758" y="-43.4" transform="matrix(2.629829e-03 -1 1 2.629829e-03 799.5848 722.4491)" class="st18" width="8" height="7.5"/>
+		
+			<text id="_x31__numbers_1_" transform="matrix(1 2.629927e-03 -2.629927e-03 1 757.2252 -37.7617)" class="st13 st7" style="font-size:8px;">10</text>
+	</g>
+</g>
+</svg>

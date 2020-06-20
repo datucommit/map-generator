@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.5, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 916.5 609.2" style="enable-background:new 0 0 916.5 609.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F5FBFE;}
+	.st1{fill:#DDEEFA;}
+	.st2{fill:#255078;}
+	.st3{font-family:'Georgia';}
+	.st4{font-size:18px;}
+	.st5{font-size:16px;}
+	.st6{fill:#4C4B4D;}
+	.st7{font-family:'ArialMT';}
+	.st8{font-size:14px;}
+	.st9{fill:#CD483B;}
+	.st10{fill:none;}
+	.st11{fill:#AEDBF5;}
+	.st12{fill:#FFFFFF;}
+	.st13{font-size:7.0557px;}
+	.st14{fill:#4C4B4C;}
+	.st15{fill:#DB3029;}
+	.st16{font-size:36px;}
+</style>
+<g id="Texts">
+	<polygon id="blue_bg" class="st0" points="0,473.8 0,510.8 0,520.4 0,609.2 173.5,609.2 173.5,520.4 915,520.4 915,473.8 	"/>
+	<path id="line_bg" class="st1" d="M916.5,0H0l0,0v474.4v2v42.9v2v42.9v2v42.9l0,0h579.8l0,0H913l0,0h3.5V0z M913,56.8v417.6H578.4
+		l-0.6-0.3v0.3H443.6l-0.6-0.3v0.3H3V56.8H913z M913,476.4v42.9H579.8v-42.9H913z M445.1,519.4v-42.9h132.8v42.9H445.1z
+		 M577.8,521.4v42.9H445.1v-42.9H577.8z M310.3,519.4v-42.9h132.8v42.9H310.3z M443.1,521.4v42.9H310.3v-42.9H443.1z M175.5,519.4
+		v-42.9h132.8v42.9H175.5z M308.3,521.4v42.9H175.5v-42.9H308.3z M173.5,476.4v42.9H3v-42.9H173.5z M173.5,521.4v42.9H3v-42.9H173.5
+		z M3,566.3h170.5v39.9H3V566.3z M175.5,566.3h132.8v39.9H175.5V566.3z M310.3,566.3h132.8v39.9H310.3V566.3z M445.1,566.3h132.8
+		v39.9H445.1V566.3z M579.8,521.4H913v84.8H579.8V521.4z"/>
+	<text id="title" transform="matrix(1 0 0 1 32.8483 35.8371)" class="st2 st3 st4">COVID-19 in Utah on</text>
+	<text id="date" transform="matrix(1 0 0 1 209.4693 35.8371)" class="st2 st3 st4">April 27th, 2020</text>
+	<text transform="matrix(1 0 0 1 95.4547 128.1714)" class="st2 st3 st5">State Confirmed Cases By County</text>
+	<g>
+		<text transform="matrix(1 0 0 1 95.4551 167.837)" class="st6 st7 st8">Beaver  15</text>
+		<text transform="matrix(1 0 0 1 95.4549 193.0316)" class="st6 st7 st8">Box Elder  13</text>
+		<text transform="matrix(1 0 0 1 95.4549 218.2265)" class="st6 st7 st8">Cache  9</text>
+		<text transform="matrix(1 0 0 1 95.4549 243.4218)" class="st6 st7 st8">Carbon  6</text>
+		<text transform="matrix(1 0 0 1 95.4549 268.6167)" class="st6 st7 st8">Daggett  6</text>
+		<text transform="matrix(1 0 0 1 95.4549 293.812)" class="st6 st7 st8">Davis  10</text>
+		<text transform="matrix(1 0 0 1 95.4549 319.0068)" class="st6 st7 st8">Duchesne  4</text>
+		<text transform="matrix(1 0 0 1 95.4549 344.2016)" class="st6 st7 st8">Emery  3</text>
+		<text id="Yuma_53_x09__1_" transform="matrix(1 0 0 1 95.4548 369.3968)" class="st6 st7 st8">Garfield  9</text>
+		<text transform="matrix(1 0 0 1 95.4548 394.592)" class="st6 st7 st8">Grand  549</text>
+		<text transform="matrix(1 0 0 1 212.0946 167.8371)" class="st6 st7 st8">Iron  448</text>
+		<text transform="matrix(1 0 0 1 212.0947 193.032)" class="st6 st7 st8">Juab  263</text>
+		<text transform="matrix(1 0 0 1 212.0947 218.2271)" class="st6 st7 st8">Kane  18</text>
+		<text transform="matrix(1 0 0 1 212.0947 243.4219)" class="st6 st7 st8">Millard  11</text>
+		<text transform="matrix(1 0 0 1 212.0947 268.6169)" class="st6 st7 st8">Morgan  18</text>
+		<text transform="matrix(1 0 0 1 212.0947 293.8121)" class="st6 st7 st8">Piute  11</text>
+		<text id="Yuma_53_x09__2_" transform="matrix(1 0 0 1 212.0949 319.007)" class="st6 st7 st8">Rich  9</text>
+		<text transform="matrix(1 0 0 1 212.0949 344.2018)" class="st6 st7 st8">Salt Lake  549</text>
+		<text transform="matrix(1 0 0 1 212.0947 369.3966)" class="st6 st7 st8">San Juan  448</text>
+		<text transform="matrix(1 0 0 1 212.0948 394.5919)" class="st6 st7 st8">Sanpete  263</text>
+		<text transform="matrix(1 0 0 1 333.0548 164.5521)" class="st6 st7 st8">Sevier  18</text>
+		<text transform="matrix(1 0 0 1 333.0548 190.4717)" class="st6 st7 st8">Summit  11</text>
+		<text transform="matrix(1 0 0 1 333.0547 216.3921)" class="st6 st7 st8">Tooele  18</text>
+		<text transform="matrix(1 0 0 1 333.0549 242.3116)" class="st6 st7 st8">Uintah  11</text>
+		<text id="Yuma_53_x09__3_" transform="matrix(1 0 0 1 333.0546 268.2319)" class="st6 st7 st8">Utah  9</text>
+		<text transform="matrix(1 0 0 1 333.0546 294.1518)" class="st6 st7 st8">Wasatch  549</text>
+		<text transform="matrix(1 0 0 1 333.0549 320.0714)" class="st6 st7 st8">Washington  448</text>
+		<text transform="matrix(1 0 0 1 333.0545 345.9916)" class="st6 st7 st8">Wayne  263</text>
+		<text transform="matrix(1 0 0 1 333.0545 371.9117)" class="st6 st7 st8">Weber  18</text>
+	</g>
+</g>
+<g id="TYPES_1_">
+	<g>
+		<circle id="_x34__1_" class="st9" cx="877.4" cy="-51.1" r="29.4"/>
+		
+			<text id="_x34__numbers_1_" transform="matrix(1 2.629882e-03 -2.629882e-03 1 850.0706 -44.5537)" class="st12 st7" style="font-size:17.4824px;">10,000</text>
+	</g>
+	<g>
+		<circle id="_x33__1_" class="st9" cx="807.8" cy="-50" r="21.2"/>
+		
+			<text id="_x33__numbers_1_" transform="matrix(1 2.629890e-03 -2.629890e-03 1 788.5741 -44.5777)" class="st12 st7" style="font-size:15.1514px;">1,000</text>
+	</g>
+	<g>
+		<circle id="_x32__1_" class="st9" cx="750.1" cy="-48.9" r="14.5"/>
+		
+			<text id="_x32__numbers_1_" transform="matrix(1 2.629873e-03 -2.629873e-03 1 737.7988 -43.6098)" class="st12 st7" style="font-size:13.9859px;">100</text>
+	</g>
+	<g>
+		<circle id="_x31__2_" class="st9" cx="660.3" cy="-47.8" r="8.4"/>
+		
+			<text id="_x31__numbers_2_" transform="matrix(1 2.629910e-03 -2.629910e-03 1 657.9083 -44.3059)" class="st12 st7" style="font-size:8.5717px;">1</text>
+	</g>
+	<g>
+		<circle id="_x31__1_" class="st9" cx="702.2" cy="-47.8" r="11.2"/>
+		
+			<rect x="696.6" y="-52.5" transform="matrix(2.629838e-03 -1 1 2.629838e-03 747.5853 655.0355)" class="st10" width="11.2" height="10.5"/>
+		
+			<text id="_x31__numbers_1_" transform="matrix(1 2.629863e-03 -2.629863e-03 1 696.0352 -44.4463)" class="st12 st7" style="font-size:10.4894px;">10</text>
+	</g>
+</g>
+<g id="Counties">
+	<polygon id="wasatch" class="st11" points="754.4,201 746.9,202.8 741.2,202.8 739.1,199.9 733.7,195.4 724.1,194.8 722.8,196.3 
+		722,204 720.5,206.2 720.5,207.7 722.6,211.5 725.5,211.5 727.7,216.2 732.8,216.2 735.6,220.3 737.1,230.9 733.9,233.9 
+		736.9,237.2 739.7,243.5 742.8,244.6 748.6,247 755.8,199 	"/>
+	<path id="summit" class="st11" d="M805.5,182.3l-55.6-8l2.5-15.8l-4.4,0.3l-2.4,2.2l-0.3,0.1c-5.3,1.3-13.9,3.4-14.9,3.8
+		c-0.5,0.2-1.4,1.5-2,3v3.1c0.1,0.4,1.5,2.4,2.5,3.8l0.3,0.4v4.6l-3.4,3.5h-3.9l0.6,6.1l1.3,3.1l8.9,0.6l6.4,5.3l1.5,2h4.4l6.1-1.5
+		l3.9-5.3l1.7-2.7l15.9-2.4l28.8,2L805.5,182.3z"/>
+	<polygon id="duchesne" class="st11" points="777,256.9 793.1,257.9 802.8,195 802.8,192.9 774.5,190.9 760,193.1 759,194.7 
+		750.9,248.4 753.1,251.6 	"/>
+	<polygon id="weber" class="st11" points="712.4,141.9 703.2,141.8 698.1,140.2 688.1,150.8 689.1,150.5 702.2,150.5 710.4,154.3 
+		713.3,153.5 715.2,151.2 721.2,151.2 724.8,152.4 730.5,151.2 735.4,149.9 737.3,144 735.2,142.7 734.3,142.2 719.6,141.9 718,140 
+		714.5,140 	"/>
+	<polygon id="davis" class="st11" points="684.1,155.2 691.4,173.8 698.3,170.5 701.1,167.8 707.5,167.8 707.5,175.3 716.3,175 
+		713.1,156.2 710.1,157 701.6,153 689.3,153 684.9,154.3 	"/>
+	<path id="rich" class="st11" d="M752.7,156.1l7.9-49.5c-3.4-0.5-9.3-1.5-17.3-2.8l1.8,22.2l-2.6,5.1l-2.7,2.6l-3.4,6.9l4,2.4l0,0
+		l0.9,0.5l4.1,4.2l3.4,6.6v2L752.7,156.1z"/>
+	<polygon id="salt_lake" class="st11" points="702.1,170.3 699.5,172.7 691.9,176.2 690.4,195.1 694.4,200.1 697.5,201.7 
+		704.1,201.7 713.5,197.4 720.9,194.7 721.2,194.2 723,192.2 723,192.2 723,192.2 722.1,189.8 721.2,182.6 717.5,177.9 717.2,177.5 
+		705.1,177.8 705.1,170.3 	"/>
+	<path id="morgan" class="st11" d="M726.1,167.1c0.4-0.9,1.7-3.9,3.4-4.5c1.4-0.5,12.5-3.3,14.9-3.9l1.9-1.6v-2.2l-3.1-6l-3.6-3.6
+		l-2.2,6.7l-6.3,1.5l-6.5,1.5l-4-1.5h-4.2l-1.1,1.4l3.5,20.9l0.5,0.5l3.7,4.5h3.6l2.1-2.1v-2.8c-2.8-3.8-2.8-4.7-2.8-5v-3.5
+		L726.1,167.1z"/>
+	<polygon id="sanpete" class="st11" points="727.7,254.5 728.2,253.3 728.8,252 712.4,249.1 707.6,255.5 705.3,260.1 702.6,274.8 
+		696.7,277.6 694.1,275.1 689.8,275.1 687.2,278.7 685.1,294.4 699.9,298 718.3,302.2 720.7,287.6 727.6,255.2 727.5,255 	"/>
+	<path id="cache" class="st11" d="M715,126.6l3.7,1.2v9.7h0.5l1.6,2l13.2,0.3l4-7.7l2.7-2.6l2-4l-1.8-22.1c-7.9-1.4-17.7-3-29.1-5
+		l-0.5,2c2.6,2.6,2.6,3,2.6,3.4s1,6.4,1.5,10l0.1,0.4l-2.6,6.5L715,126.6z"/>
+	<polygon id="utah" class="st11" points="749.9,251.3 748.8,249.7 742,246.9 737.9,245.5 734.8,238.5 730.3,233.7 734.5,230 
+		733.2,221.2 731.5,218.7 726.1,218.7 723.9,214 721.2,214 718.1,208.3 718.1,205.3 719.6,203.1 720.2,197.5 714.4,199.7 
+		704.6,204.2 696.8,204.2 692.8,202 690,198.6 688.3,219.6 685.5,229.3 687.2,229.3 692.1,235.6 691.3,238.3 688.6,243.7 
+		693.1,243.7 693.1,242.2 699.8,236.2 701.7,236.5 705.3,233.4 706.6,243.3 709.3,244.5 710.9,246.4 730.7,249.9 	"/>
+	<polygon id="daggett" class="st11" points="845.4,205.8 845.4,206.5 846.6,207.3 849.2,188.6 807.9,182.7 805.3,191.9 805.3,193.9 
+		808.5,194.1 810.5,196.1 831.6,192.6 839.4,192.6 844.6,195.1 846.9,197.3 846.9,204.7 	"/>
+	<polygon id="grand" class="st11" points="826.8,353.6 835.1,291.8 790.9,284.2 790.9,290.8 783.3,302 779.4,315 778.7,338.5 
+		782.7,338.5 782.6,346.6 	"/>
+	<polygon id="emery" class="st11" points="781.1,300.8 788.5,290.1 788.5,283.7 735.2,274.7 729.2,259.2 723.2,288 719.3,312.1 
+		713.4,335.7 780.1,346.3 780.1,340.9 776.1,340.9 777.1,314.5 	"/>
+	<polygon id="piute" class="st11" points="654.2,347.3 653.6,350.5 679.7,354.8 685.7,335.1 685,335 652.1,327.8 651.8,329.7 
+		657.1,334.4 658.5,338.6 658.5,342.3 	"/>
+	<path id="kane" class="st11" d="M717.1,431.7l16.3-16.5l3.4-5.6l-56.3-10.1l-51.2-9.2l-8,2.4l-1.5,0.5c-0.5,1-1.5,2.7-1.9,3.4
+		c-0.4,1.5-1.1,11.3-1.6,20.1l-0.1,0.4l-1.4,3.4c22.7,4.3,51.2,9.3,84.6,14.8L717.1,431.7z"/>
+	<path id="washington" class="st11" d="M613.9,416.6c1.3-20.2,1.7-20.8,2.1-21.1c0.2-0.2,0.7-1.2,1.3-2.2l-18.4-2.9l-7.2-5.8
+		l-7.7-6.8l-17.1-2.5l-4.1-1.4L556,409c7.2,1.5,26.7,5.6,56.6,11.3L613.9,416.6z"/>
+	<path id="san_juan" class="st11" d="M826.4,356.1l-43.7-6.9l2.3,23.3l-7.5,2.6l-10.2,9.4l-7.9,3.9l-8.9,4.6l-3.4,5.1l-5.4,7.1
+		l-1.1,2.4h0.2l-0.8,1.5l0,0l0,0l-4.6,7.6l-17,17.1l-12.2,2.5c31.7,5.2,67.6,10.6,107.1,16.2L826.4,356.1z"/>
+	<polygon id="wayne" class="st11" points="782.3,370.8 780.2,348.8 701.3,336.3 688.2,335.3 682.1,355.2 781.3,371.1 	"/>
+	<polygon id="garfield" class="st11" points="738.1,407.3 739.7,404.1 745.1,396.9 748.7,391.3 758.3,386.3 766.1,382.5 776.1,373 
+		776.5,372.8 651.9,352.8 650.2,352.8 647.7,369.7 639.9,369.7 635.4,372.8 632.4,376.9 630.7,388.1 681,397.1 	"/>
+	<polygon id="iron" class="st11" points="563.2,371.4 567.4,372.8 585,375.2 593.2,382.6 599.7,387.9 619,391 628.2,388.1 
+		630.1,375.9 633.8,370.9 639.1,367.2 645.6,367.2 647.7,352.5 569.7,337.4 	"/>
+	<polygon id="beaver" class="st11" points="651,350.3 651.9,346.2 656,341.4 656,338.8 654.9,335.7 649.3,330.7 649.7,326.7 
+		646.2,322.7 575.2,309.1 570.3,335 649.2,350.3 	"/>
+	<polygon id="millard" class="st11" points="575.7,306.6 647.5,320.4 650.1,323.4 654.7,315 661.8,315 669.6,310.8 671.8,307.8 
+		674.9,304.7 682.6,294.8 684.7,279 676.3,274.8 678.2,260.1 659.7,257.3 587.9,244.2 	"/>
+	<polygon id="juab" class="st11" points="588.3,241.8 660.1,254.9 681,258.2 679.1,273.5 685.6,276.8 688.4,272.7 695.2,272.7 
+		697.1,274.7 700.5,273 703,259.1 705.6,254.2 709.7,248.6 709.5,248.6 707.8,246.5 704.4,245 703.5,238.2 702.6,239 700.6,238.7 
+		695.6,243.3 695.6,246.2 684.6,246.2 689,237.3 689.4,236 685.9,231.7 684,231.7 677.6,234.6 650.7,232.7 592.5,220.5 	"/>
+	<path id="box_elder" class="st11" d="M670.1,156.3l13.3-4.1l13.9-15l6.4,2.2h7.6l2.1-1.9h2.7v-7.9l-3.2-1l-3.1-8l2.7-6.8
+		c-1.1-6.8-1.4-9-1.5-9.7c-0.4-0.5-1.5-1.6-2.4-2.6l-0.5-0.5l0.9-3.2c-23.7-4.2-54.2-9.7-89.7-16.5L607,145.2L670.1,156.3z"/>
+	<polygon id="sevier" class="st11" points="711,335.3 716.8,311.7 718,304.6 699.4,300.3 684.3,296.7 676.7,306.2 673.6,309.4 
+		671.2,312.7 662.4,317.4 656.2,317.4 651.9,325.2 685.4,332.6 701.6,333.8 	"/>
+	<polygon id="tooele" class="st11" points="592.9,218 651.2,230.2 677.2,232 682.8,229.6 685.9,219 689.5,175.7 681.6,155.3 
+		670.3,158.9 670,158.9 606.6,147.6 	"/>
+	<polygon id="carbon" class="st11" points="788.5,275 794.2,265.6 799.1,262.1 799.1,260.8 776.5,259.3 752.2,253.9 731.3,252.3 
+		730.2,255 736.9,272.4 788.5,281.3 	"/>
+	<polygon id="uintah" class="st11" points="846.3,210.1 842.9,207.9 842.9,204.4 844.4,203.4 844.4,198.4 843,197 838.8,195.1 
+		831.7,195.1 809.7,198.7 807.5,196.5 805.1,196.4 795.6,258.1 801.6,258.4 801.6,263.3 796,267.3 790.9,275.8 790.9,281.7 
+		835.5,289.4 	"/>
+</g>
+<g id="balls">
+	<circle id="san_juan_circle" class="st9" cx="781.7" cy="405.6" r="8.4"/>
+	<circle id="wayne_circle" class="st9" cx="726.2" cy="351.6" r="8.4"/>
+	<circle id="piute_circle" class="st9" cx="668.3" cy="341.5" r="8.4"/>
+	<circle id="garfield_circle" class="st9" cx="696.7" cy="381.8" r="8.4"/>
+	<circle id="kane_circle" class="st9" cx="667.2" cy="414.2" r="8.4"/>
+	<circle id="washington_circle" class="st9" cx="585.5" cy="398.4" r="8.4"/>
+	<circle id="iron_circle" class="st9" cx="603.5" cy="364.6" r="8.4"/>
+	<circle id="beaver_circle" class="st9" cx="609.6" cy="328.7" r="8.4"/>
+	<circle id="sevier_circle" class="st9" cx="692.4" cy="314.2" r="8.4"/>
+	<circle id="emery_circle" class="st9" cx="749" cy="305.5" r="8.4"/>
+	<circle id="sanpete_circle" class="st9" cx="711.8" cy="278.2" r="8.4"/>
+	<circle id="millard_circle" class="st9" cx="625.4" cy="281" r="8.4"/>
+	<circle id="juab_circle" class="st9" cx="642" cy="242.2" r="8.4"/>
+	<circle id="carbon_circle" class="st9" cx="760.8" cy="265.9" r="8.4"/>
+	<circle id="grand_circle" class="st9" cx="806.9" cy="315.6" r="8.4"/>
+	<circle id="uintah_circle" class="st9" cx="821.3" cy="236.4" r="8.4"/>
+	<circle id="daggett_circle" class="st9" cx="825.6" cy="190.3" r="8.4"/>
+	<circle id="duchesne_circle" class="st9" cx="776.6" cy="223.4" r="8.4"/>
+	<circle id="wasatch_circle" class="st9" cx="741.3" cy="215.5" r="8.4"/>
+	<circle id="utah_circle" class="st9" cx="711.8" cy="221.3" r="8.4"/>
+	<circle id="summit_circle" class="st9" cx="746.8" cy="181" r="8.4"/>
+	<circle id="salt_lake_circle" class="st9" cx="703.9" cy="186.7" r="8.4"/>
+	<circle id="morgan_circle" class="st9" cx="730.5" cy="159.4" r="8.4"/>
+	<circle id="davis_circle" class="st9" cx="700.3" cy="161.5" r="8.4"/>
+	<circle id="weber_circle" class="st9" cx="716.7" cy="146.8" r="8.4"/>
+	<circle id="rich_circle" class="st9" cx="750" cy="127" r="8.4"/>
+	<circle id="cache_circle" class="st9" cx="728.4" cy="119" r="8.4"/>
+	<circle id="tooele_circle" class="st9" cx="638.8" cy="193.9" r="8.4"/>
+	<circle id="box_elder_circle" class="st9" cx="655.4" cy="123.4" r="8.4"/>
+	<text id="san_juan_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 777.6941 407.4515)" class="st12 st7 st13">10</text>
+	<text id="wayne_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 722.2541 353.4515)" class="st12 st7 st13">10</text>
+	<text id="piute_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 664.3602 343.3792)" class="st12 st7 st13">10</text>
+	<text id="garfield_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 692.7341 383.6915)" class="st12 st7 st13">10</text>
+	<text id="kane_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 663.2141 416.0915)" class="st12 st7 st13">10</text>
+	<text id="washington_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 581.5741 400.2515)" class="st12 st7 st13">10</text>
+	<text id="iron_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 599.5602 366.4193)" class="st12 st7 st13">10</text>
+	<text id="beaver_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 605.6141 330.5715)" class="st12 st7 st13">10</text>
+	<text id="sevier_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 688.4141 316.0115)" class="st12 st7 st13">10</text>
+	<text id="emery_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 745.0002 307.3792)" class="st12 st7 st13">10</text>
+	<text id="sanpete_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 707.8541 280.0115)" class="st12 st7 st13">10</text>
+	<text id="millard_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 621.4541 282.8915)" class="st12 st7 st13">10</text>
+	<text id="juab_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 638.0141 244.0115)" class="st12 st7 st13">10</text>
+	<text id="carbon_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 756.8141 267.7715)" class="st12 st7 st13">10</text>
+	<text id="grand_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 802.8941 317.4515)" class="st12 st7 st13">10</text>
+	<text id="uintah_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 817.2941 238.2515)" class="st12 st7 st13">10</text>
+	<text id="daggett_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 821.6141 192.1716)" class="st12 st7 st13">10</text>
+	<text id="duchesne_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 772.6541 225.2915)" class="st12 st7 st13">10</text>
+	<text id="wasatch_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 737.3741 217.3715)" class="st12 st7 st13">10</text>
+	<text id="utah_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 707.8541 223.1315)" class="st12 st7 st13">10</text>
+	<text id="summit_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 742.8402 182.8193)" class="st12 st7 st13">10</text>
+	<text id="salt_lake_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 699.9341 188.5715)" class="st12 st7 st13">10</text>
+	<text id="morgan_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 726.5741 161.2115)" class="st12 st7 st13">10</text>
+	<text id="davis_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 696.3341 163.3715)" class="st12 st7 st13">10</text>
+	<text id="weber_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 712.7172 148.6716)" class="st12 st7 st13">10</text>
+	<text id="rich_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 746.0141 128.8115)" class="st12 st7 st13">10</text>
+	<text id="cache_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 724.4141 120.8916)" class="st12 st7 st13">10</text>
+	<text id="tooele_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 634.8402 195.7793)" class="st12 st7 st13">10</text>
+	<text id="box_elder_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 651.4002 125.2192)" class="st12 st7 st13">10</text>
+</g>
+<g id="table_data">
+	<text transform="matrix(1 0 0 1 22.1633 545.0624)" class="st2 st7 st8">Confirmed Cases</text>
+	<text transform="matrix(1 0 0 1 22.1633 588.9941)" class="st2 st7 st8">Deaths</text>
+	<text id="current_date" transform="matrix(1 0 0 1 205.6929 500.7802)" class="st2 st7 st8">6 Apr. 2020</text>
+	<text id="previous_date" transform="matrix(1 0 0 1 340.4711 500.7802)" class="st2 st7 st8">5 Apr. 2020</text>
+	<text id="growth_rate__x25_" transform="matrix(1 0 0 1 459.5392 500.7802)" class="st2 st7 st8">Growth Rate %</text>
+	<text transform="matrix(1 0 0 1 674.8142 500.7802)" class="st2 st7 st8">Total Confirmed Cases</text>
+	<text id="current_сases" transform="matrix(1 0 0 1 228.5485 548.8145)" class="st14 st7 st5">783</text>
+	<text id="previous_deaths" transform="matrix(1 0 0 1 371.2616 593.2939)" class="st14 st7 st5">14</text>
+	<text id="current_deaths" transform="matrix(1 0 0 1 232.0688 592.3143)" class="st14 st7 st5">15</text>
+	<text id="total_cases" transform="matrix(1 0 0 1 733.2635 577.9576)" class="st15 st7 st16">783</text>
+	<text id="previous_сases" transform="matrix(1 0 0 1 363.3488 548.8145)" class="st14 st7 st5">673</text>
+	<text id="cases_growth_rate" transform="matrix(1 0 0 1 493.2618 550.3508)" class="st14 st7 st5">16 %</text>
+	<text id="death_growth_rate" transform="matrix(1 0 0 1 497.6611 594.83)" class="st14 st7 st5">7 %</text>
+</g>
+</svg>

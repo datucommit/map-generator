@@ -438,7 +438,7 @@ def do_upload():
     fj = create_full_json_object(prev_date, curr_date, state)
     sdasjs = json.dumps(fj)
 
-    with open(f'1-19/{state} Coronavirus cases.svg', 'r') as state_svg:
+    with open(f'batch3/{state} Coronavirus cases.svg', 'r') as state_svg:
         svg_string = state_svg.read()
         # response.headers['Content-Type'] = 'image/svg+xml'
         script_prefix = f"""

@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 916.5 840.3" style="enable-background:new 0 0 916.5 840.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F5FBFE;}
+	.st1{fill:#DDEEFA;}
+	.st2{fill:#255078;}
+	.st3{font-family:'Georgia';}
+	.st4{font-size:18px;}
+	.st5{font-size:16px;}
+	.st6{fill:#4C4B4D;}
+	.st7{font-family:'ArialMT';}
+	.st8{font-size:14px;}
+	.st9{fill:#4C4B4C;}
+	.st10{fill:#DB3029;}
+	.st11{font-size:36px;}
+	.st12{fill:#ADD8F3;}
+	.st13{fill:#CD483B;}
+	.st14{fill:#FFFFFF;}
+	.st15{font-size:5.0612px;}
+	.st16{fill:none;}
+</style>
+<g id="Texts">
+	<polygon id="blue_bg" class="st0" points="0,704.9 0,741.9 0,751.5 0,840.3 173.5,840.3 173.5,751.5 915,751.5 915,704.9 	"/>
+	<path id="line_bg" class="st1" d="M916.5,0H0v230.3v475.1v2v43v2v43v2v43l0,0h579.8l0,0H913l0,0h3.5V0z M913,56.9v648.5H578.4
+		l-0.6-0.3v0.3H443.6l-0.6-0.3v0.3H3V56.9H913z M913,707.5v42.9H579.8v-42.9H913z M445.1,750.5v-42.9h132.8v42.9H445.1z
+		 M577.8,752.5v42.9H445.1v-42.9H577.8z M310.3,750.5v-42.9h132.8v42.9H310.3z M443.1,752.5v42.9H310.3v-42.9H443.1z M175.5,750.5
+		v-42.9h132.8v42.9H175.5z M308.3,752.5v42.9H175.5v-42.9H308.3z M173.5,707.5v42.9H3v-42.9H173.5z M173.5,752.5v42.9H3v-42.9H173.5
+		z M3,797.4h170.5v39.9H3V797.4z M175.5,797.4h132.8v39.9H175.5V797.4z M310.3,797.4h132.8v39.9H310.3V797.4z M445.1,797.4h132.8
+		v39.9H445.1V797.4z M579.8,752.5H913v84.9H579.8V752.5z"/>
+	<text id="title" transform="matrix(1 0 0 1 32.8483 35.8372)" class="st2 st3 st4">COVID-19 in Kansas on</text>
+	<text id="date" transform="matrix(1 0 0 1 229.4693 35.8372)" class="st2 st3 st4">April 27th, 2020</text>
+	<text transform="matrix(1 0 0 1 36.1886 106.2851)" class="st2 st3 st5">State Confirmed Cases By County</text>
+	<g>
+		<text transform="matrix(1 0 0 1 36.1882 173.3535)" class="st6 st7 st8">Anderson  10</text>
+		<text transform="matrix(1 0 0 1 36.1882 196.5128)" class="st6 st7 st8">Atchison  10</text>
+		<text transform="matrix(1 0 0 1 36.1882 219.6712)" class="st6 st7 st8">Barber  10</text>
+		<text transform="matrix(1 0 0 1 36.1667 242.8301)" class="st6 st7 st8">Barton  10</text>
+		<text transform="matrix(1 0 0 1 36.1667 265.989)" class="st6 st7 st8">Bourbon  10</text>
+		<text transform="matrix(1 0 0 1 36.1667 289.1478)" class="st6 st7 st8">Brown  10</text>
+		<text transform="matrix(1 0 0 1 36.1667 312.3066)" class="st6 st7 st8">Butler  10</text>
+		<text transform="matrix(1 0 0 1 36.1884 150.1947)" class="st6 st7 st8">Allen  10</text>
+		<text transform="matrix(1 0 0 1 36.1667 358.6242)" class="st6 st7 st8">Chautauqua  10</text>
+		<text transform="matrix(1 0 0 1 36.1669 381.7833)" class="st6 st7 st8">Cherokee  10</text>
+		<text transform="matrix(1 0 0 1 36.1669 335.4656)" class="st6 st7 st8">Chase  10</text>
+		<text transform="matrix(1 0 0 1 36.1669 404.9418)" class="st6 st7 st8">Cheyenne  10</text>
+		<text transform="matrix(1 0 0 1 36.1669 428.1006)" class="st6 st7 st8">Clark  10</text>
+		<text transform="matrix(1 0 0 1 36.1671 451.2595)" class="st6 st7 st8">Clay  10</text>
+		<text transform="matrix(1 0 0 1 36.1669 474.418)" class="st6 st7 st8">Cloud  10</text>
+		<text transform="matrix(1 0 0 1 36.1887 520.7366)" class="st6 st7 st8">Comanche  10</text>
+		<text transform="matrix(1 0 0 1 36.1887 543.8953)" class="st6 st7 st8">Cowley  10</text>
+		<text transform="matrix(1 0 0 1 36.1887 567.0536)" class="st6 st7 st8">Crawford  10</text>
+		<text transform="matrix(1 0 0 1 36.1886 497.5773)" class="st6 st7 st8">Coffey  10</text>
+		<text transform="matrix(1 0 0 1 36.1665 590.2122)" class="st6 st7 st8">Decatur  10</text>
+		<text transform="matrix(1 0 0 1 36.1667 613.3717)" class="st6 st7 st8">Dickinson  10</text>
+		<text transform="matrix(1 0 0 1 279.3098 520.7182)" class="st6 st7 st8">Douglas  10</text>
+		<text transform="matrix(1 0 0 1 279.3098 543.8762)" class="st6 st7 st8">Edwards  10</text>
+		<text transform="matrix(1 0 0 1 279.3098 567.0344)" class="st6 st7 st8">Elk  10</text>
+		<text transform="matrix(1 0 0 1 279.3314 590.1915)" class="st6 st7 st8">Ellis  10</text>
+		<text transform="matrix(1 0 0 1 36.1669 636.5307)" class="st6 st7 st8">Doniphan  10</text>
+		<text transform="matrix(1 0 0 1 792.3694 358.624)" class="st6 st7 st8">Ellsworth  10</text>
+		<text transform="matrix(1 0 0 1 157.755 196.0901)" class="st6 st7 st8">Finney  10</text>
+		<text transform="matrix(1 0 0 1 157.755 219.2709)" class="st6 st7 st8">Ford  10</text>
+		<text transform="matrix(1 0 0 1 157.755 242.4523)" class="st6 st7 st8">Franklin  10</text>
+		<text transform="matrix(1 0 0 1 157.755 265.6335)" class="st6 st7 st8">Geary  10</text>
+		<text transform="matrix(1 0 0 1 157.755 288.8145)" class="st6 st7 st8">Gove  10</text>
+		<text transform="matrix(1 0 0 1 157.755 311.9954)" class="st6 st7 st8">Graham  10</text>
+		<text transform="matrix(1 0 0 1 157.755 335.1766)" class="st6 st7 st8">Grant  10</text>
+		<text transform="matrix(1 0 0 1 157.755 358.3575)" class="st6 st7 st8">Gray  10</text>
+		<text transform="matrix(1 0 0 1 157.7549 381.5385)" class="st6 st7 st8">Greeley  10</text>
+		<text transform="matrix(1 0 0 1 157.7549 404.7196)" class="st6 st7 st8">Greenwood  10</text>
+		<text transform="matrix(1 0 0 1 157.7546 427.9009)" class="st6 st7 st8">Hamilton  10</text>
+		<text transform="matrix(1 0 0 1 157.7549 451.0818)" class="st6 st7 st8">Harper  10</text>
+		<text transform="matrix(1 0 0 1 157.7545 474.2632)" class="st6 st7 st8">Harvey  10</text>
+		<text transform="matrix(1 0 0 1 157.7545 520.6254)" class="st6 st7 st8">Hodgeman  10</text>
+		<text transform="matrix(1 0 0 1 157.7545 543.8058)" class="st6 st7 st8">Jackson  10</text>
+		<text transform="matrix(1 0 0 1 157.7545 566.9867)" class="st6 st7 st8">Jefferson  10</text>
+		<text transform="matrix(1 0 0 1 157.7545 590.1678)" class="st6 st7 st8">Jewell  10</text>
+		<text transform="matrix(1 0 0 1 157.7549 613.3497)" class="st6 st7 st8">Johnson  10</text>
+		<text transform="matrix(1 0 0 1 157.7549 497.4438)" class="st6 st7 st8">Haskell  10</text>
+		<text transform="matrix(1 0 0 1 157.7549 636.5308)" class="st6 st7 st8">Kearny  10</text>
+		<text transform="matrix(1 0 0 1 279.3099 613.35)" class="st6 st7 st8">Kingman  10</text>
+		<text transform="matrix(1 0 0 1 792.3684 312.4763)" class="st6 st7 st8">Kiowa  10</text>
+		<text transform="matrix(1 0 0 1 792.3685 335.55)" class="st6 st7 st8">Labette  10</text>
+		<text transform="matrix(1 0 0 1 409.2495 358.624)" class="st6 st7 st8">Lane  10</text>
+		<text transform="matrix(1 0 0 1 279.3209 150.1946)" class="st6 st7 st8">Leavenworth  10</text>
+		<text transform="matrix(1 0 0 1 279.3209 173.3524)" class="st6 st7 st8">Lincoln  10</text>
+		<text transform="matrix(1 0 0 1 279.321 196.51)" class="st6 st7 st8">Linn  10</text>
+		<text transform="matrix(1 0 0 1 279.321 219.6674)" class="st6 st7 st8">Logan  10</text>
+		<text transform="matrix(1 0 0 1 279.321 242.8254)" class="st6 st7 st8">Lyon  10</text>
+		<text transform="matrix(1 0 0 1 279.3206 289.1408)" class="st6 st7 st8">Marshall  10</text>
+		<text transform="matrix(1 0 0 1 279.3206 312.2985)" class="st6 st7 st8">McPherson  10</text>
+		<text transform="matrix(1 0 0 1 279.3206 335.4567)" class="st6 st7 st8">Meade  10</text>
+		<text transform="matrix(1 0 0 1 279.321 265.9831)" class="st6 st7 st8">Marion  10</text>
+		<text transform="matrix(1 0 0 1 279.321 358.6143)" class="st6 st7 st8">Miami  10</text>
+		<text transform="matrix(1 0 0 1 279.321 381.772)" class="st6 st7 st8">Mitchell  10</text>
+		<text transform="matrix(1 0 0 1 279.321 404.9296)" class="st6 st7 st8">Montgomery  10</text>
+		<text transform="matrix(1 0 0 1 279.321 428.0874)" class="st6 st7 st8">Morris  10</text>
+		<text transform="matrix(1 0 0 1 279.321 451.2452)" class="st6 st7 st8">Morton  10</text>
+		<text transform="matrix(1 0 0 1 279.321 474.4033)" class="st6 st7 st8">Nemaha  10</text>
+		<text transform="matrix(1 0 0 1 279.321 497.5611)" class="st6 st7 st8">Neosho  10</text>
+		<text transform="matrix(1 0 0 1 677.2998 335.0638)" class="st6 st7 st8">Norton  10</text>
+		<text transform="matrix(1 0 0 1 677.2998 358.3572)" class="st6 st7 st8">Osage  10</text>
+		<text transform="matrix(1 0 0 1 552.9789 311.9952)" class="st6 st7 st8">Osborne  10</text>
+		<text transform="matrix(1 0 0 1 677.2998 311.7699)" class="st6 st7 st8">Ness  10</text>
+		<text transform="matrix(1 0 0 1 552.9789 335.1765)" class="st6 st7 st8">Ottawa  10</text>
+		<text transform="matrix(1 0 0 1 552.9789 358.3574)" class="st6 st7 st8">Pawnee  10</text>
+		<text transform="matrix(1 0 0 1 409.2495 335.2612)" class="st6 st7 st8">Pottawatomie  10</text>
+		<text transform="matrix(1 0 0 1 409.2492 265.1734)" class="st6 st7 st8">Pratt  10</text>
+		<text transform="matrix(1 0 0 1 409.2492 288.5359)" class="st6 st7 st8">Rawlins  10</text>
+		<text transform="matrix(1 0 0 1 157.7552 149.728)" class="st6 st7 st8">Reno  10</text>
+		<text transform="matrix(1 0 0 1 157.7545 172.9092)" class="st6 st7 st8">Republic  10</text>
+		<text transform="matrix(1 0 0 1 409.2494 311.8986)" class="st6 st7 st8">Phillips  10</text>
+		<text transform="matrix(1 0 0 1 552.9784 149.7281)" class="st6 st7 st8">Rice  10</text>
+		<text transform="matrix(1 0 0 1 552.9785 172.9092)" class="st6 st7 st8">Riley  10</text>
+		<text transform="matrix(1 0 0 1 552.9783 196.0902)" class="st6 st7 st8">Rooks  10</text>
+		<text transform="matrix(1 0 0 1 552.9786 219.2713)" class="st6 st7 st8">Rush  10</text>
+		<text transform="matrix(1 0 0 1 552.9786 242.4524)" class="st6 st7 st8">Russell  10</text>
+		<text transform="matrix(1 0 0 1 552.978 265.6331)" class="st6 st7 st8">Saline  10</text>
+		<text transform="matrix(1 0 0 1 552.9782 288.8141)" class="st6 st7 st8">Scott  10</text>
+		<text transform="matrix(1 0 0 1 409.2495 148.3601)" class="st6 st7 st8">Sedgwick  10</text>
+		<text transform="matrix(1 0 0 1 409.2496 171.7231)" class="st6 st7 st8">Seward  10</text>
+		<text transform="matrix(1 0 0 1 409.2496 195.0856)" class="st6 st7 st8">Shawnee  10</text>
+		<text transform="matrix(1 0 0 1 409.2495 241.811)" class="st6 st7 st8">Sherman  10</text>
+		<text transform="matrix(1 0 0 1 674.687 148.7141)" class="st6 st7 st8">Smith  10</text>
+		<text transform="matrix(1 0 0 1 674.687 172.0075)" class="st6 st7 st8">Stafford  10</text>
+		<text transform="matrix(1 0 0 1 409.2493 218.4481)" class="st6 st7 st8">Sheridan  10</text>
+		<text transform="matrix(1 0 0 1 674.932 195.3012)" class="st6 st7 st8">Stanton  10</text>
+		<text transform="matrix(1 0 0 1 674.932 218.595)" class="st6 st7 st8">Stevens  10</text>
+		<text transform="matrix(1 0 0 1 674.932 241.8889)" class="st6 st7 st8">Sumner  10</text>
+		<text transform="matrix(1 0 0 1 674.932 265.1823)" class="st6 st7 st8">Thomas  10</text>
+		<text transform="matrix(1 0 0 1 674.932 288.476)" class="st6 st7 st8">Trego  10</text>
+		<text transform="matrix(1 0 0 1 790.3409 150.9587)" class="st6 st7 st8">Wabaunsee  10</text>
+		<text transform="matrix(1 0 0 1 790.3409 174.0325)" class="st6 st7 st8">Wallace  10</text>
+		<text transform="matrix(1 0 0 1 790.3412 289.4022)" class="st6 st7 st8">Wyandotte  10</text>
+		<text transform="matrix(1 0 0 1 790.0959 220.1806)" class="st6 st7 st8">Wichita  10</text>
+		<text transform="matrix(1 0 0 1 790.0959 243.254)" class="st6 st7 st8">Wilson  10</text>
+		<text transform="matrix(1 0 0 1 790.0959 266.3282)" class="st6 st7 st8">Woodson  10</text>
+		<text transform="matrix(1 0 0 1 790.0962 197.1062)" class="st6 st7 st8">Washington  10</text>
+	</g>
+</g>
+<g id="table_data">
+	<text transform="matrix(1 0 0 1 22.1585 776.2715)" class="st2 st7 st8">Confirmed Cases</text>
+	<text transform="matrix(1 0 0 1 22.1585 820.2033)" class="st2 st7 st8">Deaths</text>
+	<text id="current_date" transform="matrix(1 0 0 1 205.6881 731.9894)" class="st2 st7 st8">6 Apr. 2020</text>
+	<text id="growth_rate__x25_" transform="matrix(1 0 0 1 459.5344 731.9894)" class="st2 st7 st8">Growth Rate %</text>
+	<text transform="matrix(1 0 0 1 674.8094 731.9894)" class="st2 st7 st8">Total Confirmed Cases</text>
+	<text id="current_сases" transform="matrix(1 0 0 1 228.5437 780.0236)" class="st9 st7 st5">783</text>
+	<text id="previous_deaths" transform="matrix(1 0 0 1 371.2568 824.5031)" class="st9 st7 st5">14</text>
+	<text id="current_deaths" transform="matrix(1 0 0 1 232.064 823.5234)" class="st9 st7 st5">15</text>
+	<text id="total_cases" transform="matrix(1 0 0 1 733.2586 809.1667)" class="st10 st7 st11">783</text>
+	<text id="previous_сases" transform="matrix(1 0 0 1 363.344 780.0236)" class="st9 st7 st5">673</text>
+	<text id="cases_growth_rate" transform="matrix(1 0 0 1 493.257 781.56)" class="st9 st7 st5">16 %</text>
+	<text id="death_growth_rate" transform="matrix(1 0 0 1 497.6563 826.0392)" class="st9 st7 st5">7 %</text>
+	<text id="previous_date" transform="matrix(1 0 0 1 340.4663 731.9894)" class="st2 st7 st8">5 Apr. 2020</text>
+</g>
+<g id="Counties">
+	<path id="morton" class="st12" d="M520.1,592.5l-18.4-1.7l-1.2,20.5c6.3,0.4,12.6,0.7,18.9,1.1L520.1,592.5z"/>
+	<polygon id="ford" class="st12" points="591.7,588.4 617.2,590.4 617.2,575.4 617.2,574.4 617.2,565.4 586.8,563.5 586.8,588.3 
+		591.7,588.3 	"/>
+	<path id="meade" class="st12" d="M589.5,590.6h-4.9l0,0l-18.2-1.2l-0.1,25.6c7.7,0.3,15.4,0.7,23.2,1V590.6L589.5,590.6z"/>
+	<path id="stevens" class="st12" d="M543.3,594.1h-1.5V594l-8.1-0.3l-11.3-1l-0.8,19.9c6.8,0.4,13.6,0.7,20.5,1.1L543.3,594.1z"/>
+	<polygon id="finney" class="st12" points="585.9,541.5 547.7,539.8 546.7,545 545.6,545 545.6,570.7 564.3,571.9 564.2,554.3 
+		585.9,556 	"/>
+	<polygon id="stanton" class="st12" points="522,571.5 502.9,570.4 501.8,588.6 520.3,590.3 	"/>
+	<polygon id="wallace" class="st12" points="506.5,508 526.2,509.8 527.8,509.8 529.9,486.1 507.9,484.4 	"/>
+	<path id="cheyenne" class="st12" d="M509.6,454.8l26.3,1.6l1.1-21.7c-12.7-0.5-21.8-0.8-26.2-1L509.6,454.8z"/>
+	<polygon id="sherman" class="st12" points="508,482.2 531.2,484 534.6,484 535.8,458.7 509.5,457 	"/>
+	<path id="clark_1_" class="st12" d="M615.4,608.7l1.7-0.9v-9.5v-5.6l-25.4-2V616c7.9,0.3,15.8,0.6,23.7,0.9V608.7z"/>
+	<path id="cherokee" class="st12" d="M850.5,603h-16.6v15.1c5.6-0.1,11.2-0.3,16.8-0.4L850.5,603z"/>
+	<path id="phillips" class="st12" d="M621.5,450.3h-2.1v11.4h2.1v0.1l22.8,0.5l0.1-24.3c-7.9-0.2-15.5-0.4-23-0.6v12.9H621.5z"/>
+	<polygon id="harvey" class="st12" points="708.4,551.1 708.4,564.8 721.4,564.8 721.4,566.5 732,566.5 732,556.1 726.6,553.3 
+		722.7,551.2 	"/>
+	<path id="sumner" class="st12" d="M701.5,598.3l0.1,20.5c10.1,0.1,20.2,0.2,30.4,0.2v-25h-28.9l-0.5,1.1L701.5,598.3z"/>
+	<polygon id="sedgwick" class="st12" points="708.4,567.5 703.2,578.4 703.5,591.9 732.1,591.9 732,568.7 719.2,568.7 719.2,567 
+		708.4,567 	"/>
+	<polygon id="morris" class="st12" points="750.9,528.6 769.8,528.6 769.8,516.6 767.5,514.2 764.9,511.2 764.4,510 763.4,508.4 
+		747.7,508.5 748,517.3 745.9,517.3 745.9,524.3 749.9,527.8 	"/>
+	<polygon id="marion_1_" class="st12" points="724.1,526 724.1,549.4 729.2,552.1 733.4,554.3 742.2,554.3 742.2,556.1 747.4,556.1 
+		747.4,533.9 749.2,533.9 749.3,530.2 747.6,528.8 744.4,526 	"/>
+	<polygon id="geary" class="st12" points="744.3,495.8 747.6,504.3 747.7,506.2 762.9,506.2 762.9,496.8 747.4,496.2 747.4,488.1 
+		744.3,488.1 	"/>
+	<path id="smith" class="st12" d="M646.6,462.4l23.7,0.6v-24.4c-8-0.2-15.9-0.3-23.6-0.5L646.6,462.4z"/>
+	<path id="barber" class="st12" d="M644.8,592.5v4.6v1.1v19.5c9.5,0.2,19,0.5,28.7,0.7l0.1-20l-1.1-1l-3.5-3.3L644.8,592.5z"/>
+	<path id="marshall" class="st12" d="M756.5,465.4l2.6,0.2l17.6-0.1v-25.4c-8.4,0-16.7-0.1-25.2-0.1v23.8h5L756.5,465.4L756.5,465.4
+		z"/>
+	<path id="doniphan" class="st12" d="M835.5,448.5c-0.2-0.2-0.4-0.3-1.8-0.1c-0.7,0-1.6,0.1-2.5,0c-1.9-0.2-5.4-1.3-6.9-2
+		c-1.9-0.8-3.3-2.1-4.5-3.6l0.5,15.3h6.5l-0.2,2.1l3.7,0.1c0.6-1.9,1.6-3.6,3.7-5.5c1-0.9,2-2.9,2-4.7
+		C836,449.7,835.9,449,835.5,448.5z"/>
+	<path id="labette" class="st12" d="M831.6,603v-1.5l-18.6-0.4l0.2,17.4c6.1-0.1,12.2-0.2,18.3-0.4L831.6,603L831.6,603z"/>
+	<polygon id="riley" class="st12" points="744.3,485.9 749.6,485.9 749.6,494 763.7,494.6 768,491.3 768.1,489.9 763.2,487.8 
+		759.8,486 757,483.1 752.5,475.6 752.5,473 756.9,467.7 754.3,467.5 754.3,465.9 744.3,465.9 	"/>
+	<polygon id="clay_1_" class="st12" points="725.6,490.9 742.1,490.9 742.1,465.9 725.6,465.9 	"/>
+	<polygon id="dickinson" class="st12" points="725.6,514.1 724.1,515 724.1,523.7 743.7,523.7 743.7,515.1 745.7,515.1 745.4,504.6 
+		742.1,496.2 742.1,493.2 725.6,493.2 	"/>
+	<path id="washington_1_" class="st12" d="M725.6,463.6h17.5h1.1h5.1v-23.8c-7.9,0-15.8-0.1-23.7-0.3L725.6,463.6z"/>
+	<polygon id="cloud" class="st12" points="700.2,464.8 700.2,465.9 700.2,474.3 698.1,474.3 698.1,478.7 712,478.7 712,480.8 
+		723.4,480.8 723.4,460.4 700.2,460.4 	"/>
+	<polygon id="ottawa" class="st12" points="698.1,501.3 723.4,501.3 723.4,483 709.8,483 709.8,480.9 698.1,480.9 	"/>
+	<path id="republic" class="st12" d="M700.2,458.2h23.2v-18.6c-7.8-0.1-15.6-0.2-23.3-0.3L700.2,458.2L700.2,458.2z"/>
+	<polygon id="saline_1_" class="st12" points="698.1,521.1 711.1,521.1 711.1,523.7 721.9,523.7 721.9,513.7 723.4,512.8 
+		723.4,503.5 698.1,503.5 	"/>
+	<polygon id="mcpherson" class="st12" points="698.1,548.8 708.4,548.8 708.4,548.9 721.9,549 721.9,526 708.9,526 708.9,523.4 
+		698.1,523.4 	"/>
+	<polygon id="rice" class="st12" points="672.5,535 670.6,537.3 670.6,545.8 672.5,547.1 672.5,548.8 695.9,548.8 695.9,529.1 
+		672.5,529.1 	"/>
+	<polygon id="lincoln_1_" class="st12" points="695.9,486.3 672.5,486.3 672.5,490.2 672.5,491.3 672.5,506.2 695.9,506.2 	"/>
+	<rect id="ellsworth" x="672.5" y="508.5" class="st12" width="23.4" height="18.5"/>
+	<polygon id="mitchell" class="st12" points="672.5,484.1 695.9,484.1 695.9,472.1 697.9,472.1 697.9,465.8 672.5,465.3 	"/>
+	<polygon id="reno" class="st12" points="672.5,561.9 670.6,561.9 670.6,574.9 686.6,574.9 686.6,577 701.4,577 706.2,567 
+		706.2,551.1 672.5,551.1 	"/>
+	<path id="cowley" class="st12" d="M761,594.1h-26.7v25c8.8,0,17.7,0,26.6,0c0-2.6,0-6.8,0.1-14.1L761,594.1L761,594.1z"/>
+	<path id="harper" class="st12" d="M699.3,599.2l-23.4-0.2l-0.1,19.4c7.9,0.1,15.7,0.3,23.6,0.4L699.3,599.2z"/>
+	<path id="atchison_1_" class="st12" d="M809.8,460.4l-0.1,13.2h22.2c-1.4-2.1-2.3-4.5-2.2-7.7c0-1.2,0.1-2.3,0.2-3.3l-5.7-0.2
+		l0.2-2.1L809.8,460.4L809.8,460.4L809.8,460.4z"/>
+	<polygon id="butler_1_" class="st12" points="734.3,556.6 734.3,591.9 761,591.9 761,571.7 762.9,571.2 762.8,558.3 739.9,558.3 
+		739.9,556.6 	"/>
+	<polygon id="graham" class="st12" points="594.9,487.1 617.3,487.7 619.2,463.9 618.2,463.9 617.2,463.9 617.2,463.9 606.9,463.6 
+		595.4,462.8 593.1,487 	"/>
+	<polygon id="hodgeman" class="st12" points="617.2,542.9 588.2,541.6 588.1,557.2 588.4,559.4 586.8,560.7 586.8,561.3 
+		617.2,563.2 	"/>
+	<polygon id="kiowa" class="st12" points="619.4,590.6 619.4,596 642.6,596 642.6,592.3 642.6,591.3 642.6,577.1 619.4,575.5 	"/>
+	<path id="comanche" class="st12" d="M642.6,598.2h-23.2V609l-1.7,0.9v6.9c8.3,0.3,16.6,0.5,25,0.8L642.6,598.2L642.6,598.2z"/>
+	<polygon id="edwards" class="st12" points="619.4,554.8 619.4,573.3 642.6,574.8 642.7,560 627.1,559.9 627.1,554.8 	"/>
+	<polygon id="sheridan" class="st12" points="580.1,486.7 590.9,487 593.2,462.7 591.1,462.5 591.1,462.5 569.9,461.1 567.7,486 	
+		"/>
+	<path id="decatur" class="st12" d="M568.2,458.7l23.1,1.6l0.8-13.8h1.3v-9.9c-8.3-0.2-16.1-0.5-23.5-0.7l-1.8,22.8H568.2
+		L568.2,458.7z"/>
+	<path id="norton" class="st12" d="M595.5,448.7h-1.4l-0.6,11.7l2.1,0.1l0,0l11.5,0.8l10.1,0.2v-13.6h2.1v-10.6
+		c-8.2-0.2-16.2-0.4-23.7-0.7L595.5,448.7L595.5,448.7z"/>
+	<path id="chautauqua" class="st12" d="M788.7,606.1h-25.4c0,4.2-0.1,9.7,0,12.9c8.4,0,16.9-0.1,25.5-0.2L788.7,606.1z"/>
+	<polygon id="pottawatomie" class="st12" points="754.7,473.7 754.7,474.9 758.9,481.9 761.2,484.3 764.2,485.8 770.5,488.5 
+		770.4,489.1 771.7,489.1 776.1,485.9 780.1,485.9 781.6,487.5 784.9,487.5 784.9,467.6 759.7,467.8 	"/>
+	<path id="brown" class="st12" d="M799,440.1v18.1h19l-0.6-18.2C811.4,440.1,805.2,440.1,799,440.1z"/>
+	<polygon id="douglas_1_" class="st12" points="830.9,502.4 826.4,498.3 824.8,498.3 823.3,500.1 819,500.4 814.8,496.6 
+		813.1,496.8 813.1,506.4 813.1,515.1 831.6,515.1 831.6,502.4 	"/>
+	<polygon id="franklin_1_" class="st12" points="831.6,517.3 813.1,517.3 813.1,533.9 813.1,537.3 831.6,537.3 	"/>
+	<polygon id="neosho" class="st12" points="813,598.8 813,598.8 831.6,599.3 831.5,579 811.6,579 811.6,598.8 812,598.8 	"/>
+	<polygon id="ness" class="st12" points="593.5,516 593.5,516 588.3,515.6 588.2,539.3 617.2,540.6 617.2,517.1 605.1,517.1 	"/>
+	<polygon id="chase" class="st12" points="751.4,536.1 749.6,536.1 749.6,556.1 763.4,556.1 769.8,549.5 769.8,530.8 751.5,530.8 	
+		"/>
+	<polygon id="greenwood" class="st12" points="765.1,572.9 763.2,573.4 763.2,585.2 788.7,585.2 788.6,558.7 788.6,558.7 
+		788.6,558.7 788.6,557.6 788.6,557.6 788.6,553.6 779.6,553.6 779.6,551.1 771.4,551.1 765,557.7 	"/>
+	<polygon id="wabaunsee" class="st12" points="765.1,507 766.5,509.1 766.8,510.2 769.1,512.7 771.4,515.1 790.2,515.1 790.4,509.5 
+		784.9,493.6 784.9,489.7 780.6,489.7 779.1,488.1 776.8,488.1 772.5,491.3 770.2,491.3 770.1,492.6 765.1,496.3 	"/>
+	<polygon id="allen" class="st12" points="813.1,567.6 811.6,569.9 811.6,576.8 831.5,576.8 831.5,559.9 813.1,559.9 	"/>
+	<path id="nemaha" class="st12" d="M779,465.4h6.8l10.7-7.2h0.3v-18.1c-1.6,0-3.1,0-4.7,0c-4.3,0-8.7,0-13.1,0V465.4L779,465.4z"/>
+	<polygon id="wilson" class="st12" points="809.3,598.8 809.3,579 790.9,579 790.9,598.8 	"/>
+	<polygon id="jackson" class="st12" points="805.6,481.3 807.3,479.7 807.6,460.4 797.1,460.4 787.2,467.1 787.2,485.9 805.6,485.9 
+			"/>
+	<polygon id="osage_1_" class="st12" points="810.8,517.3 810.8,508.6 803,508.6 803,510.4 792.6,510.4 792.4,516.2 792.4,533.9 
+		810.8,533.9 	"/>
+	<polygon id="shawnee" class="st12" points="787.2,493.4 792.3,508.2 800.7,508.2 800.7,506.4 810.8,506.4 810.8,496.1 805.6,488.9 
+		805.6,488.1 787.2,488.1 	"/>
+	<polygon id="lyon" class="st12" points="790.2,535 790.2,533.9 790.2,517.3 772,517.3 772,548.8 781.8,548.8 781.8,551.4 
+		788.7,551.4 788.7,542.2 790.2,542.2 	"/>
+	<path id="montgomery_1_" class="st12" d="M810.8,601h-0.4h-1.1h-18.4v5.1l0,0v12.7c6.7-0.1,13.4-0.2,20.2-0.3L810.8,601z"/>
+	<polygon id="jefferson_1_" class="st12" points="815.6,494.3 819.8,498.1 822.2,497.9 823.7,496.1 824.7,496.1 824.7,488.2 
+		826.3,488.2 826.3,475.8 809.6,475.8 809.6,480.6 807.8,482.2 807.8,488.2 812.5,494.6 	"/>
+	<polygon id="anderson" class="st12" points="831.6,539.5 813.1,539.5 813.1,557.6 831.5,557.6 	"/>
+	<polygon id="woodson" class="st12" points="809.3,576.8 809.3,569.2 810.8,566.9 810.8,559.9 790.9,559.9 790.9,576.8 	"/>
+	<polygon id="coffey" class="st12" points="792.4,544.4 790.9,544.4 790.9,557.6 810.8,557.6 810.8,539.5 810.8,536.1 792.4,536.1 	
+		"/>
+	<polygon id="elk" class="st12" points="788.7,599.9 788.7,587.4 763.2,587.4 763.2,591.9 763.2,593 763.2,604 788.7,604 	"/>
+	<path id="wyandotte" class="st12" d="M845.5,495.9h3.7v-5.1c-0.7-0.5-2.3-1.2-3.3-1.6c-1.4-0.6-2.7-1.2-3.7-1.9h-1.7l0.4,7.6h3.4
+		L845.5,495.9z"/>
+	<polygon id="trego" class="st12" points="619.2,489.9 618.2,489.9 617.1,489.9 617.1,489.9 595.4,489.3 593.7,513.8 605.2,514.9 
+		617.3,514.9 	"/>
+	<polygon id="bourbon" class="st12" points="833.7,559.9 833.7,577.9 833.7,577.9 833.7,580 850.2,580 850,559.9 	"/>
+	<polygon id="crawford_1_" class="st12" points="850.5,600.7 850.2,582.3 833.7,582.3 833.8,599.3 833.8,599.3 833.8,600.7 	"/>
+	<polygon id="miami" class="st12" points="833.8,517.3 833.7,537.3 842.9,537.3 842.9,535.6 849.7,535.6 849.5,517.3 	"/>
+	<path id="leavenworth" class="st12" d="M837.7,481.5c-0.9-1.5-1.8-2.8-2.7-4l-0.2-0.2c-0.4-0.5-0.8-0.9-1.2-1.4h-5v14.6H827v5.7
+		h0.3l4.5,4h7V496l-0.5-10.9h1.9C839.2,483.9,838.4,482.7,837.7,481.5z"/>
+	<polygon id="linn_1_" class="st12" points="845.1,537.8 845.1,539.5 833.7,539.5 833.7,557.6 850,557.6 849.7,537.8 	"/>
+	<polygon id="johnson_1_" class="st12" points="833.8,515.1 849.5,515.1 849.3,498.1 844.7,498.1 843.5,497.1 840.9,497.1 
+		840.9,502.4 833.8,502.4 	"/>
+	<polygon id="russell" class="st12" points="646.3,502.9 645.4,504 645.4,515 670.2,516.9 670.2,491.3 646.4,490.6 	"/>
+	<polygon id="thomas" class="st12" points="536.8,484.1 562,485.6 565.5,485.6 567.7,460.9 565.6,460.8 565.6,460.8 538,458.8 	"/>
+	<polygon id="rush" class="st12" points="619.4,535.4 642.7,537.2 643.2,527.5 644.5,525.7 644.5,517.1 644.2,517.1 619.4,517.1 	
+		"/>
+	<polygon id="rooks" class="st12" points="644.2,488.4 644.3,464.5 621.4,464 619.5,487.7 621.5,487.7 621.5,487.8 	"/>
+	<polygon id="ellis" class="st12" points="643.1,514.9 643.1,503.2 644.1,502 644.2,490.6 621.4,490 619.4,514.9 	"/>
+	<polygon id="osborne" class="st12" points="670.2,465.2 646.5,464.6 646.4,488.4 670.2,489 	"/>
+	<polygon id="gray" class="st12" points="584.6,588.3 584.6,563.4 584.6,562.3 584.6,559.8 586,558.5 586,558.3 566.4,556.7 
+		566.5,572 566.5,572 566.4,587.1 	"/>
+	<polygon id="barton_1_" class="st12" points="644.9,537.9 649.7,542.6 668.4,542.6 668.4,536.5 670.2,534.2 670.2,519.1 
+		646.7,517.3 646.7,526.4 645.3,528.3 	"/>
+	<polygon id="pratt" class="st12" points="644.8,576.1 644.8,590.3 668.4,591.8 668.4,571.9 644.9,571.9 	"/>
+	<polygon id="stafford" class="st12" points="668.4,559.7 670.2,559.7 670.2,548.3 668.4,547 668.4,544.8 650.4,544.8 650.3,560 
+		645,560 644.9,569.7 668.4,569.7 	"/>
+	<polygon id="pawnee" class="st12" points="619.4,537.6 619.4,540.7 619.4,540.7 619.4,552.5 629.4,552.5 629.4,557.7 643.9,557.8 
+		648.1,557.8 648.2,544.1 643.3,539.5 	"/>
+	<polygon id="grant" class="st12" points="541.9,591.8 543.3,572.8 524.2,571.7 522.5,590.5 533.8,591.5 	"/>
+	<polygon id="hamilton" class="st12" points="524.3,538.8 504.8,537.9 503,568.2 522.2,569.3 524.9,538.8 	"/>
+	<polygon id="gove" class="st12" points="591.4,513.7 593.2,489.3 591.9,489.2 580,488.9 563,487.9 560.9,511.7 568.6,512 
+		568.6,512 576.7,512.3 586.5,513.2 	"/>
+	<polygon id="lane" class="st12" points="576.6,514.5 568.5,514.2 566.5,538.4 586,539.2 586.1,515.4 	"/>
+	<polygon id="scott_1_" class="st12" points="564.3,538.3 566.2,514.1 558.5,513.8 558.5,513.8 547.7,513.4 546,537.5 548,537.6 
+		548,537.6 	"/>
+	<polygon id="logan" class="st12" points="560.7,487.8 535.6,486.2 532.1,486.2 530,509.9 538,510.8 558.7,511.6 	"/>
+	<path id="rawlins" class="st12" d="M538.1,456.6l27.7,2l1.8-22.7c-10.6-0.3-20.2-0.7-28.4-1L538.1,456.6z"/>
+	<polygon id="greeley" class="st12" points="524.9,511.9 506.4,510.2 504.9,535.7 522.3,536.5 	"/>
+	<polygon id="wichita" class="st12" points="543.8,537.4 545.5,513.4 537.8,513 528.8,512 527.1,512 524.5,536.6 525.7,536.6 	"/>
+	<path id="jewell" class="st12" d="M672.5,463l25.4,0.6v-24.5c-8.6-0.1-17.1-0.3-25.4-0.5V463z"/>
+	<polygon id="kingman" class="st12" points="670.6,577.2 670.6,592.5 673.7,595.4 675.2,596.8 699.6,597 701.1,593.3 701.3,592.8 
+		701,579.2 684.4,579.2 684.4,577.2 	"/>
+	<polygon id="kearny" class="st12" points="545.4,539.7 527.2,538.9 524.4,569.4 543.4,570.6 543.4,542.8 544.8,542.8 	"/>
+	<polygon id="haskell" class="st12" points="564.3,574.1 545.5,572.9 544.1,591.9 544.4,591.9 545.7,591.9 545.7,591.9 564.2,592.6 
+			"/>
+	<path id="seward" class="st12" d="M544.2,613.8c6.6,0.3,13.2,0.7,19.8,1l0.1-19.9l-18.7-0.7L544.2,613.8z"/>
+</g>
+<g id="balls">
+	<circle id="brown_circle" class="st13" cx="808.3" cy="450.1" r="6"/>
+	<text id="brown_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 805.4803 451.4592)" class="st14 st7 st15">10</text>
+	<circle id="doniphan_circle" class="st13" cx="826.4" cy="452.4" r="6"/>
+	<text id="doniphan_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 823.6002 453.7394)" class="st14 st7 st15">10</text>
+	<circle id="atchison_circle" class="st13" cx="819.8" cy="467.4" r="6"/>
+	<text id="atchison_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 817.0003 468.7792)" class="st14 st7 st15">10</text>
+	<circle id="jefferson_circle" class="st13" cx="817.3" cy="485.5" r="6"/>
+	<text id="jefferson_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 814.4802 486.8593)" class="st14 st7 st15">10</text>
+	<circle id="leavenworth_circle" class="st13" cx="831.8" cy="487.6" r="6"/>
+	<text id="leavenworth_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 829.0003 488.8992)" class="st14 st7 st15">10</text>
+	<circle id="wyandotte_circle" class="st13" cx="843.8" cy="491.9" r="6"/>
+	<text id="wyandotte_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 841.0003 493.2192)" class="st14 st7 st15">10</text>
+	<circle id="douglas_circle" class="st13" cx="821.7" cy="505.3" r="6"/>
+	<text id="douglas_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 818.9203 506.6592)" class="st14 st7 st15">10</text>
+	<circle id="johnson_circle" class="st13" cx="840.9" cy="506.8" r="6"/>
+	<text id="johnson_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 838.1203 508.0992)" class="st14 st7 st15">10</text>
+	<circle id="miami_circle" class="st13" cx="841.4" cy="526.4" r="6"/>
+	<text id="miami_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 838.6003 527.7792)" class="st14 st7 st15">10</text>
+	<circle id="franklin_circle" class="st13" cx="822.2" cy="527.4" r="6"/>
+	<text id="franklin_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 819.4003 528.7393)" class="st14 st7 st15">10</text>
+	<circle id="anderson_circle" class="st13" cx="821.7" cy="549" r="6"/>
+	<text id="anderson_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 818.9203 550.3392)" class="st14 st7 st15">10</text>
+	<circle id="linn_circle" class="st13" cx="841.4" cy="548.5" r="6"/>
+	<text id="linn_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 838.6003 549.8592)" class="st14 st7 st15">10</text>
+	<circle id="bourbon_circle" class="st13" cx="840.9" cy="570.1" r="6"/>
+	<text id="bourbon_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 838.1203 571.4592)" class="st14 st7 st15">10</text>
+	<circle id="allen_circle" class="st13" cx="822.7" cy="568.2" r="6"/>
+	<text id="allen_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 819.8803 569.5392)" class="st14 st7 st15">10</text>
+	<circle id="neosho_circle" class="st13" cx="821.2" cy="590.8" r="6"/>
+	<text id="neosho_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 818.4402 592.0992)" class="st14 st7 st15">10</text>
+	<circle id="crawford_circle" class="st13" cx="841.9" cy="592.2" r="6"/>
+	<text id="crawford_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 839.0803 593.5392)" class="st14 st7 st15">10</text>
+	<circle id="cherokee_circle" class="st13" cx="842.3" cy="610" r="6"/>
+	<text id="cherokee_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 839.5602 611.2992)" class="st14 st7 st15">10</text>
+	<circle id="labette_circle" class="st13" cx="821.7" cy="610" r="6"/>
+	<text id="labette_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 818.9203 611.2992)" class="st14 st7 st15">10</text>
+	<circle id="montgomery_circle" class="st13" cx="801.1" cy="609.5" r="6"/>
+	<text id="montgomery_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 798.2803 610.8192)" class="st14 st7 st15">10</text>
+	<circle id="wilson_circle" class="st13" cx="799.6" cy="587.9" r="6"/>
+	<text id="wilson_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 796.8403 589.2192)" class="st14 st7 st15">10</text>
+	<circle id="woodson_circle" class="st13" cx="799.6" cy="568.2" r="6"/>
+	<text id="woodson_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 796.8403 569.5392)" class="st14 st7 st15">10</text>
+	<circle id="coffey_circle" class="st13" cx="800.6" cy="547.6" r="6"/>
+	<text id="coffey_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 797.8003 548.8992)" class="st14 st7 st15">10</text>
+	<circle id="osage_circle" class="st13" cx="800.6" cy="521.6" r="6"/>
+	<text id="osage_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 797.8003 522.9792)" class="st14 st7 st15">10</text>
+	<circle id="shawnee_circle" class="st13" cx="799.1" cy="497.2" r="6"/>
+	<text id="shawnee_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 796.3603 498.4993)" class="st14 st7 st15">10</text>
+	<circle id="jackson_circle" class="st13" cx="797.2" cy="473.2" r="6"/>
+	<text id="jackson_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 794.4403 474.4993)" class="st14 st7 st15">10</text>
+	<circle id="nemaha_circle" class="st13" cx="787.6" cy="451.1" r="6"/>
+	<text id="nemaha_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 784.8403 452.4192)" class="st14 st7 st15">10</text>
+	<circle id="pottawatomie_circle" class="st13" cx="771.8" cy="476.5" r="6"/>
+	<text id="pottawatomie_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 769.0003 477.8593)" class="st14 st7 st15">10</text>
+	<circle id="marshall_circle" class="st13" cx="764.6" cy="451.6" r="6"/>
+	<text id="marshall_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 761.8003 452.8992)" class="st14 st7 st15">10</text>
+	<circle id="riley_circle" class="st13" cx="752.1" cy="482.3" r="6"/>
+	<text id="riley_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 749.3203 483.6193)" class="st14 st7 st15">10</text>
+	<circle id="geary_circle" class="st13" cx="753.1" cy="500" r="6"/>
+	<text id="geary_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 750.2803 501.3793)" class="st14 st7 st15">10</text>
+	<circle id="wabaunsee_circle" class="st13" cx="776.9" cy="503.8" r="6"/>
+	<text id="wabaunsee_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 774.1604 505.0995)" class="st14 st7 st15">10</text>
+	<circle id="lyon_circle" class="st13" cx="780.3" cy="531.6" r="6"/>
+	<text id="lyon_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 777.5204 532.9396)" class="st14 st7 st15">10</text>
+	<circle id="morris_circle" class="st13" cx="759.2" cy="518.6" r="6"/>
+	<text id="morris_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 756.3997 519.9791)" class="st14 st7 st15">10</text>
+	<circle id="chase_circle" class="st13" cx="759.3" cy="542.8" r="6"/>
+	<text id="chase_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 756.5203 544.0992)" class="st14 st7 st15">10</text>
+	<circle id="greenwood_circle" class="st13" cx="777.4" cy="569.5" r="6"/>
+	<text id="greenwood_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 774.6404 570.8596)" class="st14 st7 st15">10</text>
+	<circle id="elk_circle" class="st13" cx="776.1" cy="595.1" r="6"/>
+	<text id="elk_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 773.3203 596.4192)" class="st14 st7 st15">10</text>
+	<circle id="chautauqua_circle" class="st13" cx="776.6" cy="612.8" r="6"/>
+	<text id="chautauqua_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 773.8003 614.1792)" class="st14 st7 st15">10</text>
+	<circle id="cowley_circle" class="st13" cx="747.3" cy="607.6" r="6"/>
+	<text id="cowley_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 744.5203 608.8992)" class="st14 st7 st15">10</text>
+	<circle id="butler_circle" class="st13" cx="748.3" cy="574" r="6"/>
+	<text id="butler_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 745.4803 575.2992)" class="st14 st7 st15">10</text>
+	<circle id="marion_circle" class="st13" cx="735.3" cy="538.9" r="6"/>
+	<text id="marion_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 732.5203 540.2592)" class="st14 st7 st15">10</text>
+	<circle id="dickinson_circle" class="st13" cx="733.9" cy="509.6" r="6"/>
+	<text id="dickinson_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 731.0803 510.9792)" class="st14 st7 st15">10</text>
+	<circle id="clay_circle" class="st13" cx="733.4" cy="478.4" r="6"/>
+	<text id="clay_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 730.6003 479.7792)" class="st14 st7 st15">10</text>
+	<circle id="washington_circle" class="st13" cx="736.3" cy="451.6" r="6"/>
+	<text id="washington_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 733.4803 452.8992)" class="st14 st7 st15">10</text>
+	<circle id="republic_circle" class="st13" cx="711.8" cy="449.6" r="6"/>
+	<text id="republic_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 709.0003 450.9792)" class="st14 st7 st15">10</text>
+	<circle id="cloud_circle" class="st13" cx="710.8" cy="469.3" r="6"/>
+	<text id="cloud_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 708.0403 470.6592)" class="st14 st7 st15">10</text>
+	<circle id="ottawa_circle" class="st13" cx="710.3" cy="491.9" r="6"/>
+	<text id="ottawa_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 707.5603 493.2192)" class="st14 st7 st15">10</text>
+	<circle id="saline_circle" class="st13" cx="710.3" cy="511.6" r="6"/>
+	<text id="saline_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 707.5603 512.8992)" class="st14 st7 st15">10</text>
+	<circle id="mcpherson_circle" class="st13" cx="709.9" cy="535.6" r="6"/>
+	<text id="mcpherson_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 707.0803 536.8992)" class="st14 st7 st15">10</text>
+	<circle id="harvey_circle" class="st13" cx="719.5" cy="558.1" r="6"/>
+	<text id="harvey_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 716.6803 559.4592)" class="st14 st7 st15">10</text>
+	<circle id="sedgwick_circle" class="st13" cx="717.5" cy="580.7" r="6"/>
+	<text id="sedgwick_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 714.7603 582.0192)" class="st14 st7 st15">10</text>
+	<circle id="sumner_circle" class="st13" cx="715.6" cy="606.1" r="6"/>
+	<text id="sumner_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 712.8403 607.4592)" class="st14 st7 st15">10</text>
+	<circle id="harper_circle" class="st13" cx="687.3" cy="608.5" r="6"/>
+	<text id="harper_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 684.5203 609.8592)" class="st14 st7 st15">10</text>
+	<circle id="kingman_circle" class="st13" cx="684.9" cy="587.9" r="6"/>
+	<text id="kingman_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 682.1203 589.2192)" class="st14 st7 st15">10</text>
+	<circle id="reno_circle" class="st13" cx="687.3" cy="562.9" r="6"/>
+	<text id="reno_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 684.5203 564.2592)" class="st14 st7 st15">10</text>
+	<circle id="rice_circle" class="st13" cx="683.9" cy="538.9" r="6"/>
+	<text id="rice_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 681.1603 540.2592)" class="st14 st7 st15">10</text>
+	<circle id="ellsworth_circle" class="st13" cx="683.9" cy="517.3" r="6"/>
+	<text id="ellsworth_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 681.1603 518.6592)" class="st14 st7 st15">10</text>
+	<circle id="lincoln_circle" class="st13" cx="683" cy="495.7" r="6"/>
+	<text id="lincoln_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 680.2003 497.0592)" class="st14 st7 st15">10</text>
+	<circle id="mitchell_circle" class="st13" cx="683.9" cy="474.6" r="6"/>
+	<text id="mitchell_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 681.1603 475.9392)" class="st14 st7 st15">10</text>
+	<circle id="jewell_circle" class="st13" cx="685.4" cy="451.1" r="6"/>
+	<text id="jewell_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 682.6003 452.4192)" class="st14 st7 st15">10</text>
+	<circle id="smith_circle" class="st13" cx="658.5" cy="451.1" r="6"/>
+	<text id="smith_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 655.7203 452.4192)" class="st14 st7 st15">10</text>
+	<circle id="russell_circle_1_" class="st13" cx="657.5" cy="477.5" r="6"/>
+	<text id="russell_numbers_1_" transform="matrix(1 2.629982e-03 -2.629982e-03 1 654.7603 478.8192)" class="st14 st7 st15">10</text>
+	<circle id="russell_circle" class="st13" cx="657.9" cy="503.8" r="6"/>
+	<text id="russell_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 655.1204 505.0995)" class="st14 st7 st15">10</text>
+	<circle id="barton_circle" class="st13" cx="658" cy="529.3" r="6"/>
+	<text id="barton_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 655.2403 530.6592)" class="st14 st7 st15">10</text>
+	<circle id="stafford_circle" class="st13" cx="657.1" cy="557.2" r="6"/>
+	<text id="stafford_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 654.2803 558.4992)" class="st14 st7 st15">10</text>
+	<circle id="pratt_circle" class="st13" cx="657.1" cy="581.2" r="6"/>
+	<text id="pratt_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 654.2803 582.4992)" class="st14 st7 st15">10</text>
+	<circle id="barber_circle" class="st13" cx="658" cy="605.2" r="6"/>
+	<text id="barber_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 655.2403 606.4992)" class="st14 st7 st15">10</text>
+	<circle id="comanche_circle" class="st13" cx="629.7" cy="607.6" r="6"/>
+	<text id="comanche_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 626.9203 608.8992)" class="st14 st7 st15">10</text>
+	<circle id="kiowa_circle" class="st13" cx="630.2" cy="585" r="6"/>
+	<text id="kiowa_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 627.4003 586.3392)" class="st14 st7 st15">10</text>
+	<circle id="edwards_circle" class="st13" cx="630.7" cy="565.8" r="6"/>
+	<text id="edwards_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 627.8803 567.1392)" class="st14 st7 st15">10</text>
+	<circle id="pawnee_circle" class="st13" cx="633.1" cy="547.1" r="6"/>
+	<text id="pawnee_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 630.2803 548.4192)" class="st14 st7 st15">10</text>
+	<circle id="rush_circle" class="st13" cx="631.1" cy="526" r="6"/>
+	<text id="rush_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 628.3603 527.2992)" class="st14 st7 st15">10</text>
+	<circle id="ellis_circle" class="st13" cx="632.6" cy="502" r="6"/>
+	<text id="ellis_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 629.8003 503.2992)" class="st14 st7 st15">10</text>
+	<circle id="rooks_circle" class="st13" cx="632.6" cy="476.5" r="6"/>
+	<text id="rooks_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 629.8003 477.8593)" class="st14 st7 st15">10</text>
+	<circle id="phillips_circle" class="st13" cx="633.1" cy="450.6" r="6"/>
+	<text id="phillips_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 630.2803 451.9392)" class="st14 st7 st15">10</text>
+	<circle id="norton_circle" class="st13" cx="605.7" cy="449.2" r="6"/>
+	<text id="norton_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 602.9203 450.4993)" class="st14 st7 st15">10</text>
+	<circle id="graham_circle" class="st13" cx="605.2" cy="475.6" r="6"/>
+	<text id="graham_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 602.4403 476.8992)" class="st14 st7 st15">10</text>
+	<circle id="ness_circle_1_" class="st13" cx="606.1" cy="501.5" r="6"/>
+	<text id="ness_numbers_1_" transform="matrix(1 2.629982e-03 -2.629982e-03 1 603.3203 502.8192)" class="st14 st7 st15">10</text>
+	<circle id="ness_circle" class="st13" cx="601.9" cy="527.9" r="6"/>
+	<text id="ness_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 599.0803 529.2192)" class="st14 st7 st15">10</text>
+	<circle id="hodgeman_circle" class="st13" cx="602.3" cy="551.9" r="6"/>
+	<text id="hodgeman_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 599.5603 553.2192)" class="st14 st7 st15">10</text>
+	<circle id="ford_circle" class="st13" cx="601.4" cy="576.4" r="6"/>
+	<text id="ford_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 598.6003 577.6992)" class="st14 st7 st15">10</text>
+	<circle id="clark_circle" class="st13" cx="603.8" cy="605.6" r="6"/>
+	<text id="clark_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 601.0003 606.9792)" class="st14 st7 st15">10</text>
+	<circle id="meade_circle" class="st13" cx="577.9" cy="602.8" r="6"/>
+	<text id="meade_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 575.0803 604.0992)" class="st14 st7 st15">10</text>
+	<circle id="gray_circle" class="st13" cx="575.3" cy="571.4" r="6"/>
+	<text id="gray_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 572.5604 572.7796)" class="st14 st7 st15">10</text>
+	<circle id="lane_circle" class="st13" cx="576.9" cy="526.9" r="6"/>
+	<text id="lane_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 574.1203 528.2592)" class="st14 st7 st15">10</text>
+	<circle id="decatur_circle" class="st13" cx="580.3" cy="448.7" r="6"/>
+	<text id="decatur_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 577.4803 450.0192)" class="st14 st7 st15">10</text>
+	<circle id="sheridan_circle" class="st13" cx="580.6" cy="474" r="6"/>
+	<text id="sheridan_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 577.8405 475.3396)" class="st14 st7 st15">10</text>
+	<circle id="gove_circle" class="st13" cx="575.9" cy="501.5" r="6"/>
+	<text id="gove_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 573.1603 502.8192)" class="st14 st7 st15">10</text>
+	<circle id="scott_circle" class="st13" cx="555.3" cy="525" r="6"/>
+	<text id="scott_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 552.5203 526.3392)" class="st14 st7 st15">10</text>
+	<circle id="finney_circle" class="st13" cx="555.3" cy="552.8" r="6"/>
+	<text id="finney_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 552.5203 554.1792)" class="st14 st7 st15">10</text>
+	<circle id="haskell_circle" class="st13" cx="553.4" cy="584" r="6"/>
+	<text id="haskell_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 550.6003 585.3792)" class="st14 st7 st15">10</text>
+	<circle id="seward_circle" class="st13" cx="554.8" cy="603.7" r="6"/>
+	<text id="seward_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 552.0403 605.0592)" class="st14 st7 st15">10</text>
+	<circle id="stevens_circle" class="st13" cx="531.8" cy="602.8" r="6"/>
+	<text id="stevens_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 529.0003 604.0992)" class="st14 st7 st15">10</text>
+	<circle id="grant_circle" class="st13" cx="532.7" cy="582.2" r="6"/>
+	<text id="grant_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 529.9603 583.4992)" class="st14 st7 st15">10</text>
+	<circle id="kearny_circle" class="st13" cx="533.7" cy="556.7" r="6"/>
+	<text id="kearny_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 530.9203 558.0192)" class="st14 st7 st15">10</text>
+	<circle id="wichita_circle" class="st13" cx="535.6" cy="524.5" r="6"/>
+	<text id="wichita_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 532.8403 525.8593)" class="st14 st7 st15">10</text>
+	<circle id="logan_circle" class="st13" cx="545.2" cy="499.6" r="6"/>
+	<text id="logan_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 542.4403 500.8992)" class="st14 st7 st15">10</text>
+	<circle id="thomas_circle" class="st13" cx="550.5" cy="472.2" r="6"/>
+	<text id="thomas_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 547.7203 473.5392)" class="st14 st7 st15">10</text>
+	<circle id="rawlins_circle" class="st13" cx="551.9" cy="447.2" r="6"/>
+	<text id="rawlins_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 549.1603 448.5792)" class="st14 st7 st15">10</text>
+	<circle id="morton_circle" class="st13" cx="510.7" cy="600.8" r="6"/>
+	<text id="morton_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 507.8803 602.1792)" class="st14 st7 st15">10</text>
+	
+		<ellipse id="stanton_circle" transform="matrix(0.3162 -0.9487 0.9487 0.3162 -200.131 881.736)" class="st13" cx="511.6" cy="579.7" rx="6" ry="6"/>
+	<text id="stanton_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 508.8403 581.0592)" class="st14 st7 st15">10</text>
+	<circle id="hamilton_circle" class="st13" cx="514" cy="551.9" r="6"/>
+	<text id="hamilton_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 511.2403 553.2192)" class="st14 st7 st15">10</text>
+	<circle id="greeley_circle" class="st13" cx="514" cy="523.6" r="6"/>
+	<text id="greeley_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 511.2403 524.8992)" class="st14 st7 st15">10</text>
+	<circle id="wallace_circle" class="st13" cx="517.9" cy="496.7" r="6"/>
+	<text id="wallace_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 515.0803 498.0192)" class="st14 st7 st15">10</text>
+	<circle id="sherman_circle" class="st13" cx="522.7" cy="470.3" r="6"/>
+	<text id="sherman_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 519.8803 471.6193)" class="st14 st7 st15">10</text>
+	<circle id="cheyenne_circle" class="st13" cx="523.6" cy="444.4" r="6"/>
+	<text id="cheyenne_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 520.8403 445.6992)" class="st14 st7 st15">10</text>
+</g>
+<g id="TYPES_1_">
+	<g>
+		<circle id="_x34__1_" class="st13" cx="884.8" cy="-41.8" r="25.2"/>
+		
+			<text id="_x34__numbers_1_" transform="matrix(1 2.629928e-03 -2.629928e-03 1 861.1497 -36.2632)" class="st14 st7" style="font-size:15px;">10,000</text>
+	</g>
+	<g>
+		<circle id="_x33__1_" class="st13" cx="825" cy="-40.8" r="18.2"/>
+		
+			<text id="_x33__numbers_1_" transform="matrix(1 2.629936e-03 -2.629936e-03 1 808.3871 -36.2841)" class="st14 st7" style="font-size:13px;">1,000</text>
+	</g>
+	<g>
+		<circle id="_x32__1_" class="st13" cx="775.5" cy="-39.9" r="12.4"/>
+		
+			<text id="_x32__numbers_1_" transform="matrix(1 2.629918e-03 -2.629918e-03 1 764.8215 -35.4533)" class="st14 st7" style="font-size:12px;">100</text>
+	</g>
+	<g>
+		<circle id="_x31__2_" class="st13" cx="698.4" cy="-38.9" r="7.2"/>
+		
+			<text id="_x31__numbers_2_" transform="matrix(1 2.629955e-03 -2.629955e-03 1 696.2745 -36.0503)" class="st14 st7" style="font-size:7.3546px;">1</text>
+	</g>
+	<g>
+		<circle id="_x31__1_" class="st13" cx="734.4" cy="-38.9" r="9.6"/>
+		
+			<rect x="729.5" y="-43" transform="matrix(2.629829e-03 -1 1 2.629829e-03 770.8973 695.9661)" class="st16" width="9.6" height="9"/>
+		
+			<text id="_x31__numbers_1_" transform="matrix(1 2.629909e-03 -2.629909e-03 1 728.9862 -36.1706)" class="st14 st7" style="font-size:9px;">10</text>
+	</g>
+</g>
+</svg>

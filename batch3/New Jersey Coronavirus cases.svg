@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.5, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 916.5 740.2" style="enable-background:new 0 0 916.5 740.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F5FBFE;}
+	.st1{fill:#DDEEFA;}
+	.st2{fill:#255078;}
+	.st3{font-family:'Georgia';}
+	.st4{font-size:18px;}
+	.st5{font-size:16px;}
+	.st6{fill:#4C4B4D;}
+	.st7{font-family:'ArialMT';}
+	.st8{font-size:14px;}
+	.st9{fill:#AED9F4;}
+	.st10{fill:#CD483B;}
+	.st11{fill:#FFFFFF;}
+	.st12{font-size:10.2738px;}
+	.st13{font-size:10.0802px;}
+	.st14{fill:none;}
+	.st15{fill:#4C4B4C;}
+	.st16{fill:#DB3029;}
+	.st17{font-size:36px;}
+</style>
+<g id="Texts">
+	<polygon id="blue_bg" class="st0" points="-0.1,604.9 -0.1,641.9 -0.1,651.5 -0.1,740.3 173.4,740.3 173.4,651.5 914.9,651.5 
+		914.9,604.9 	"/>
+	<path id="line_bg" class="st1" d="M916.4,1.1H-0.1v130v474.4v2v42.9v2v42.9v2v42.9l0,0h579.8l0,0h333.2l0,0h3.5V1.1z M912.9,57.9
+		v547.6H578.3l-0.6-0.3v0.3H443.5l-0.6-0.3v0.3H2.9V57.9H912.9z M912.9,607.5v42.9H579.7v-42.9H912.9z M445,650.5v-42.9h132.8v42.9
+		H445z M577.7,652.5v42.9H445v-42.9H577.7z M310.2,650.5v-42.9H443v42.9H310.2z M443,652.5v42.9H310.2v-42.9H443z M175.4,650.5
+		v-42.9h132.8v42.9H175.4z M308.2,652.5v42.9H175.4v-42.9H308.2z M173.4,607.5v42.9H2.9v-42.9H173.4z M173.4,652.5v42.9H2.9v-42.9
+		H173.4z M2.9,697.4h170.5v39.9H2.9V697.4z M175.4,697.4h132.8v39.9H175.4V697.4z M310.2,697.4H443v39.9H310.2V697.4z M445,697.4
+		h132.8v39.9H445V697.4z M579.7,652.5h333.2v84.8H579.7V652.5z"/>
+	<text id="title" transform="matrix(1 0 0 1 32.8483 35.8371)" class="st2 st3 st4">COVID-19 in New Jersey on</text>
+	<text id="date" transform="matrix(1 0 0 1 260.4693 35.8371)" class="st2 st3 st4">April 27th, 2020</text>
+	<text transform="matrix(1 0 0 1 125.1513 232.6852)" class="st2 st3 st5">State Confirmed Cases By County</text>
+	<g>
+		<text transform="matrix(1 0 0 1 124.8466 300.4915)" class="st6 st7 st8">Bergen  10</text>
+		<text transform="matrix(1 0 0 1 124.8466 326.912)" class="st6 st7 st8">Burlington  10</text>
+		<text transform="matrix(1 0 0 1 124.8466 353.3326)" class="st6 st7 st8">Camden  10</text>
+		<text transform="matrix(1 0 0 1 124.8466 379.753)" class="st6 st7 st8">Cape May  10</text>
+		<text transform="matrix(1 0 0 1 124.8683 274.0709)" class="st6 st7 st8">Atlantic  10</text>
+		<text transform="matrix(1 0 0 1 124.8467 406.1734)" class="st6 st7 st8">Cumberland  10</text>
+		<text transform="matrix(1 0 0 1 124.8466 432.5938)" class="st6 st7 st8">Essex  10</text>
+		<text transform="matrix(1 0 0 1 249.148 274.0709)" class="st6 st7 st8">Gloucester  10</text>
+		<text transform="matrix(1 0 0 1 249.148 326.9124)" class="st6 st7 st8">Hunterdon  10</text>
+		<text transform="matrix(1 0 0 1 249.1478 300.4918)" class="st6 st7 st8">Hudson  10</text>
+		<text transform="matrix(1 0 0 1 249.148 379.753)" class="st6 st7 st8">Middlesex  10</text>
+		<text transform="matrix(1 0 0 1 249.148 406.173)" class="st6 st7 st8">Monmouth  10</text>
+		<text transform="matrix(1 0 0 1 249.148 432.5942)" class="st6 st7 st8">Morris  10</text>
+		<text transform="matrix(1 0 0 1 384.9082 274.0712)" class="st6 st7 st8">Ocean  10</text>
+		<text transform="matrix(1 0 0 1 249.1477 353.3328)" class="st6 st7 st8">Mercer  10</text>
+		<text transform="matrix(1 0 0 1 384.908 300.4916)" class="st6 st7 st8">Passaic  10</text>
+		<text transform="matrix(1 0 0 1 384.908 326.912)" class="st6 st7 st8">Salem  10</text>
+		<text transform="matrix(1 0 0 1 384.908 353.3326)" class="st6 st7 st8">Somerset  10</text>
+		<text transform="matrix(1 0 0 1 384.9083 379.7529)" class="st6 st7 st8">Sussex  10</text>
+		<text transform="matrix(1 0 0 1 384.9081 406.1736)" class="st6 st7 st8">Union  10</text>
+		<text transform="matrix(1 0 0 1 384.9084 432.5939)" class="st6 st7 st8">Warren  10</text>
+	</g>
+</g>
+<g id="Counties">
+	<path id="salem" class="st9" d="M657,464.1v-10.2l-29.5-12L601.3,428c-0.1,0.7-0.2,1.3-0.3,2.1c-1.6,8-5.4,11-8.9,13.2
+		c-1.1,0.7-1.3,0.8-1.7,1.5c-0.3,0.9-0.1,4.7,0.1,6.7c0.1,1.6,0.2,3.1,0.2,4.5l-0.1,1l-0.9,8.2h-0.4c7.2,3.8,16.3,12.7,24.7,21.2
+		l15.7-35.5L657,464.1z"/>
+	<polygon id="bergen" class="st9" points="714.9,129.2 714.9,135.7 720.7,141 731,141 735.7,148.5 735.7,154.2 747.1,166.7 
+		752.2,158.9 752.2,137 717.2,125.8 	"/>
+	<path id="somerset" class="st9" d="M665.4,250.4V261l2.9,12.9c0.8,1.9,2.2,4,3,4.6c1.2-0.3,3.8-1.6,5.6-2.8l0.9-0.7h15.4
+		c4-8.1,8-16.5,9.3-19.5c-0.4-1.2-0.8-2.7-1.4-4.7c-0.3-1.2-0.8-2.9-1.2-3.9c-1.4-1-3.8-2.8-8.1-6.5l-2.1-1.7l5.1-11.7l0.3-4.3H685
+		l-5.2-16.7l-6.8,4l-9.7,8.2c0.2,0.1,0.4,0.2,0.6,0.3l1.3,0.6l3.2,8.1l-0.2,14.7L665.4,250.4z"/>
+	<path id="morris" class="st9" d="M707.9,183.2l3.2-6.9l2.9-7.8l-15-20.3h-18.5l-5.6-8.7c-9.4,12.2-22,28.7-22.9,30.2l-0.2,0.6
+		c-8.8,17.7-10.6,21.6-10.9,22.4c-0.3,1.1-1.3,3.2-4.6,9.7l9.6,5.4c5.6,2.2,8.4,4,9.2,6c0.3,0.2,0.7,0.4,1.2,0.7l12.7-10.7l15-9.2
+		l6.2,20.6h6.2l2.2-5.6L707.9,183.2z"/>
+	<path id="hunterdon" class="st9" d="M661.2,239.9v-11.6l-1.7-4.1c-7.4-3.4-10.4-5.3-11.2-7.2c-1.1-0.7-3.5-1.8-5.7-2.7l-10.2-5.7
+		l-6.5,8.6l-4.1,12.7l-9.7,12.9l-3.7,3.1c0.7,0,1.3-0.1,1.8-0.1c5.3,0,12.7,2.1,17.6,11.8c1.8,3.6,2.8,7.2,3.7,10.3
+		c1,3.6,1.8,6.7,3.5,8.8c2.2,3.1,6.1,5.5,10.2,8.1l9.3-4.5l6.3-6.4l-2.7-12.6l0.2-12.7L661.2,239.9z"/>
+	<path id="sussex" class="st9" d="M621.4,111.2c-1.7,3.2-1.6,5.9-1.3,10.9c0.2,3.4,0.3,7.2-0.3,11.7c-0.8,5.9-3.3,10-5.4,13.2
+		c-0.7,1.1-1.4,2.2-2,3.5c-0.3,0.7-0.8,1.5-1.2,2.3l22.8,12.3l5.7,5.3l3,2c0.8-1.7,1.8-3.4,2.7-5.4l0.4-0.8
+		c0.2-0.4,0.7-1.5,26.5-34.9l7.4-13.2l-46.6-21C628.8,101.1,624.1,106,621.4,111.2z"/>
+	<path id="monmouth" class="st9" d="M788.5,267.2c-0.8-8.7-6.2-12.5-9.1-19.9c-1.4-3.7,0.7-11-5-12.1c-7.1-1.3-4.3,7.7-7.1,8.7
+		c-4.8,1.7-14.8,2.7-22.2,1.4l1.2,0.7l-30.8,59.3l-1-0.7l-15.7,14.1l6.3,1.3l2.7,5.3l1.3-0.8l7.8-6.6l7.3-7.8h9.2l8.2-8.2h7.7
+		l13.2,12.5h10.7l13.3-8.3l1.9,3.1c-0.2-2.6-0.3-5.2-0.6-7.9C786.7,290.1,789.6,278.9,788.5,267.2z"/>
+	<path id="warren" class="st9" d="M598.4,229.4c1.1,4.4,1.1,8.6,1.1,11.3c0,1.2,0,2.2,0,3l7.7-6.3l8.5-11.3l4.1-12.7l8.6-11.3
+		c2.5-4.8,5.2-10.3,5.5-11.3l0,0c0.3-1.2,1.6-3.7,5.5-11.7l-4.5-3l-5.6-5.2l-22-11.9c-0.4,0.7-0.8,1.3-1,1.9
+		c-0.1,0.4-0.2,0.8-0.3,1.2c-0.4,1.9-1,4.7-2.8,7.7c-0.2,0.2-0.3,0.5-0.3,0.7v0.7l-0.4,1.7c-0.3,0.7-0.3,1.1,0.9,2.3l0.9,1.1
+		l1.2,1.5c2.3,2.9,5.2,6.6,6.2,12.2l0.2,1.9c0,3.1,0,7.2-1.3,11.2c-0.2,0.4-0.3,0.9-0.3,1.3c-0.4,1.7-1.1,4.5-2.9,7.2
+		c-2.2,4.6-6.4,7.2-8.9,8.5l-2,0.7c-0.6,0.2-1,0.3-1.2,0.3c-0.2,0.3-0.3,0.7-0.3,1.1c0.1,0.2,0.3,0.2,0.3,0.4
+		C596,224.1,597.6,226.4,598.4,229.4z"/>
+	<polygon id="essex" class="st9" points="720.1,172.5 717.7,179 714.5,185.9 711,196 726.9,200.5 732.9,201.9 727,175.3 727.7,175 	
+		"/>
+	<path id="hudson" class="st9" d="M733.6,177.1c1.1,8.9,2.2,17.8,3.2,26.7c0.7,5.3,1.3,10.6,1.9,15.9c3.8-6.1,7.6-12.2,11.4-18.3
+		c0.1-4.2,0.2-8.4,0.3-12.6c-1.2-5-2.4-10-3.6-15C742.5,175,738,176,733.6,177.1z"/>
+	<path id="passaic" class="st9" d="M728.5,157v-6.4l-1.5-2.4h-9l-5.1-4.6l0,0c-1.6-1.7-3.2-3.7-5.2-5.7c0-3.7,0-7.2,0-10.9l2.3-3.5
+		l-1.1-0.4l-22.6-2.3l-6.9,12.3l5.1,7.9h15.7c2.4,2.1,4.7,3.9,6.7,5.7l13.4,18.1l16.1,5.6l0.3,0.5l1.9-2.7L728.5,157z"/>
+	<path id="union" class="st9" d="M720.5,219c1.7,0.7,7.7,1.3,13.6,1.7l-0.4-11.2l-8.7-2.1l-16.3-4.5l-3.2,9.3l-2.9,7.6l-0.2,2.2
+		C716.5,215.8,719.3,217.5,720.5,219z"/>
+	<path id="burlington" class="st9" d="M740,379.1c-1.3-1.9-7.4-11.4-8.5-13.1c-0.8-1.2-8.4-11.6-13.3-18.2l-15-15.8l-2.9-5.7
+		l-3.9-0.8l-27.2,24.2c-1.5,1.3-3.1,2.7-4.7,4c-2.8,2.3-5.8,4.7-7.7,7c-1.3,1.5-1.8,3.7-2.7,6.4c-0.3,0.9-0.6,1.9-0.9,2.9l5.8,4.8
+		l14.1,10.2l12.4,7.8l15,10.5l13.2,7l13.3,12l12.1,7.2h9.2l2.7-2.4v-15.2l-6.6-20.4L740,379.1z"/>
+	<path id="atlantic" class="st9" d="M746.1,486c8.3-14.7,14.9-29.8,23.8-44.2c0.1-0.1,0.1-0.2,0.2-0.3l-14.9-8.5l-4,3.6h-14.1
+		l-14.7-8.8l-13.2-11.9l-12.1-6.3l-8.8,22.1l0.3,0.2L677.9,452l-2.2,2.4l5.8,6.7l5,10.7l13.8,13.6h20.8v-3.2h22L746.1,486z"/>
+	<path id="capemay" class="st9" d="M743.3,489.5h-14.8v3.2h-25.9v28.1H699c2.6,0.2,4.8,0.6,6,1.7c9.6,8.4-6.6,23.4-6.7,32.8
+		c-0.1,5.5,0.7,15.1,6.5,14.8c4.9-0.2,10.8-8.9,13.7-12.6c7.7-10.3,12.6-24.3,13.2-37.3c0.6-11.5,6.7-21.1,12.4-30.7H743.3z"/>
+	<path id="ocean" class="st9" d="M788.6,313.2l-13.3,8.2h-15.6l-13.2-12.5h-1.7l-8.2,8.2h-9.2L722,323l-8.7,7.3l-1.1,0.7l11.6,12.1
+		c1.6,2.1,12.6,17,13.8,18.8s8.7,13.5,8.7,13.5l0.3,0.7l4.7,12.8l6.9,22.2v15.3l15.3,8.7c4.6-8.8,8.2-18.7,11.1-28.2
+		c3.4-11.3,10.5-24.7,10.6-36.7c0-13-6.5-22.7-6.5-36.7C788.7,326.8,788.8,320,788.6,313.2z"/>
+	<path id="glocester" class="st9" d="M669,431.8l-0.5-0.5c-7.2-7-15.6-14.7-18-16.5c-2.7-0.5-4-4.2-5.6-13.2l-8-7.1
+		c-5.8,8.2-12.6,12.7-20.2,17.9l-1.7,1.2c-2.5,1.7-5.2,4-7.7,6.3c-0.7,0.7-1.5,1.3-2.2,1.9l25.4,13.5l31.2,12.7l8,2.2l2.5-2.7
+		l6.2-11.9L669,431.8z"/>
+	<path id="cumberland" class="st9" d="M675.2,464.7l-6.3-7.1l-4.7-1.3v19.4l-31-15.1l-13.3,30l-3.2-1.5c7.4,7.6,13.7,14.2,16.4,15.5
+		c11.7,5.2,22.5,8.9,34.2,13.2c6.5,2.3,12.3,3.2,19.5,3.2c1.9,0,5.2-0.3,8.5-0.3v-30.2l-15-15L675.2,464.7z"/>
+	<path id="mercer" class="st9" d="M677.1,307.8c4.2,2.3,8.9,5.1,12.9,9l18.6-16.6l-13.2-9.7l-2.6-8.2H680c-1.9,1.3-5.8,3.5-9.1,3.5
+		c-2.9,0-5.2-2.3-7-4.7l-5.7,5.7l-5.7,2.7c0.2,0.2,0.5,0.3,0.7,0.4c4,2.7,7.2,5.5,10.5,8.3c2.3,2.1,4.6,4,7,5.7
+		C672.5,305.2,674.7,306.4,677.1,307.8z"/>
+	<path id="middlesex" class="st9" d="M739.6,243.4c-0.2-0.1-0.5-0.3-0.7-0.3c-3.2-2.2-3.6-9.3-2.1-15c-14.2-0.4-18.9-2-20.7-3.2
+		c-2.3,0.3-8.7,2.7-14.9,5.6l-2.7,6.1c2.3,1.8,4.4,3.6,5.3,4.2c2.1,0.6,2.7,2.8,4.1,8c0.4,1.4,0.9,3.3,1.3,4.2l0.2,0.3
+		c1.3,2.1,1.3,2.3-10.2,25.6l2.2,7.1l11.5,8.4L739.6,243.4z"/>
+	<path id="camden" class="st9" d="M691,405.4l-9.5-6.6L669,391l-14.4-10.5l-4.3-3.6l0,0c-1.8,3.2-4.2,5.8-6.4,8.2
+		c-1.2,1.2-2.1,2.4-2.9,3.5l10.6,9.5l0.3,1.2c0.6,3.4,1.5,7.7,2.1,9.3c2.5,1.6,7.4,5.8,19.1,17.1l8.7,3.4L691,405.4z"/>
+</g>
+<g id="balls">
+	<circle id="capemay_circle" class="st10" cx="719" cy="520.3" r="10.2"/>
+	<circle id="glocester_circle" class="st10" cx="643.4" cy="427.5" r="10.2"/>
+	<circle id="salem_circle" class="st10" cx="612.1" cy="454.3" r="10.2"/>
+	<circle id="cumberland_circle" class="st10" cx="658.6" cy="492.1" r="10.2"/>
+	<circle id="atlantic_circle" class="st10" cx="715.8" cy="452.3" r="10.2"/>
+	<circle id="camden_circle" class="st10" cx="666.1" cy="404.6" r="10.2"/>
+	<circle id="burlington_circle" class="st10" cx="703.9" cy="377.6" r="10.2"/>
+	<circle id="ocean_circle" class="st10" cx="763.3" cy="359.3" r="10.2"/>
+	<circle id="mercer_circle" class="st10" cx="682.3" cy="296.6" r="10.2"/>
+	<circle id="monmouth_circle" class="st10" cx="757.9" cy="280.6" r="10.2"/>
+	<circle id="middlesex_circle" class="st10" cx="718" cy="253.4" r="10.2"/>
+	<circle id="somerset_circle" class="st10" cx="681.2" cy="243.9" r="10.2"/>
+	<circle id="hunterdon_circle" class="st10" cx="640.2" cy="242.6" r="10.2"/>
+	<circle id="warren_circle" class="st10" cx="619.8" cy="200.7" r="10.2"/>
+	<circle id="union_circle" class="st10" cx="718.3" cy="215.3" r="10.2"/>
+	<circle id="hudson_circle" class="st10" cx="742.8" cy="195.1" r="10.2"/>
+	<circle id="essex_circle" class="st10" cx="721.2" cy="186.5" r="10.2"/>
+	<circle id="morris_circle" class="st10" cx="678" cy="177.8" r="10.2"/>
+	<circle id="bergen_circle" class="st10" cx="737.4" cy="141.3" r="10.2"/>
+	<circle id="passaic_circle" class="st10" cx="709.3" cy="144.4" r="10.2"/>
+	<ellipse id="sussex_circle" class="st10" cx="642.6" cy="130.1" rx="10.2" ry="10"/>
+	<text id="capemay_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 716.1136 523.6919)" class="st11 st7 st12">1</text>
+	<text id="glocester_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 640.5126 430.8118)" class="st11 st7 st12">1</text>
+	<text id="salem_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 609.2152 457.6701)" class="st11 st7 st12">1</text>
+	<text id="cumberland_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 655.6561 495.4702)" class="st11 st7 st12">1</text>
+	<text id="atlantic_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 712.8726 455.6516)" class="st11 st7 st12">1</text>
+	<text id="camden_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 663.2153 407.9904)" class="st11 st7 st12">1</text>
+	<text id="burlington_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 701.0161 380.9901)" class="st11 st7 st12">1</text>
+	<text id="ocean_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 760.4164 362.6301)" class="st11 st7 st12">1</text>
+	<text id="mercer_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 679.4155 299.9898)" class="st11 st7 st12">1</text>
+	<text id="monmouth_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 754.9934 283.9307)" class="st11 st7 st12">1</text>
+	<text id="middlesex_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 715.0557 256.7898)" class="st11 st7 st12">1</text>
+	<text id="somerset_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 678.3131 247.2107)" class="st11 st7 st12">1</text>
+	<text id="hunterdon_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 637.2955 245.9895)" class="st11 st7 st12">1</text>
+	<text id="warren_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 616.9126 204.0108)" class="st11 st7 st12">1</text>
+	<text id="union_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 715.4393 218.6431)" class="st11 st7 st12">1</text>
+	<text id="hudson_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 739.8898 198.5193)" class="st11 st7 st12">1</text>
+	<text id="essex_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 718.2963 189.8291)" class="st11 st7 st12">1</text>
+	<text id="morris_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 675.0961 181.1891)" class="st11 st7 st12">1</text>
+	<text id="bergen_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 734.473 144.6106)" class="st11 st7 st12">1</text>
+	<text id="passaic_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 706.4158 147.7092)" class="st11 st7 st12">1</text>
+	<text id="sussex_numbers" transform="matrix(1.0192 2.629971e-03 -2.680497e-03 1 639.8414 133.4026)" class="st11 st7 st13">1</text>
+</g>
+<g id="TYPES_1_">
+	<g>
+		<circle id="_x34__1_" class="st10" cx="878.4" cy="-50.4" r="31.5"/>
+		
+			<text id="_x34__numbers_1_" transform="matrix(1 2.629892e-03 -2.629892e-03 1 849.0018 -43.4138)" class="st11 st7" style="font-size:18.768px;">10,000</text>
+	</g>
+	<g>
+		<circle id="_x33__1_" class="st10" cx="803.7" cy="-49.2" r="22.8"/>
+		
+			<text id="_x33__numbers_1_" transform="matrix(1 2.629900e-03 -2.629900e-03 1 782.9868 -43.4399)" class="st11 st7" style="font-size:16.2656px;">1,000</text>
+	</g>
+	<g>
+		<circle id="_x32__1_" class="st10" cx="741.8" cy="-48.1" r="15.5"/>
+		
+			<text id="_x32__numbers_1_" transform="matrix(1 2.629881e-03 -2.629881e-03 1 728.4769 -42.4008)" class="st11 st7" style="font-size:15.0144px;">100</text>
+	</g>
+	<g>
+		<circle id="_x31__2_" class="st10" cx="645.3" cy="-46.8" r="9"/>
+		
+			<text id="_x31__numbers_2_" transform="matrix(1 2.629919e-03 -2.629919e-03 1 642.7104 -43.1475)" class="st11 st7" style="font-size:9.2021px;">1</text>
+	</g>
+	<g>
+		<circle id="_x31__1_" class="st10" cx="690.4" cy="-46.8" r="12"/>
+		
+			<rect x="684.3" y="-51.9" transform="matrix(2.629838e-03 -1 1 2.629838e-03 734.7357 644.1081)" class="st14" width="12" height="11.3"/>
+		
+			<text id="_x31__numbers_1_" transform="matrix(1 2.629872e-03 -2.629872e-03 1 683.6402 -43.2981)" class="st11 st7" style="font-size:11.2608px;">10</text>
+	</g>
+</g>
+<g id="table_data">
+	<text transform="matrix(1 0 0 1 23.3837 678.2715)" class="st2 st7 st8">Confirmed Cases</text>
+	<text transform="matrix(1 0 0 1 23.3837 722.2032)" class="st2 st7 st8">Deaths</text>
+	<text id="current_date" transform="matrix(1 0 0 1 206.9133 633.9894)" class="st2 st7 st8">6 Apr. 2020</text>
+	<text id="previous_date" transform="matrix(1 0 0 1 341.6915 633.9894)" class="st2 st7 st8">5 Apr. 2020</text>
+	<text id="growth_rate__x25_" transform="matrix(1 0 0 1 460.7597 633.9894)" class="st2 st7 st8">Growth Rate %</text>
+	<text transform="matrix(1 0 0 1 676.0347 633.9894)" class="st2 st7 st8">Total Confirmed Cases</text>
+	<text id="current_сases" transform="matrix(1 0 0 1 229.7689 682.0236)" class="st15 st7 st5">783</text>
+	<text id="previous_deaths" transform="matrix(1 0 0 1 372.482 726.503)" class="st15 st7 st5">14</text>
+	<text id="current_deaths" transform="matrix(1 0 0 1 233.2893 725.5232)" class="st15 st7 st5">15</text>
+	<text id="total_cases" transform="matrix(1 0 0 1 722.6838 711.1664)" class="st16 st7 st17">783</text>
+	<text id="previous_сases" transform="matrix(1 0 0 1 364.5693 682.0236)" class="st15 st7 st5">673</text>
+	<text id="cases_growth_rate" transform="matrix(1 0 0 1 494.4823 683.5597)" class="st15 st7 st5">16 %</text>
+	<text id="death_growth_rate" transform="matrix(1 0 0 1 498.8816 728.0391)" class="st15 st7 st5">7 %</text>
+</g>
+</svg>

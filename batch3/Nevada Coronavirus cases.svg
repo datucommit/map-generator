@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.5, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 916.5 609.2" style="enable-background:new 0 0 916.5 609.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F5FBFE;}
+	.st1{fill:#DDEEFA;}
+	.st2{fill:#255078;}
+	.st3{font-family:'Georgia';}
+	.st4{font-size:18px;}
+	.st5{font-size:16px;}
+	.st6{fill:#4C4B4D;}
+	.st7{font-family:'ArialMT';}
+	.st8{font-size:14px;}
+	.st9{fill:#4C4B4C;}
+	.st10{fill:#DB3029;}
+	.st11{font-size:36px;}
+	.st12{fill:#AEDBF5;}
+	.st13{fill:#CD483B;}
+	.st14{fill:#FFFFFF;}
+	.st15{font-size:9.6465px;}
+	.st16{fill:none;}
+</style>
+<g id="Texts">
+	<polygon id="blue_bg" class="st0" points="0,473.8 0,510.8 0,520.4 0,609.2 173.5,609.2 173.5,520.4 915,520.4 915,473.8 	"/>
+	<path id="line_bg" class="st1" d="M916.5,0H0l0,0v474.4v2v42.9v2v42.9v2v42.9l0,0h579.8l0,0H913l0,0h3.5V0z M913,56.8v417.6H578.4
+		l-0.6-0.3v0.3H443.6l-0.6-0.3v0.3H3V56.8H913z M913,476.4v42.9H579.8v-42.9H913z M445.1,519.4v-42.9h132.8v42.9H445.1z
+		 M577.8,521.4v42.9H445.1v-42.9H577.8z M310.3,519.4v-42.9h132.8v42.9H310.3z M443.1,521.4v42.9H310.3v-42.9H443.1z M175.5,519.4
+		v-42.9h132.8v42.9H175.5z M308.3,521.4v42.9H175.5v-42.9H308.3z M173.5,476.4v42.9H3v-42.9H173.5z M173.5,521.4v42.9H3v-42.9H173.5
+		z M3,566.3h170.5v39.9H3V566.3z M175.5,566.3h132.8v39.9H175.5V566.3z M310.3,566.3h132.8v39.9H310.3V566.3z M445.1,566.3h132.8
+		v39.9H445.1V566.3z M579.8,521.4H913v84.8H579.8V521.4z"/>
+	<text id="title" transform="matrix(1 0 0 1 32.8483 35.8372)" class="st2 st3 st4">COVID-19 in Nevada on</text>
+	<text id="date" transform="matrix(1 0 0 1 230.4693 35.8372)" class="st2 st3 st4">April 27th, 2020</text>
+	<text transform="matrix(1 0 0 1 125.4547 138.1714)" class="st2 st3 st5">State Confirmed Cases By County</text>
+	<g>
+		<text transform="matrix(1 0 0 1 125.4551 177.8371)" class="st6 st7 st8">Carson City  15</text>
+		<text transform="matrix(1 0 0 1 125.4549 203.0316)" class="st6 st7 st8">Churchill  13</text>
+		<text transform="matrix(1 0 0 1 125.4549 228.2265)" class="st6 st7 st8">Clark  9</text>
+		<text transform="matrix(1 0 0 1 125.4549 253.4218)" class="st6 st7 st8">Douglas  6</text>
+		<text transform="matrix(1 0 0 1 125.4549 278.6167)" class="st6 st7 st8">Elko  6</text>
+		<text transform="matrix(1 0 0 1 125.4549 303.812)" class="st6 st7 st8">Esmeralda  10</text>
+		<text transform="matrix(1 0 0 1 125.4549 329.0069)" class="st6 st7 st8">Eureka  4</text>
+		<text transform="matrix(1 0 0 1 125.4549 354.2016)" class="st6 st7 st8">Humboldt  3</text>
+		<text id="Yuma_53_x09__1_" transform="matrix(1 0 0 1 125.4548 379.3968)" class="st6 st7 st8">Lander  9</text>
+		<text transform="matrix(1 0 0 1 272.0945 177.8369)" class="st6 st7 st8">Lincoln  549</text>
+		<text transform="matrix(1 0 0 1 272.0946 203.0316)" class="st6 st7 st8">Lyon  448</text>
+		<text transform="matrix(1 0 0 1 272.0947 228.2267)" class="st6 st7 st8">Mineral  263</text>
+		<text transform="matrix(1 0 0 1 272.0947 253.4219)" class="st6 st7 st8">Nye  18</text>
+		<text transform="matrix(1 0 0 1 272.0947 278.6168)" class="st6 st7 st8">Pershing  11</text>
+		<text transform="matrix(1 0 0 1 272.0947 303.8115)" class="st6 st7 st8">Storey  18</text>
+		<text transform="matrix(1 0 0 1 272.0947 329.0069)" class="st6 st7 st8">Washoe  11</text>
+		<text id="Yuma_53_x09__2_" transform="matrix(1 0 0 1 272.0949 354.2013)" class="st6 st7 st8">White Pine  9</text>
+	</g>
+</g>
+<g id="table_data">
+	<text transform="matrix(1 0 0 1 22.1633 545.0624)" class="st2 st7 st8">Confirmed Cases</text>
+	<text transform="matrix(1 0 0 1 22.1633 588.9941)" class="st2 st7 st8">Deaths</text>
+	<text id="current_date" transform="matrix(1 0 0 1 205.6929 500.7802)" class="st2 st7 st8">6 Apr. 2020</text>
+	<text id="previous_date" transform="matrix(1 0 0 1 340.4711 500.7802)" class="st2 st7 st8">5 Apr. 2020</text>
+	<text id="growth_rate__x25_" transform="matrix(1 0 0 1 459.5392 500.7802)" class="st2 st7 st8">Growth Rate %</text>
+	<text transform="matrix(1 0 0 1 674.8142 500.7802)" class="st2 st7 st8">Total Confirmed Cases</text>
+	<text id="current_сases" transform="matrix(1 0 0 1 228.5485 548.8146)" class="st9 st7 st5">783</text>
+	<text id="previous_deaths" transform="matrix(1 0 0 1 371.2616 593.2939)" class="st9 st7 st5">14</text>
+	<text id="current_deaths" transform="matrix(1 0 0 1 232.0688 592.3143)" class="st9 st7 st5">15</text>
+	<text id="total_cases" transform="matrix(1 0 0 1 733.2634 577.9576)" class="st10 st7 st11">783</text>
+	<text id="previous_сases" transform="matrix(1 0 0 1 363.3488 548.8146)" class="st9 st7 st5">673</text>
+	<text id="cases_growth_rate" transform="matrix(1 0 0 1 493.2618 550.3509)" class="st9 st7 st5">16 %</text>
+	<text id="death_growth_rate" transform="matrix(1 0 0 1 497.6611 594.8301)" class="st9 st7 st5">7 %</text>
+</g>
+<g id="Counties">
+	<polygon id="douglas" class="st12" points="543.2,223.4 543.2,217.7 549.1,219.4 550.2,220.8 565,225.6 565,228.3 561.3,228.3 
+		557.9,231.9 557.9,240.7 558.4,246 	"/>
+	<path id="washoe" class="st12" d="M577.9,78.8l0.2,0.1c7.1,1.8,14.4,3.6,21.5,5.4l0.2,0.1l-6.1,29.6l-6.7,18.4l1.8,1.7l-5,18.1
+		l-3.2,7.1l-4.5,20.4l3.1,2.1l-1.4,11.4l-1,4.5l-1,0.9l-1.8-1.5l-2.3,1.7h-14.4v5.9l-4.6,6.7l-9.3,1.2L577.9,78.8z"/>
+	<path id="lander" class="st12" d="M644.2,238.2l-20.4-2l0.2-3.4l3.8-9.8l6.1-2.4h4.8l2.1-3l2.8-8.7l1.1-13.1l-1.5-0.5l1.3-2.4
+		c0.5-0.5,1.9-2.2,2.3-3c0.7-1.4,4-7.4,4.8-8.1c1.2-0.7,2.9-3.1,3.4-4.2c0.4-0.9,4.1-8.4,4.2-8.8l1.5-1.5l4.5,1.8h4.1l4.5-18.3
+		l13.9,3.6l-10.8,44l1.6,1.5l-11,43.2L644.2,238.2z"/>
+	<polygon id="churchill" class="st12" points="589.9,230.3 578.3,211.8 578.3,207.1 581.1,199.8 584.1,196.8 584.1,193.5 
+		579.8,197.2 578.5,197.2 579.3,193.3 580.6,182.3 594.3,185.6 637.4,195.2 642.8,196.9 641.8,208.6 639.2,216.9 637.7,219.3 
+		633.4,219.3 626.4,222 622.5,232.4 622.3,236.1 622.1,236.1 617.5,236.7 	"/>
+	<path id="pershing" class="st12" d="M637.7,193.8l-43.1-9.6l-14.4-3.5l-2.6-1.7l4.1-19.3l3.2-7.1l5-18l16.1,4.5v0.9l-1.2,3.4
+		l42.1,11.1v2.2h-1.8l0.5,5.4l12.7,3.8l0.7,0.8l-1.4,1.4l-0.2,0.2c0,0.1-3.8,8-4.3,9c-0.4,1-1.9,3.1-2.8,3.5
+		c-1.2,0.8-4.8,7.4-5.4,8.7c-0.3,0.6-1.6,2.2-2.2,2.7l-1.5,2.8L637.7,193.8z"/>
+	<path id="humboldt" class="st12" d="M665,167.8l-4.5-1.8l-1.2-1.5l-12.2-3.6l-0.3-2.8h1.8v-4.8L607,142.4l0.8-2l0.1-2.5l-17.7-5
+		l-1.4-1.2l6.4-17.5l6.2-29.8l0.2,0.2c26.4,6.5,54,12.9,82.1,19.1l0.2,0.1l-16,63.9L665,167.8L665,167.8z"/>
+	<polygon id="storey" class="st12" points="556.2,211.3 555.2,210.5 558.9,205.1 558.9,200.2 570.9,200.2 570.2,201.5 565.2,206.2 
+		562.4,210.1 558.5,211.3 	"/>
+	<polygon id="mineral_1_" class="st12" points="568.2,260.6 573.2,261.7 579.5,237.9 575.1,237.9 576.4,234.3 581.1,229.8 
+		613.5,237.2 605.6,238.3 605.6,243.4 619.8,269.6 616.5,269.8 611.4,274 604.1,277.8 600.6,281.1 594.7,285.4 590.7,289.5 
+		588.3,290.5 	"/>
+	<polygon id="lyon_1_" class="st12" points="567.1,258.9 560.1,248.5 559.3,240.6 559.3,232.6 561.9,229.7 566.5,229.7 566.5,224.6 
+		558.5,222 558.5,220.2 559.3,218.7 559.3,216 555,216 554,212.1 554.3,211.7 555.6,212.7 558.7,212.7 563.3,211.3 566.2,207.2 
+		571.5,202.4 572.6,199.8 574.1,198.8 576,200.3 577.8,198.6 580.1,198.6 576.8,206.8 576.8,212.2 587.9,229.9 580.6,228.2 
+		575.1,233.5 573.1,239.3 577.7,239.3 572.2,260 	"/>
+	<polygon id="carson_city_1_" class="st12" points="551,219.6 550,218.1 544,216.5 543.2,215.9 543.2,214.1 552.7,212.8 554,217.4 
+		557.9,217.4 557.9,218.4 557,219.7 557,221.5 	"/>
+	<polygon id="esmeralda" class="st12" points="589.1,291.8 591.6,290.7 595.6,286.5 601.5,282.2 604.9,279.1 612.1,275.3 
+		617.1,271.2 620.5,271 633.7,295.1 622.8,341.9 	"/>
+	<polygon id="nye" class="st12" points="623.9,343.5 635.2,294.9 607,243 607,239.5 622.1,237.5 644,239.6 694.3,250.6 722.5,280.6 
+		715.5,310.7 682,303.1 669.6,362.4 661.6,399.7 	"/>
+	<path id="lincoln" class="st12" d="M680.4,364.3l-9.3-2.3l12-57.3l33.4,7.7l7.4-31.1l32.5,6.5l-15.3,78.7l-0.5-0.1v4
+		c0,2.2-0.2,4.4-0.5,6.9v0.2L680.4,364.3z"/>
+	<path id="clark_1_" class="st12" d="M662.7,401.4l8.1-37.9l9.3,2.3l59.7,13.2v0.2c-0.7,3.9-1.7,7.9-2.5,11.1
+		c-1.3,5.2-2.7,10.6-3.2,16c-0.2,2.1-2,5.8-3.4,6.5c-0.5,0.2-2.5,0.6-3.2,0.6h-0.1l-0.1-0.1c-0.2-0.2-0.3-0.6-0.5-1
+		s-0.3-0.8-0.5-1.1c-0.8-1.6-2.2-3.5-4.4-4.3c-1-0.3-1.9-0.4-2.7-0.4c-0.8-0.1-1.4-0.1-1.7-0.3c-0.4-0.2-0.6-0.5-0.9-0.7
+		c-0.8-0.7-1.8-1.6-3.9-1.6c-0.2,0-0.5,0-0.8,0.1c-2.7,0.3-5.2,2.3-7.1,3.8l-1.2,1l-0.2,18.3l-0.8,2.5l-0.2,25.6
+		c-0.2,1.4-0.5,2.2-1.1,3.1l-0.2,0.2L662.7,401.4z"/>
+	<polygon id="eureka_1_" class="st12" points="668.5,243.5 679.7,199.5 678.1,198.1 688.7,155 703.4,158.8 701.2,170.7 700.2,202.6 
+		706,203.9 701.7,230.6 699.6,232.1 696.2,235.2 693.3,248.9 	"/>
+	<path id="elko" class="st12" d="M701.6,201.5l1.1-30.6l2.4-13.1l-31.3-8.2l11.4-45.4l0.2,0.1c33.4,7.4,67.9,14.5,102.4,21.2h0.2
+		L770.1,217L701.6,201.5z"/>
+	<polygon id="white_pine" class="st12" points="723.7,279.8 695,249.3 694.6,249.2 697.5,235.9 700.4,233.3 703,231.4 707.5,204.2 
+		769.8,218.4 756.6,286.3 	"/>
+</g>
+<g id="balls">
+	<circle id="clark_circle" class="st13" cx="694.6" cy="390.5" r="9.1"/>
+	<circle id="lincoln_circle" class="st13" cx="717.8" cy="332.8" r="9.1"/>
+	<circle id="white_pine_circle" class="st13" cx="733.4" cy="241" r="9.1"/>
+	<circle id="nye_circle" class="st13" cx="662.7" cy="281.3" r="9.1"/>
+	<circle id="esmeralda_circle" class="st13" cx="612" cy="299.7" r="9.1"/>
+	<circle id="mineral_circle" class="st13" cx="594" cy="258.1" r="9.1"/>
+	<circle id="lyon_circle" class="st13" cx="579.9" cy="219.5" r="9.1"/>
+	<circle id="douglas_circle" class="st13" cx="560.4" cy="228.2" r="9.1"/>
+	<circle id="carson_city_circle" class="st13" cx="544.4" cy="218.4" r="9.1"/>
+	<circle id="storey_circle" class="st13" cx="562.9" cy="206.4" r="9.1"/>
+	<circle id="churchill_circle" class="st13" cx="607" cy="206.7" r="9.1"/>
+	<circle id="washoe_circle" class="st13" cx="568.2" cy="164.9" r="9.1"/>
+	<circle id="pershing_circle" class="st13" cx="618.4" cy="167.8" r="9.1"/>
+	<circle id="lander_circle" class="st13" cx="659.2" cy="204.2" r="9.1"/>
+	<circle id="eureka_circle" class="st13" cx="689.9" cy="209.5" r="9.1"/>
+	<circle id="elko_circle" class="st13" cx="739.8" cy="151.1" r="9.1"/>
+	<circle id="humboldt_circle" class="st13" cx="636.2" cy="117" r="9.1"/>
+	<text id="clark_numbers" transform="matrix(1 2.629973e-03 -2.629973e-03 1 688.1966 392.9507)" class="st14 st7 st15">10</text>
+	<text id="lincoln_numbers" transform="matrix(1 2.629973e-03 -2.629973e-03 1 711.3138 335.2004)" class="st14 st7 st15">10</text>
+	<text id="white_pine_numbers" transform="matrix(1 2.629973e-03 -2.629973e-03 1 726.9053 243.4411)" class="st14 st7 st15">10</text>
+	<text id="nye_numbers" transform="matrix(1 2.629973e-03 -2.629973e-03 1 656.2496 283.7531)" class="st14 st7 st15">10</text>
+	<text id="esmeralda_numbers" transform="matrix(1 2.629973e-03 -2.629973e-03 1 605.53 302.1128)" class="st14 st7 st15">10</text>
+	<text id="mineral_numbers" transform="matrix(1 2.629973e-03 -2.629973e-03 1 587.5561 260.4897)" class="st14 st7 st15">10</text>
+	<text id="lyon_numbers" transform="matrix(1 2.629973e-03 -2.629973e-03 1 573.4118 221.9287)" class="st14 st7 st15">10</text>
+	<text id="douglas_numbers" transform="matrix(1 2.629973e-03 -2.629973e-03 1 553.9176 230.5853)" class="st14 st7 st15">10</text>
+	<text id="carson_city_numbers" transform="matrix(1 2.629973e-03 -2.629973e-03 1 537.9539 220.7843)" class="st14 st7 st15">10</text>
+	<text id="storey_numbers" transform="matrix(1 2.629973e-03 -2.629973e-03 1 556.4327 208.7848)" class="st14 st7 st15">10</text>
+	<text id="churchill_numbers" transform="matrix(1 2.629973e-03 -2.629973e-03 1 600.5729 209.0768)" class="st14 st7 st15">10</text>
+	<text id="washoe_numbers" transform="matrix(1 2.629973e-03 -2.629973e-03 1 561.7912 167.3311)" class="st14 st7 st15">10</text>
+	<text id="pershing_numbers" transform="matrix(1 2.629973e-03 -2.629973e-03 1 611.9771 170.2493)" class="st14 st7 st15">10</text>
+	<text id="lander_numbers" transform="matrix(1 2.629973e-03 -2.629973e-03 1 652.7171 206.6504)" class="st14 st7 st15">10</text>
+	<text id="eureka_numbers" transform="matrix(1 2.629973e-03 -2.629973e-03 1 683.4359 211.9109)" class="st14 st7 st15">10</text>
+	<text id="elko_numbers" transform="matrix(1 2.629973e-03 -2.629973e-03 1 733.3524 153.5079)" class="st14 st7 st15">10</text>
+	<text id="humboldt_numbers" transform="matrix(1 2.629973e-03 -2.629973e-03 1 629.7552 119.4435)" class="st14 st7 st15">10</text>
+</g>
+<g id="TYPES_1_">
+	<g>
+		<circle id="_x34__1_" class="st13" cx="876.2" cy="-51.1" r="33.7"/>
+		
+			<text id="_x34__numbers_1_" transform="matrix(1 2.629910e-03 -2.629910e-03 1 844.6876 -43.6596)" class="st14 st7" style="font-size:20.0552px;">10,000</text>
+	</g>
+	<g>
+		<circle id="_x33__1_" class="st13" cx="796.4" cy="-49.8" r="24.3"/>
+		
+			<text id="_x33__numbers_1_" transform="matrix(1 2.629918e-03 -2.629918e-03 1 774.1442 -43.6874)" class="st14 st7" style="font-size:17.3812px;">1,000</text>
+	</g>
+	<g>
+		<circle id="_x32__1_" class="st13" cx="730.2" cy="-48.6" r="16.6"/>
+		
+			<text id="_x32__numbers_1_" transform="matrix(1 2.629900e-03 -2.629900e-03 1 715.8959 -42.5765)" class="st14 st7" style="font-size:16.0442px;">100</text>
+	</g>
+	<g>
+		<circle id="_x31__2_" class="st13" cx="627.1" cy="-47.2" r="9.6"/>
+		
+			<text id="_x31__numbers_2_" transform="matrix(1 2.629937e-03 -2.629937e-03 1 624.2476 -43.3749)" class="st14 st7" style="font-size:9.8332px;">1</text>
+	</g>
+	<g>
+		<circle id="_x31__1_" class="st13" cx="675.2" cy="-47.2" r="12.8"/>
+		
+			<rect x="668.7" y="-52.7" transform="matrix(2.629838e-03 -1 1 2.629838e-03 720.0239 628.6073)" class="st16" width="12.8" height="12"/>
+		
+			<text id="_x31__numbers_1_" transform="matrix(1 2.629891e-03 -2.629891e-03 1 667.9831 -43.5361)" class="st14 st7" style="font-size:12.0331px;">10</text>
+	</g>
+</g>
+</svg>

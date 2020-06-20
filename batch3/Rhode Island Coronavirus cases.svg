@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.5, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 916.5 609.2" style="enable-background:new 0 0 916.5 609.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F5FBFE;}
+	.st1{fill:#DDEEFA;}
+	.st2{fill:#255078;}
+	.st3{font-family:'Georgia';}
+	.st4{font-size:18px;}
+	.st5{font-size:16px;}
+	.st6{fill:#4C4B4D;}
+	.st7{font-family:'ArialMT';}
+	.st8{font-size:14px;}
+	.st9{fill:#CD483B;}
+	.st10{fill:#AED9F4;}
+	.st11{fill:#FFFFFF;}
+	.st12{font-size:27.2098px;}
+	.st13{fill:#4C4B4C;}
+	.st14{fill:#DB3029;}
+	.st15{font-size:36px;}
+</style>
+<g id="Texts">
+	<polygon id="blue_bg" class="st0" points="0,473.8 0,510.8 0,520.4 0,609.2 173.5,609.2 173.5,520.4 915,520.4 915,473.8 	"/>
+	<path id="line_bg" class="st1" d="M916.5,0H0l0,0v474.4v2v42.9v2v42.9v2v42.9l0,0h579.8l0,0H913l0,0h3.5V0z M913,56.8v417.6H578.4
+		l-0.6-0.3v0.3H443.6l-0.6-0.3v0.3H3V56.8H913z M913,476.4v42.9H579.8v-42.9H913z M445.1,519.4v-42.9h132.8v42.9H445.1z
+		 M577.8,521.4v42.9H445.1v-42.9H577.8z M310.3,519.4v-42.9h132.8v42.9H310.3z M443.1,521.4v42.9H310.3v-42.9H443.1z M175.5,519.4
+		v-42.9h132.8v42.9H175.5z M308.3,521.4v42.9H175.5v-42.9H308.3z M173.5,476.4v42.9H3v-42.9H173.5z M173.5,521.4v42.9H3v-42.9H173.5
+		z M3,566.3h170.5v39.9H3V566.3z M175.5,566.3h132.8v39.9H175.5V566.3z M310.3,566.3h132.8v39.9H310.3V566.3z M445.1,566.3h132.8
+		v39.9H445.1V566.3z M579.8,521.4H913v84.8H579.8V521.4z"/>
+	<text id="title" transform="matrix(1 0 0 1 32.8483 35.8372)" class="st2 st3 st4">COVID-19 in Rhode Island on</text>
+	<text id="date" transform="matrix(1 0 0 1 277.4693 35.8372)" class="st2 st3 st4">April 27th, 2020</text>
+	<text transform="matrix(1 0 0 1 95.7752 245.0915)" class="st2 st3 st5">State Confirmed Cases By County</text>
+	<g>
+		<text transform="matrix(1 0 0 1 95.4443 281.4611)" class="st6 st7 st8">Bristol  10</text>
+		<text transform="matrix(1 0 0 1 95.4443 310.6291)" class="st6 st7 st8">Kent  100</text>
+		<text transform="matrix(1 0 0 1 95.4443 339.7989)" class="st6 st7 st8">Newport  100</text>
+		<text id="Yuma_53_x09_" transform="matrix(1 0 0 1 251.5558 281.4611)" class="st6 st7 st8">Providence  100</text>
+		<text transform="matrix(1 0 0 1 251.5558 310.6291)" class="st6 st7 st8">Washington  100</text>
+	</g>
+</g>
+<g id="TYPES_1_">
+	<g>
+		<circle id="_x34__1_" class="st9" cx="859.9" cy="-76.1" r="42.5"/>
+		
+			<text id="_x34__numbers_1_" transform="matrix(1 2.629901e-03 -2.629901e-03 1 820.2 -66.7266)" class="st11 st7" style="font-size:25.2796px;">10,000</text>
+	</g>
+</g>
+<g id="Counties">
+	<polygon id="kent" class="st10" points="655.9,273.5 681.2,253.1 681.2,236.8 697.4,217.9 697.4,199.1 690.7,199.1 668.9,236.6 
+		597.7,246.1 581.6,263 577.7,269.2 585.8,299.4 640.1,283.7 	"/>
+	<polygon id="providence" class="st10" points="630.2,94.7 534.4,116.9 569.7,239.4 571.6,246.3 588.7,228.4 657.3,219.3 
+		679.9,180.3 699.4,180.3 	"/>
+	<polygon id="bristol" class="st10" points="747.2,245.8 749.2,241.8 716.1,201 716.1,218.6 729.1,238.6 	"/>
+	<path id="washington" class="st10" d="M718.4,344.5L694,331v-64l0,0l-27.1,21.7l-20.2,12.7l-53.3,15.4l-2.4,1.9l5,18.7l3.1,104.3
+		c31.5-10.2,66.2-19.3,90-41.9c11.6-11.1,24.6-24,29.1-38.6c2.2-7.1,0-18.6,4.8-24.9L718.4,344.5z"/>
+	<path id="newport" class="st10" d="M762,257.7l-1.8,3.4l-12.6,42.6l-2.6,5.5v26.3l-18.8-9.3v-8.5v-12.6l4-8.7l9.9-33.3l-23.5-9.3
+		L705.7,237l-5.7,6.6v4.5h12.7v71.7l13.6,7.5v-0.4l18.8,9.3h-9.4c1.3,2.1,2.9,3.9,5.7,3.9c10.6-0.1,35-14.3,44.5-19.1
+		c6.7-3.4,13.1-6.7,19.3-10L762,257.7z"/>
+</g>
+<g id="balls">
+	<circle id="_x35__1_" class="st9" cx="656.9" cy="249.2" r="42.5"/>
+	<text id="_x35__numbers_1_" transform="matrix(1 2.629963e-03 -2.629963e-03 1 617.7401 258.4662)" class="st11 st7 st12">15000</text>
+</g>
+<g id="table_data">
+	<text transform="matrix(1 0 0 1 21.4008 545.2194)" class="st2 st7 st8">Confirmed Cases</text>
+	<text transform="matrix(1 0 0 1 21.4008 589.1512)" class="st2 st7 st8">Deaths</text>
+	<text id="current_date" transform="matrix(1 0 0 1 204.9304 500.9373)" class="st2 st7 st8">6 Apr. 2020</text>
+	<text id="previous_date" transform="matrix(1 0 0 1 339.7086 500.9373)" class="st2 st7 st8">5 Apr. 2020</text>
+	<text id="growth_rate__x25_" transform="matrix(1 0 0 1 458.7767 500.9373)" class="st2 st7 st8">Growth Rate %</text>
+	<text transform="matrix(1 0 0 1 674.0518 500.9373)" class="st2 st7 st8">Total Confirmed Cases</text>
+	<text id="current_сases" transform="matrix(1 0 0 1 227.786 548.9714)" class="st13 st7 st5">783</text>
+	<text id="previous_deaths" transform="matrix(1 0 0 1 370.4991 593.451)" class="st13 st7 st5">14</text>
+	<text id="current_deaths" transform="matrix(1 0 0 1 231.3063 592.4713)" class="st13 st7 st5">15</text>
+	<text id="total_cases" transform="matrix(1 0 0 1 732.501 578.1146)" class="st14 st7 st15">783</text>
+	<text id="previous_сases" transform="matrix(1 0 0 1 362.5863 548.9714)" class="st13 st7 st5">673</text>
+	<text id="cases_growth_rate" transform="matrix(1 0 0 1 492.4993 550.5079)" class="st13 st7 st5">16 %</text>
+	<text id="death_growth_rate" transform="matrix(1 0 0 1 496.8986 594.9872)" class="st13 st7 st5">7 %</text>
+</g>
+</svg>
