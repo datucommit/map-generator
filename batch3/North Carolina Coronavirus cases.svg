@@ -31,7 +31,7 @@
 		v40.2H445.1V783.2z M579.8,738.1H913v85.3H579.8V738.1z"/>
 	<text id="title" transform="matrix(1 0 0 1 32.8483 35.8372)" class="st2 st3 st4">COVID-19 in North Carolina on</text>
 	<text id="date" transform="matrix(1 0 0 1 290.4693 35.8372)" class="st2 st3 st4">April 27th, 2020</text>
-	<text transform="matrix(1 0 0 1 37.4713 110.4451)" class="st2 st3 st5">State Confirmed Cases By County</text>
+	<text id="state_confirmed" transform="matrix(1 0 0 1 37.4713 110.4451)" class="st2 st3 st5">State Confirmed Cases By County</text>
 	<g>
 		<text transform="matrix(1 0 0 1 37.8878 175.6809)" class="st6 st7 st8">Alexander  10</text>
 		<text transform="matrix(1 0 0 1 37.8878 200.1201)" class="st6 st7 st8">Alleghany  10</text>

@@ -32,7 +32,7 @@
 		h132.8v39.9H445V697.4z M579.7,652.5h333.2v84.8H579.7V652.5z"/>
 	<text id="title" transform="matrix(1 0 0 1 32.8483 35.8372)" class="st2 st3 st4">COVID-19 in New Mexico on</text>
 	<text id="date" transform="matrix(1 0 0 1 267.4693 35.8372)" class="st2 st3 st4">April 27th, 2020</text>
-	<text transform="matrix(1 0 0 1 80.5113 153.405)" class="st2 st3 st5">State Confirmed Cases By County</text>
+	<text id="state_confirmed" transform="matrix(1 0 0 1 80.5113 153.405)" class="st2 st3 st5">State Confirmed Cases By County</text>
 	<g>
 		<text transform="matrix(1 0 0 1 80.2066 220.8547)" class="st6 st7 st8">Catron  10</text>
 		<text transform="matrix(1 0 0 1 80.2066 246.9187)" class="st6 st7 st8">Chaves  10</text>

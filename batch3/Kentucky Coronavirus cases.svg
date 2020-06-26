@@ -31,7 +31,7 @@
 		 M579.8,779.5H913v85.1H579.8V779.5z"/>
 	<text id="title" transform="matrix(1 0 0 1 22.167 35.8372)" class="st2 st3 st4">COVID-19 in Kentucky on</text>
 	<text id="date" transform="matrix(1 0 0 1 237.4693 35.8372)" class="st2 st3 st4">April 7th, 2020</text>
-	<text transform="matrix(1 0 0 1 22.1668 105.2857)" class="st2 st3 st5">State Confirmed Cases By County</text>
+	<text id="state_confirmed" transform="matrix(1 0 0 1 22.1668 105.2857)" class="st2 st3 st5">State Confirmed Cases By County</text>
 	<g>
 		<text transform="matrix(1 0 0 1 22.1887 150.0347)" class="st6 st7 st8">Adair  10</text>
 		<text transform="matrix(1 0 0 1 22.1887 171.2098)" class="st6 st7 st8">Allen  10</text>

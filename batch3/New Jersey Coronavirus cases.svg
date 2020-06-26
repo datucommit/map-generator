@@ -33,7 +33,7 @@
 		h132.8v39.9H445V697.4z M579.7,652.5h333.2v84.8H579.7V652.5z"/>
 	<text id="title" transform="matrix(1 0 0 1 32.8483 35.8371)" class="st2 st3 st4">COVID-19 in New Jersey on</text>
 	<text id="date" transform="matrix(1 0 0 1 260.4693 35.8371)" class="st2 st3 st4">April 27th, 2020</text>
-	<text transform="matrix(1 0 0 1 125.1513 232.6852)" class="st2 st3 st5">State Confirmed Cases By County</text>
+	<text id="state_confirmed" transform="matrix(1 0 0 1 125.1513 232.6852)" class="st2 st3 st5">State Confirmed Cases By County</text>
 	<g>
 		<text transform="matrix(1 0 0 1 124.8466 300.4915)" class="st6 st7 st8">Bergen  10</text>
 		<text transform="matrix(1 0 0 1 124.8466 326.912)" class="st6 st7 st8">Burlington  10</text>

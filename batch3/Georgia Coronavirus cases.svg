@@ -31,7 +31,7 @@
 		h132.8v39.9H445.1V1027.4z M579.8,982.5H913v84.9H579.8V982.5z"/>
 	<text id="title" transform="matrix(1 0 0 1 32.8483 35.8372)" class="st2 st3 st4">COVID-19 in Georgia on</text>
 	<text id="date" transform="matrix(1 0 0 1 231.4693 35.8372)" class="st2 st3 st4">April 27th, 2020</text>
-	<text transform="matrix(1 0 0 1 33.9124 102.1494)" class="st2 st3 st5">State Confirmed Cases By County</text>
+	<text id="state_confirmed" transform="matrix(1 0 0 1 33.9124 102.1494)" class="st2 st3 st5">State Confirmed Cases By County</text>
 	<g>
 		<text transform="matrix(1 0 0 1 32.8696 163.2157)" class="st6 st7 st8">Atkinson  10</text>
 		<text transform="matrix(1 0 0 1 32.8481 182.8141)" class="st6 st7 st8">Bacon  10</text>

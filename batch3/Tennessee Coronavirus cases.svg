@@ -31,7 +31,7 @@
 		v39.9H445.1V718.4z M579.8,673.4H913v84.8H579.8V673.4z"/>
 	<text id="title" transform="matrix(1 0 0 1 22.167 35.8372)" class="st2 st3 st4">COVID-19 in Tennessee on</text>
 	<text id="date" transform="matrix(1 0 0 1 243.4693 35.8372)" class="st2 st3 st4">April 7th, 2020</text>
-	<text transform="matrix(1 0 0 1 29.0678 98.0956)" class="st2 st3 st5">State Confirmed Cases By County</text>
+	<text id="state_confirmed" transform="matrix(1 0 0 1 29.0678 98.0956)" class="st2 st3 st5">State Confirmed Cases By County</text>
 	<g>
 		<text transform="matrix(1 0 0 1 31.4488 134.5389)" class="st6 st7 st8">Anderson  496</text>
 		<text transform="matrix(1 0 0 1 31.4273 158.372)" class="st6 st7 st8">Bedford  159</text>

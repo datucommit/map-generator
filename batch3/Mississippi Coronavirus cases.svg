@@ -32,7 +32,7 @@
 		h132.8v39.9H445V697.4z M579.7,652.5h333.2v84.8H579.7V652.5z"/>
 	<text id="title" transform="matrix(1 0 0 1 32.8483 35.8371)" class="st2 st3 st4">COVID-19 in Mississippi on</text>
 	<text id="date" transform="matrix(1 0 0 1 260.4693 35.8371)" class="st2 st3 st4">April 27th, 2020</text>
-	<text transform="matrix(1 0 0 1 35.1513 100.6853)" class="st2 st3 st5">State Confirmed Cases By County</text>
+	<text id="state_confirmed" transform="matrix(1 0 0 1 35.1513 100.6853)" class="st2 st3 st5">State Confirmed Cases By County</text>
 	<g>
 		<text transform="matrix(1 0 0 1 34.8895 160.9643)" class="st6 st7 st8">Alcorn  10</text>
 		<text transform="matrix(1 0 0 1 34.8895 181.8567)" class="st6 st7 st8">Amite  10</text>
@@ -321,7 +321,7 @@
 	<circle id="leake_circle" class="st10" cx="742" cy="324.2" r="7.2"/>
 	<circle id="neshoba_circle_1_" class="st10" cx="774.1" cy="321.8" r="7.2"/>
 	<circle id="kemper_circle" class="st10" cx="810.1" cy="318.9" r="7.2"/>
-	<circle id="_noxubeecircle" class="st10" cx="812.3" cy="284.3" r="7.2"/>
+	<circle id="noxubee_circle" class="st10" cx="812.3" cy="284.3" r="7.2"/>
 	<circle id="winston_circle" class="st10" cx="777.7" cy="288.7" r="7.2"/>
 	<circle id="madison_circle" class="st10" cx="701.4" cy="339.8" r="7.2"/>
 	<circle id="yazoo_circle" class="st10" cx="673.3" cy="323.9" r="7.2"/>

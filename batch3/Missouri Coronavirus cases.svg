@@ -31,7 +31,7 @@
 		v39.9H445.1V797.4z M579.8,752.5H913v84.9H579.8V752.5z"/>
 	<text id="title" transform="matrix(1 0 0 1 32.8483 35.8372)" class="st2 st3 st4">COVID-19 in Missouri on</text>
 	<text id="date" transform="matrix(1 0 0 1 241.4693 35.8372)" class="st2 st3 st4">April 27th, 2020</text>
-	<text transform="matrix(1 0 0 1 32.8704 86.9364)" class="st2 st3 st5">State Confirmed Cases By County</text>
+	<text id="state_confirmed" transform="matrix(1 0 0 1 32.8704 86.9364)" class="st2 st3 st5">State Confirmed Cases By County</text>
 	<g>
 		<text transform="matrix(1 0 0 1 32.87 149.8491)" class="st6 st7 st8">Andrew  10</text>
 		<text transform="matrix(1 0 0 1 32.87 168.8522)" class="st6 st7 st8">Atchison  10</text>

@@ -32,17 +32,17 @@
 		h132.8v39.9H445V697.4z M579.7,652.5h333.2v84.8H579.7V652.5z"/>
 	<text id="title" transform="matrix(1 0 0 1 32.8483 35.8371)" class="st2 st3 st4">COVID-19 in New Hampshire on</text>
 	<text id="date" transform="matrix(1 0 0 1 300.4693 35.8371)" class="st2 st3 st4">April 27th, 2020</text>
-	<text transform="matrix(1 0 0 1 165.1513 262.6852)" class="st2 st3 st5">State Confirmed Cases By County</text>
+	<text id="state_confirmed" transform="matrix(1 0 0 1 165.1513 262.6852)" class="st2 st3 st5">State Confirmed Cases By County</text>
+	<text transform="matrix(1 0 0 1 164.8683 304.0709)" class="st6 st7 st8">Belknap  10</text>
 	<text transform="matrix(1 0 0 1 164.868 330.1135)" class="st6 st7 st8">Carroll  10</text>
 	<text transform="matrix(1 0 0 1 164.868 356.156)" class="st6 st7 st8">Cheshire  10</text>
 	<text transform="matrix(1 0 0 1 164.868 382.1986)" class="st6 st7 st8">Coos  10</text>
 	<text transform="matrix(1 0 0 1 164.868 408.2415)" class="st6 st7 st8">Grafton  10</text>
-	<text transform="matrix(1 0 0 1 164.8683 304.0709)" class="st6 st7 st8">Belknap  10</text>
 	<text transform="matrix(1 0 0 1 297.708 304.0709)" class="st6 st7 st8">Hillsborough  10</text>
 	<text transform="matrix(1 0 0 1 297.708 330.1138)" class="st6 st7 st8">Merrimack  10</text>
 	<text transform="matrix(1 0 0 1 297.708 356.1558)" class="st6 st7 st8">Rockingham  10</text>
-	<text transform="matrix(1 0 0 1 297.708 408.2415)" class="st6 st7 st8">Sullivan  10</text>
 	<text transform="matrix(1 0 0 1 297.7083 382.1984)" class="st6 st7 st8">Strafford  10</text>
+	<text transform="matrix(1 0 0 1 297.708 408.2415)" class="st6 st7 st8">Sullivan  10</text>
 </g>
 <g id="Counties">
 	<polygon id="belknap" class="st9" points="701.9,393.9 690.5,391.5 682,380.7 671.6,376 665.1,385.5 657.4,385.5 655.4,390 
