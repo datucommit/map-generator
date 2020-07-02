@@ -181,4 +181,6 @@
 	<text id="cases_growth_rate" transform="matrix(1 0 0 1 496.1464 554.1284)" class="st15 st8 st6">16 %</text>
 	<text id="death_growth_rate" transform="matrix(1 0 0 1 500.5457 598.6077)" class="st15 st8 st6">7 %</text>
 </g>
+	<image style="overflow:visible;" width="160" height="104" id="LOGO" xlink:href="../maps/SR Logos/Maine.png"  transform="matrix(0.4392 0 0 0.4392 838.7281 5.0807)">
+	</image>
 </svg>

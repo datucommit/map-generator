@@ -774,4 +774,6 @@
 	<line class="st16" x1="489.5" y1="773.5" x2="489" y2="768.7"/>
 	<line class="st16" x1="573.8" y1="683.1" x2="568.1" y2="680"/>
 </g>
+	<image style="overflow:visible;" width="160" height="104" id="LOGO" xlink:href="../maps/SR Logos/Virginia.png"  transform="matrix(0.4392 0 0 0.4392 838.7281 5.0807)">
+	</image>
 </svg>

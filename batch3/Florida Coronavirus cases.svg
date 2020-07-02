@@ -450,4 +450,6 @@
 	<text id="cases_growth_rate" transform="matrix(1 0 0 1 492.1484 684.4546)" class="st15 st7 st5">16 %</text>
 	<text id="death_growth_rate" transform="matrix(1 0 0 1 496.5477 728.9338)" class="st15 st7 st5">7 %</text>
 </g>
+	<image style="overflow:visible;" width="160" height="104" id="LOGO" xlink:href="../maps/SR Logos/Florida.png"  transform="matrix(0.4392 0 0 0.4392 838.7281 5.0807)">
+	</image>
 </svg>

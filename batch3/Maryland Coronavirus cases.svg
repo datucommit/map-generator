@@ -38,14 +38,10 @@
 	<text transform="matrix(1 0 0 1 59.0159 269.4602)" class="st6 st7 st8">Anne Arundel  13</text>
 	<text transform="matrix(1 0 0 1 59.0159 295.6758)" class="st6 st7 st8">Baltimore  9</text>
 	<text transform="matrix(1 0 0 1 59.0159 321.8904)" class="st6 st7 st8">Baltimore City  6</text>
-	<text transform="matrix(1 0 0 1 225.1203 342.324)" class="st6 st7 st8 st9"> </text>
 	<text transform="matrix(1 0 0 1 59.0159 348.1062)" class="st6 st7 st8">Calvert  6</text>
-	<text transform="matrix(1 0 0 1 244.5203 368.5398)" class="st6 st7 st8"> </text>
 	<text transform="matrix(1 0 0 1 59.0159 374.3218)" class="st6 st7 st8">Caroline  5</text>
-	<text transform="matrix(1 0 0 1 239.1203 394.7554)" class="st6 st7 st8"> </text>
 	<text transform="matrix(1 0 0 1 59.0159 400.5363)" class="st6 st7 st8">Carroll  4</text>
 	<text transform="matrix(1 0 0 1 59.0159 426.7527)" class="st6 st7 st8">Cecil  3</text>
-	<text transform="matrix(1 0 0 1 219.6203 447.1864)" class="st6 st7 st8 st10"> </text>
 	<text transform="matrix(1 0 0 1 211.9402 245.0942)" class="st6 st7 st8">Charles  9</text>
 	<text transform="matrix(1 0 0 1 211.9402 271.3096)" class="st6 st7 st8">Dorchester  549</text>
 	<text transform="matrix(1 0 0 1 211.9399 297.5247)" class="st6 st7 st8">Frederick  448</text>
@@ -243,4 +239,6 @@
 			<text id="_x34__numbers_1_" transform="matrix(1 2.629928e-03 -2.629928e-03 1 845.5447 -56.1287)" class="st13 st7" style="font-size:13px;">25,000</text>
 	</g>
 </g>
+	<image style="overflow:visible;" width="160" height="104" id="LOGO" xlink:href="../maps/SR Logos/Maryland.png"  transform="matrix(0.4392 0 0 0.4392 838.7281 5.0807)">
+	</image>
 </svg>

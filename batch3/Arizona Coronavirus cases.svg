@@ -167,4 +167,6 @@
 	<text id="cases_growth_rate" transform="matrix(1 0 0 1 496.956 553.0454)" class="st16 st3 st14">16 %</text>
 	<text id="death_growth_rate" transform="matrix(1 0 0 1 501.3553 597.5247)" class="st16 st3 st14">7 %</text>
 </g>
+	<image style="overflow:visible;" width="160" height="104" id="LOGO" xlink:href="../maps/SR Logos/Arizona.png"  transform="matrix(0.4392 0 0 0.4392 838.7281 5.0807)">
+	</image>
 </svg>

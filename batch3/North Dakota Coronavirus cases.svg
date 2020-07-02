@@ -352,4 +352,6 @@
 	<circle id="divide_circle" class="st10" cx="532.6" cy="200.7" r="10.4"/>
 	<text id="divide_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 526.9297 203.5219)" class="st15 st7 st16">60</text>
 </g>
+	<image style="overflow:visible;" width="160" height="104" id="LOGO" xlink:href="../maps/SR Logos/North Dakota.png"  transform="matrix(0.4392 0 0 0.4392 838.7281 5.0807)">
+	</image>
 </svg>

@@ -502,4 +502,6 @@
 	<circle id="richardson_circle" class="st0" cx="883.7" cy="534" r="5.5"/>
 	<text id="richardson_numbers" transform="matrix(0.986 2.629903e-03 -2.593113e-03 1 880.7349 536.0388)" class="st15 st9 st16">10</text>
 </g>
+	<image style="overflow:visible;" width="160" height="104" id="LOGO" xlink:href="../maps/SR Logos/Nebraska.png"  transform="matrix(0.4392 0 0 0.4392 838.7281 5.0807)">
+	</image>
 </svg>
