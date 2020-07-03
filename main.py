@@ -315,8 +315,63 @@ script = """
                 }
 			}
 			
+			try {
+			    circle_sizes[size].cx
+			} catch {
+			    switch(size) {
+			        case 'xxlarge':
+			            size = 'xlarge'
+                    case 'xlarge':
+                        size = 'large'
+                        break;
+                    case 'large':
+                        size = 'medium'
+                        break;
+                    case 'medium':
+                        size = 'small'
+                        break;
+                }
+			}
+			
+			try {
+			    circle_sizes[size].cx
+			} catch {
+			    switch(size) {
+			        case 'xxlarge':
+			            size = 'xlarge'
+                    case 'xlarge':
+                        size = 'large'
+                        break;
+                    case 'large':
+                        size = 'medium'
+                        break;
+                    case 'medium':
+                        size = 'small'
+                        break;
+                }
+			}
+			
+			try {
+			    circle_sizes[size].cx
+			} catch {
+			    switch(size) {
+			        case 'xxlarge':
+			            size = 'xlarge'
+                    case 'xlarge':
+                        size = 'large'
+                        break;
+                    case 'large':
+                        size = 'medium'
+                        break;
+                    case 'medium':
+                        size = 'small'
+                        break;
+                }
+			}
+			
 			var original_transform = textElement.getAttribute('transform')
 			var otsplit = original_transform.split(' ')
+			console.log('size XDDD', size)
 			transform = otsplit[0] + ' ' + otsplit[1] + ' ' + otsplit[2] + ' ' + otsplit[3] + ' ' + (cx + circle_sizes[size].cx) + ' ' + (cy + circle_sizes[size].cy) + ')'
 			//transform = "matrix(1 2.630000e-03 -2.630000e-03 1 " + (cx + circle_sizes[size].cx) + " " + (cy + circle_sizes[size].cy) + ")"
 			console.log('TRANSFORM', transform, textId, textElement, circleElement)
