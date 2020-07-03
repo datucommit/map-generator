@@ -352,7 +352,7 @@ script = """
 			3 : 'April',
 			4 : 'May',
 			5 : 'June',
-			6 : 'Jule',
+			6 : 'July',
 			7 : 'August',
 			8 : 'September',
 			9 : 'October',
@@ -371,7 +371,7 @@ script = """
 			3 : 'April',
 			4 : 'May',
 			5 : 'June',
-			6 : 'Jule',
+			6 : 'July',
 			7 : 'August',
 			8 : 'September',
 			9 : 'October',
@@ -379,7 +379,7 @@ script = """
 			11 : 'December'
 		}
 		date = new Date()
-		return months[cmonth - 1] + ' ' + (cday - 1) + nth(cday) + ', ' + date.getFullYear()
+		return months[pmonth - 1] + ' ' + pday + nth(pday) + ', ' + date.getFullYear()
 
 	}
 	console.log('ABSOLUTELY DONE')
@@ -433,6 +433,7 @@ def do_upload():
     curr_date = request.files.get('curr-date').file.read().decode("utf-8").replace('.','')
 
     cday, cmonth = request.files.get('curr-date').filename.split('-')[-1].split('.')[0].split('_')
+    pday, pmonth = request.files.get('prev-date').filename.split('-')[-1].split('.')[0].split('_')
 
     svg_string = ''
     fj = create_full_json_object(prev_date, curr_date, state)
@@ -445,7 +446,9 @@ def do_upload():
         <script type="text/javascript">
             <![CDATA[
         var cday = {cday}
+        var pday = {pday}
         var cmonth = {cmonth}
+        var pmonth = {pmonth}
         var state = """
         # remove last closing tag to insert data
         svg_string = svg_string.split('</svg>')[0]
