@@ -159,10 +159,10 @@ script = """
 				//
 				//
 
-				var id = splittedString.join('_') + '_number'
+				var id = splittedString.join('_').replace("'", '_x27_') + '_number'
 			}
 			else{
-				var id = state.dates[0].counties[i].name  + '_number'
+				var id = state.dates[0].counties[i].name.replace("'", '_x27_')  + '_number'
 			}
 			try {
 				console.log(id, 'elid')

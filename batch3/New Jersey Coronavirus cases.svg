@@ -98,7 +98,7 @@
 		l14.1,10.2l12.4,7.8l15,10.5l13.2,7l13.3,12l12.1,7.2h9.2l2.7-2.4v-15.2l-6.6-20.4L740,379.1z"/>
 	<path id="atlantic" class="st9" d="M746.1,486c8.3-14.7,14.9-29.8,23.8-44.2c0.1-0.1,0.1-0.2,0.2-0.3l-14.9-8.5l-4,3.6h-14.1
 		l-14.7-8.8l-13.2-11.9l-12.1-6.3l-8.8,22.1l0.3,0.2L677.9,452l-2.2,2.4l5.8,6.7l5,10.7l13.8,13.6h20.8v-3.2h22L746.1,486z"/>
-	<path id="capemay" class="st9" d="M743.3,489.5h-14.8v3.2h-25.9v28.1H699c2.6,0.2,4.8,0.6,6,1.7c9.6,8.4-6.6,23.4-6.7,32.8
+	<path id="cape_may" class="st9" d="M743.3,489.5h-14.8v3.2h-25.9v28.1H699c2.6,0.2,4.8,0.6,6,1.7c9.6,8.4-6.6,23.4-6.7,32.8
 		c-0.1,5.5,0.7,15.1,6.5,14.8c4.9-0.2,10.8-8.9,13.7-12.6c7.7-10.3,12.6-24.3,13.2-37.3c0.6-11.5,6.7-21.1,12.4-30.7H743.3z"/>
 	<path id="ocean" class="st9" d="M788.6,313.2l-13.3,8.2h-15.6l-13.2-12.5h-1.7l-8.2,8.2h-9.2L722,323l-8.7,7.3l-1.1,0.7l11.6,12.1
 		c1.6,2.1,12.6,17,13.8,18.8s8.7,13.5,8.7,13.5l0.3,0.7l4.7,12.8l6.9,22.2v15.3l15.3,8.7c4.6-8.8,8.2-18.7,11.1-28.2
@@ -118,7 +118,7 @@
 		c-1.2,1.2-2.1,2.4-2.9,3.5l10.6,9.5l0.3,1.2c0.6,3.4,1.5,7.7,2.1,9.3c2.5,1.6,7.4,5.8,19.1,17.1l8.7,3.4L691,405.4z"/>
 </g>
 <g id="balls">
-	<circle id="capemay_circle" class="st10" cx="719" cy="520.3" r="10.2"/>
+	<circle id="cape_may_circle" class="st10" cx="719" cy="520.3" r="10.2"/>
 	<circle id="gloucester_circle" class="st10" cx="643.4" cy="427.5" r="10.2"/>
 	<circle id="salem_circle" class="st10" cx="612.1" cy="454.3" r="10.2"/>
 	<circle id="cumberland_circle" class="st10" cx="658.6" cy="492.1" r="10.2"/>
@@ -139,7 +139,7 @@
 	<circle id="bergen_circle" class="st10" cx="737.4" cy="141.3" r="10.2"/>
 	<circle id="passaic_circle" class="st10" cx="709.3" cy="144.4" r="10.2"/>
 	<ellipse id="sussex_circle" class="st10" cx="642.6" cy="130.1" rx="10.2" ry="10"/>
-	<text id="capemay_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 716.1136 523.6919)" class="st11 st7 st12">1</text>
+	<text id="cape_may_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 716.1136 523.6919)" class="st11 st7 st12">1</text>
 	<text id="gloucester_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 640.5126 430.8118)" class="st11 st7 st12">1</text>
 	<text id="salem_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 609.2152 457.6701)" class="st11 st7 st12">1</text>
 	<text id="cumberland_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 655.6561 495.4702)" class="st11 st7 st12">1</text>

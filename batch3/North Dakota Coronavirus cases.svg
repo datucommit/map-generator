@@ -178,7 +178,7 @@
 		c13.8,0.8,27.6,1.7,41.5,2.4c7.4,0.4,14.7,0.8,22,1.1v-12.1l5.1-6.3L673.6,399.7z"/>
 	<path id="divide" class="st9" d="M506.7,184.9l-2.5,24.8l54,6.9v-4l-1.7-1.2l-0.3-12.4h2v-9.7h1.8c-10.3-0.8-20.6-1.6-30.9-2.5
 		c-9.5-0.8-19-1.7-28.6-2.5L506.7,184.9z"/>
-	<path id="botineau" class="st9" d="M637.1,205.9h-2.7v13.8h2.7v7.5h17.3l2-4.1v-3.4h8.5l1.4,3.3l26.1-1.1v7.7h3.7h1.4h3.2l1.7,2.5
+	<path id="bottineau" class="st9" d="M637.1,205.9h-2.7v13.8h2.7v7.5h17.3l2-4.1v-3.4h8.5l1.4,3.3l26.1-1.1v7.7h3.7h1.4h3.2l1.7,2.5
 		v-8.9h2.6v-4.5h-2.6v-21h2.4c-8.9-0.4-17.7-0.7-26.6-1.2c-13.8-0.7-27.5-1.4-41.3-2.2L637.1,205.9z"/>
 	<path id="pierce" class="st9" d="M699.4,232.6h-0.2v41.9h2.4v10.1l16.9,0.5v-39.4l1.5,0.1c6.6,0.2,13.8,0.3,19,0.3v-10.6h-37.7
 		L699.4,232.6z"/>
@@ -343,8 +343,8 @@
 	<text id="towner_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 747.8686 225.3653)" class="st15 st7 st16">60</text>
 	<circle id="rolette_circle" class="st10" cx="722.9" cy="217.2" r="10.4"/>
 	<text id="rolette_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 717.1687 220.0361)" class="st15 st7 st16">60</text>
-	<circle id="botineau_circle" class="st10" cx="668.5" cy="209.2" r="10.4"/>
-	<text id="botineau_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 662.8242 211.9861)" class="st15 st7 st16">60</text>
+	<circle id="bottineau_circle" class="st10" cx="668.5" cy="209.2" r="10.4"/>
+	<text id="bottineau_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 662.8242 211.9861)" class="st15 st7 st16">60</text>
 	<circle id="renville_circle" class="st10" cx="623.5" cy="212.5" r="10.4"/>
 	<text id="renville_numbers" transform="matrix(1 2.630000e-03 -2.630000e-03 1 617.7909 215.2972)" class="st15 st7 st16">60</text>
 	<circle id="burke_circle" class="st10" cx="582.1" cy="206.3" r="10.4"/>
