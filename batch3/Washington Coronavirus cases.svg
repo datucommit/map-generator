@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 23.0.5, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 916.5 609.2" style="enable-background:new 0 0 916.5 609.2;" xml:space="preserve">
 <style type="text/css">
@@ -29,8 +29,8 @@
 		v-42.9h132.8v42.9H175.5z M308.3,521.4v42.9H175.5v-42.9H308.3z M173.5,476.4v42.9H3v-42.9H173.5z M173.5,521.4v42.9H3v-42.9H173.5
 		z M3,566.3h170.5v39.9H3V566.3z M175.5,566.3h132.8v39.9H175.5V566.3z M310.3,566.3h132.8v39.9H310.3V566.3z M445.1,566.3h132.8
 		v39.9H445.1V566.3z M579.8,521.4H913v84.8H579.8V521.4z"/>
-	<text id="title" transform="matrix(1 0 0 1 32.8483 35.8371)" class="st2 st3 st4">COVID-19 in Washington on</text>
-	<text id="date" transform="matrix(1 0 0 1 267.4693 35.8371)" class="st2 st3 st4">April 27th, 2020</text>
+	<text id="title" transform="matrix(1 0 0 1 32.8483 35.8372)" class="st2 st3 st4">COVID-19 in Washington on</text>
+	<text id="date" transform="matrix(1 0 0 1 267.4693 35.8372)" class="st2 st3 st4">April 27th, 2020</text>
 	<text id="confirmed" transform="matrix(1 0 0 1 61.3743 95.7314)" class="st2 st3 st5">State Confirmed Cases By County</text>
 	<g>
 		<text transform="matrix(1 0 0 1 61.396 132.4719)" class="st6 st7 st8">Adams  15</text>
@@ -98,9 +98,9 @@
 	<g>
 		<circle id="_x31__1_" class="st9" cx="719.7" cy="-45.6" r="10.9"/>
 		
-			<rect x="714.2" y="-50.3" transform="matrix(2.629838e-03 -1 1 2.629838e-03 762.9305 674.6025)" class="st10" width="10.9" height="10.2"/>
+			<rect x="714.2" y="-50.3" transform="matrix(2.629829e-03 -1 1 2.629829e-03 762.8968 674.5729)" class="st10" width="10.9" height="10.2"/>
 		
-			<text id="_x31__numbers_1_" transform="matrix(1 2.629873e-03 -2.629873e-03 1 713.6277 -42.4561)" class="st12 st7" style="font-size:10.2365px;">10</text>
+			<text id="_x31__numbers_1_" transform="matrix(1 2.629873e-03 -2.629873e-03 1 713.6277 -42.456)" class="st12 st7" style="font-size:10.2365px;">10</text>
 	</g>
 </g>
 <g id="Counties">
@@ -300,7 +300,7 @@
 	<circle id="wahkiakum_circle" class="st9" cx="522.9" cy="298.4" r="8.4"/>
 	<text id="wahkiakum_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 518.9777 300.2384)" class="st12 st7 st13">10</text>
 	
-		<ellipse id="pacific_circle" transform="matrix(0.1602 -0.9871 0.9871 0.1602 160.1851 743.275)" class="st9" cx="516.9" cy="277.5" rx="8.4" ry="8.4"/>
+		<ellipse id="pacific_circle" transform="matrix(0.3162 -0.9487 0.9487 0.3162 90.1862 680.1257)" class="st9" cx="516.9" cy="277.5" rx="8.4" ry="8.4"/>
 	<text id="pacific_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 512.9142 279.3515)" class="st12 st7 st13">10</text>
 	<circle id="grays_harbor_circle" class="st9" cx="524.1" cy="229.3" r="8.4"/>
 	<text id="grays_harbor_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 520.1141 231.1114)" class="st12 st7 st13">10</text>
@@ -312,18 +312,16 @@
 <g id="table_data">
 	<text transform="matrix(1 0 0 1 22.1633 545.0624)" class="st2 st7 st8">Confirmed Cases</text>
 	<text transform="matrix(1 0 0 1 22.1633 588.9941)" class="st2 st7 st8">Deaths</text>
-	<text id="current_date" transform="matrix(1 0 0 1 205.6929 500.7803)" class="st2 st7 st8">6 Apr. 2020</text>
-	<text id="previous_date" transform="matrix(1 0 0 1 340.4711 500.7803)" class="st2 st7 st8">5 Apr. 2020</text>
-	<text id="growth_rate__x25_" transform="matrix(1 0 0 1 459.5392 500.7803)" class="st2 st7 st8">Growth Rate %</text>
-	<text transform="matrix(1 0 0 1 674.8142 500.7803)" class="st2 st7 st8">Total Confirmed Cases</text>
-	<text id="current_сases" transform="matrix(1 0 0 1 228.5485 548.8145)" class="st14 st7 st5">783</text>
-	<text id="previous_deaths" transform="matrix(1 0 0 1 371.2616 593.2939)" class="st14 st7 st5">14</text>
-	<text id="current_deaths" transform="matrix(1 0 0 1 232.0688 592.3142)" class="st14 st7 st5">15</text>
-	<text id="total_cases" transform="matrix(1 0 0 1 733.2635 577.9575)" class="st15 st7 st16">783</text>
-	<text id="previous_сases" transform="matrix(1 0 0 1 363.3488 548.8145)" class="st14 st7 st5">673</text>
-	<text id="cases_growth_rate" transform="matrix(1 0 0 1 493.2618 550.3508)" class="st14 st7 st5">16 %</text>
-	<text id="death_growth_rate" transform="matrix(1 0 0 1 497.6611 594.8301)" class="st14 st7 st5">7 %</text>
+	<text id="current_date" transform="matrix(1 0 0 1 206.2175 502.7803)" class="st2 st7 st8">6 Apr. 2020</text>
+	<text id="previous_date" transform="matrix(1 0 0 1 342.01 502.7803)" class="st2 st7 st8">5 Apr. 2020</text>
+	<text id="growth_rate__x25_" transform="matrix(1 0 0 1 465.0493 502.7803)" class="st2 st7 st8">Growth Rate %</text>
+	<text transform="matrix(1 0 0 1 674.8174 502.7803)" class="st2 st7 st8">Total Confirmed Cases</text>
+	<text id="current_сases" transform="matrix(1 0 0 1 228.2899 548.8145)" class="st14 st7 st5">783</text>
+	<text id="previous_deaths" transform="matrix(1 0 0 1 368.5322 593.2939)" class="st14 st7 st5">14</text>
+	<text id="current_deaths" transform="matrix(1 0 0 1 232.7396 592.3142)" class="st14 st7 st5">15</text>
+	<text id="total_cases" transform="matrix(1 0 0 1 716.3676 577.9575)" class="st15 st7 st16">783</text>
+	<text id="previous_сases" transform="matrix(1 0 0 1 364.0828 548.8145)" class="st14 st7 st5">673</text>
+	<text id="cases_growth_rate" transform="matrix(1 0 0 1 494.2765 550.3508)" class="st14 st7 st5">16 %</text>
+	<text id="death_growth_rate" transform="matrix(1 0 0 1 498.7259 594.8301)" class="st14 st7 st5">7 %</text>
 </g>
-	<image style="overflow:visible;" width="160" height="104" id="LOGO" xlink:href="../maps/SR Logos/Washington.png"  transform="matrix(0.4392 0 0 0.4392 838.7281 5.0807)">
-	</image>
 </svg>
