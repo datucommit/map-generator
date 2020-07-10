@@ -143,7 +143,7 @@
 	<circle id="morris_circle" class="st11" cx="684.6" cy="159" r="10.2"/>
 	<circle id="bergen_circle" class="st11" cx="808.2" cy="106.8" r="10.2"/>
 	<circle id="passaic_circle" class="st11" cx="736.5" cy="84.1" r="10.2"/>
-	<ellipse id="sussex_circle" class="st11" cx="642.6" cy="130.1" rx="10.2" ry="10"/>
+	<circle id="sussex_circle" class="st11" cx="642.6" cy="130.1" r="10.2"/>
 	<text id="cape_may_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 716.1136 523.6919)" class="st12 st7 st13">1</text>
 	<text id="gloucester_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 621.2882 423.5431)" class="st12 st7 st13">1</text>
 	<text id="salem_numbers" transform="matrix(1 2.629982e-03 -2.629982e-03 1 603.5152 467.8701)" class="st12 st7 st13">1</text>
