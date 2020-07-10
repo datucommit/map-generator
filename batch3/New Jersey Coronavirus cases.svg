@@ -169,7 +169,7 @@
 <g id="TYPES_1_">
 	<g>
 		
-			<ellipse id="_x33__1_" transform="matrix(0.9998 -2.047284e-02 2.047284e-02 0.9998 1.1757 16.4437)" class="st11" cx="803.7" cy="-49.2" rx="22.8" ry="22.8"/>
+			<circle id="_x33__1_" transform="matrix(0.9998 -2.047284e-02 2.047284e-02 0.9998 1.1757 16.4437)" class="st11" cx="803.7" cy="-49.2" r="22.8"/>
 		
 			<text id="_x33__numbers_1_" transform="matrix(1 2.629900e-03 -2.629900e-03 1 782.9868 -43.4398)" class="st12 st7" style="font-size:13px;">10,000</text>
 	</g>
