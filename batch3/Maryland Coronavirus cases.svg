@@ -39,22 +39,22 @@
 	<text transform="matrix(1 0 0 1 32.8481 333.1855)" class="st6 st7 st8">Caroline  5</text>
 	<text transform="matrix(1 0 0 1 32.8481 359.4)" class="st6 st7 st8">Carroll  4</text>
 	<text transform="matrix(1 0 0 1 32.8481 385.6165)" class="st6 st7 st8">Cecil  3</text>
-	<text transform="matrix(1 0 0 1 173.5 202.1082)" class="st6 st7 st8">Charles  9</text>
-	<text transform="matrix(1 0 0 1 173.5 228.3235)" class="st6 st7 st8">Dorchester  549</text>
-	<text transform="matrix(1 0 0 1 173.4997 254.5386)" class="st6 st7 st8">Frederick  448</text>
-	<text transform="matrix(1 0 0 1 173.4999 280.7532)" class="st6 st7 st8">Garrett  263</text>
-	<text transform="matrix(1 0 0 1 173.4999 306.969)" class="st6 st7 st8">Harford  18</text>
-	<text transform="matrix(1 0 0 1 173.4999 333.1843)" class="st6 st7 st8">Howard  11</text>
-	<text transform="matrix(1 0 0 1 173.4999 359.3997)" class="st6 st7 st8">Kent  18</text>
-	<text transform="matrix(1 0 0 1 173.4999 385.6167)" class="st6 st7 st8">Montgomery  11</text>
-	<text transform="matrix(1 0 0 1 310.3 279.4624)" class="st6 st7 st8">Prince George&apos;s  9</text>
-	<text transform="matrix(1 0 0 1 310.3 305.6776)" class="st6 st7 st8">Queen Anne&apos;s  549</text>
-	<text transform="matrix(1 0 0 1 310.2998 331.8927)" class="st6 st7 st8">st Mary&apos;s  448</text>
-	<text transform="matrix(1 0 0 1 310.2999 358.1075)" class="st6 st7 st8">Somerset  263</text>
-	<text transform="matrix(1 0 0 1 310.2999 384.3231)" class="st6 st7 st8">Talbot  18</text>
-	<text transform="matrix(1 0 0 1 310.2999 410.5382)" class="st6 st7 st8">Washington  11</text>
-	<text transform="matrix(1 0 0 1 175.5001 410.5382)" class="st6 st7 st8">Wicomico  18</text>
 	<text transform="matrix(1 0 0 1 32.8486 410.5382)" class="st6 st7 st8">Worcester  11</text>
+	<text transform="matrix(1 0 0 1 196.5 202.1082)" class="st6 st7 st8">Charles  9</text>
+	<text transform="matrix(1 0 0 1 196.5 228.3235)" class="st6 st7 st8">Dorchester  549</text>
+	<text transform="matrix(1 0 0 1 196.4997 254.5386)" class="st6 st7 st8">Frederick  448</text>
+	<text transform="matrix(1 0 0 1 196.4999 280.7532)" class="st6 st7 st8">Garrett  263</text>
+	<text transform="matrix(1 0 0 1 196.4999 306.969)" class="st6 st7 st8">Harford  18</text>
+	<text transform="matrix(1 0 0 1 196.4999 333.1843)" class="st6 st7 st8">Howard  11</text>
+	<text transform="matrix(1 0 0 1 196.4999 359.3997)" class="st6 st7 st8">Kent  18</text>
+	<text transform="matrix(1 0 0 1 196.4999 385.6167)" class="st6 st7 st8">Montgomery  11</text>
+	<text transform="matrix(1 0 0 1 198.5001 410.5382)" class="st6 st7 st8">Wicomico  18</text>
+	<text transform="matrix(1 0 0 1 367.8017 279.4624)" class="st6 st7 st8">Prince George&apos;s  9</text>
+	<text transform="matrix(1 0 0 1 367.8017 305.6776)" class="st6 st7 st8">Queen Anne&apos;s  549</text>
+	<text transform="matrix(1 0 0 1 367.8015 331.8927)" class="st6 st7 st8">st Mary&apos;s  448</text>
+	<text transform="matrix(1 0 0 1 367.8016 358.1075)" class="st6 st7 st8">Somerset  263</text>
+	<text transform="matrix(1 0 0 1 367.8016 384.3231)" class="st6 st7 st8">Talbot  18</text>
+	<text transform="matrix(1 0 0 1 367.8016 410.5382)" class="st6 st7 st8">Washington  11</text>
 </g>
 <g id="Counties">
 	<polygon id="carroll" class="st9" points="632.2,131.8 639.5,135.8 646.7,142 652.9,146.9 655.2,159.7 651.4,162 651.3,165.3 
