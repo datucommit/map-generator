@@ -35,7 +35,7 @@
 		H579.8V652.2z"/>
 	<text id="title" transform="matrix(1 0 0 1 22.167 35.8372)" class="st2 st3 st4">COVID-19 in Indiana on</text>
 	<text id="date" transform="matrix(1 0 0 1 221.4693 35.8372)" class="st2 st3 st4">April 7th, 2020</text>
-	<text transform="matrix(1 0 0 1 29.0678 89.3657)" class="st2 st3 st5">State Confirmed Cases By County</text>
+	<text id="confirmed" transform="matrix(1 0 0 1 29.0678 89.3657)" class="st2 st3 st5">State Confirmed Cases By County</text>
 	<g>
 		<text transform="matrix(1 0 0 1 28.7729 125.2285)" class="st6 st7 st8">Adams  10</text>
 		<text transform="matrix(1 0 0 1 28.7729 144.4653)" class="st6 st7 st8">Allen  10</text>
@@ -107,7 +107,7 @@
 		<text transform="matrix(1 0 0 1 281.8317 529.1924)" class="st6 st7 st8">Randolph  10</text>
 		<text transform="matrix(1 0 0 1 281.8317 548.429)" class="st6 st7 st8">Ripley  10</text>
 		<text transform="matrix(1 0 0 1 406.2709 125.2285)" class="st6 st7 st8">Rush  10</text>
-		<text transform="matrix(1 0 0 1 406.2709 144.4653)" class="st6 st7 st8">St. Joseph  10</text>
+		<text transform="matrix(1 0 0 1 406.2709 144.4653)" class="st6 st7 st8">st Joseph  10</text>
 		<text transform="matrix(1 0 0 1 406.2709 163.7017)" class="st6 st7 st8">Scott  10</text>
 		<text transform="matrix(1 0 0 1 406.2709 182.938)" class="st6 st7 st8">Shelby  10</text>
 		<text transform="matrix(1 0 0 1 406.2709 202.1746)" class="st6 st7 st8">Spencer  10</text>
@@ -349,7 +349,7 @@
 		L694,142h-11.3L680.6,146.3z"/>
 	<path id="jasper" class="st18" d="M657.3,169.6c-4.2-2.1-8.6-4.2-9.5-4.4s-1.6-0.9-1.9-1.6c-0.1-0.2-0.1-0.5-0.2-0.7h-2.6l-2.1,2.6
 		l-7.7,6.3l6.7,50.6h2.5v-3.5h6.3l2-1.9v-4.5l7.1-5.7l-0.7-2.9l2.8-2.9v-12.7h-2.5L657.3,169.6z"/>
-	<polygon id="st._joseph" class="st18" points="691.5,137.9 694.5,137.9 697.3,131.4 716.8,131.4 716.8,128.3 726,128.3 726,118 
+	<polygon id="st_joseph" class="st18" points="691.5,137.9 694.5,137.9 697.3,131.4 716.8,131.4 716.8,128.3 726,128.3 726,118 
 		722.2,118 722.5,103.3 688.8,105.8 	"/>
 	<polygon id="newton" class="st18" points="616.6,179.2 619.8,222.3 636,222.3 629.6,173.9 	"/>
 	<polygon id="white" class="st18" points="655,218.7 651.9,221.7 652.5,228.2 654.8,231.4 654.8,240.2 679.4,236.8 679.4,236.3 
@@ -405,7 +405,7 @@
 	<polygon id="dekalb" class="st18" points="801.5,119.1 804.9,143 827.6,138.9 825.2,116.8 	"/>
 	<polygon id="clinton" class="st18" points="702.6,253.7 689.7,253.7 691.7,274.6 693.7,278.1 706.5,278.1 706.5,275 725.7,272.9 
 		723.2,256.9 721.4,256.9 717.5,250.5 704.9,249.7 	"/>
-	<polygon id="hendricks_1_" class="st18" points="723.5,234.5 723.5,237.7 714.2,237.7 714.3,239.2 717,240.2 717,246.3 
+	<polygon id="howard" class="st18" points="723.5,234.5 723.5,237.7 714.2,237.7 714.3,239.2 717,240.2 717,246.3
 		719.8,246.5 723.7,252.8 728.8,252.8 730,249.7 750,249.7 751.3,246.8 757.2,246.2 757.2,241.2 754,240.2 754.1,232.2 745.8,232 
 		745.8,234.5 730.7,234.5 728.7,234.5 	"/>
 	<polygon id="fulton" class="st18" points="701.8,168.7 705.4,195.6 729.1,191 736.1,184.4 741.7,184.4 741.7,176.8 729.4,165.9 	
@@ -559,9 +559,9 @@
 		<text id="hancock_numbers" transform="matrix(0.986 2.629912e-03 -2.593122e-03 1 769.9451 312.6564)" class="st19 st7 st20">10</text>
 		<circle id="marion_circle" class="st17" cx="742.3" cy="320" r="6"/>
 		<text id="marion_numbers" transform="matrix(0.986 2.629912e-03 -2.593122e-03 1 738.9222 322.1358)" class="st19 st7 st20">10</text>
-		<circle id="hendricks_circle_1_" class="st17" cx="711.8" cy="322.1" r="6"/>
+		<circle id="hendricks_circle" class="st17" cx="711.8" cy="322.1" r="6"/>
 		
-			<text id="hendricks_numbers_1_" transform="matrix(0.986 2.629912e-03 -2.593122e-03 1 708.4137 324.2126)" class="st19 st7 st20">10</text>
+			<text id="hendricks_numbers" transform="matrix(0.986 2.629912e-03 -2.593122e-03 1 708.4137 324.2126)" class="st19 st7 st20">10</text>
 		<circle id="putnam_circle" class="st17" cx="684.1" cy="338.9" r="6"/>
 		<text id="putnam_numbers" transform="matrix(0.986 2.629912e-03 -2.593122e-03 1 680.6895 340.9386)" class="st19 st7 st20">10</text>
 		<circle id="parke_circle" class="st17" cx="653.4" cy="328.9" r="6"/>
@@ -590,8 +590,8 @@
 		<text id="tippecanoe_numbers" transform="matrix(0.986 2.629912e-03 -2.593122e-03 1 668.9225 261.9691)" class="st19 st7 st20">10</text>
 		<circle id="warren_circle" class="st17" cx="635.1" cy="263.8" r="6"/>
 		<text id="warren_numbers" transform="matrix(0.986 2.629912e-03 -2.593122e-03 1 631.7001 265.9148)" class="st19 st7 st20">10</text>
-		<circle id="hendricks_circle" class="st17" cx="737.9" cy="241.5" r="6"/>
-		<text id="hendricks_numbers" transform="matrix(0.986 2.629912e-03 -2.593122e-03 1 734.5059 243.5556)" class="st19 st7 st20">10</text>
+		<circle id="howard_circle" class="st17" cx="737.9" cy="241.5" r="6"/>
+		<text id="howard_numbers" transform="matrix(0.986 2.629912e-03 -2.593122e-03 1 734.5059 243.5556)" class="st19 st7 st20">10</text>
 		<circle id="grant_circle" class="st17" cx="775.4" cy="233.4" r="6"/>
 		<text id="grant_numbers" transform="matrix(0.986 2.629912e-03 -2.593122e-03 1 772.0192 235.4964)" class="st19 st7 st20">10</text>
 		<circle id="blackford_circle" class="st17" cx="802.9" cy="234.6" r="6"/>
@@ -644,8 +644,8 @@
 		<text id="lagrange_numbers" transform="matrix(0.986 2.629912e-03 -2.593122e-03 1 775.6382 110.8856)" class="st19 st7 st20">10</text>
 		<circle id="elkhart_circle" class="st17" cx="744.1" cy="118" r="6"/>
 		<text id="elkhart_numbers" transform="matrix(0.986 2.629912e-03 -2.593122e-03 1 740.6922 120.1259)" class="st19 st7 st20">10</text>
-		<circle id="st._joseph_circle" class="st17" cx="706.7" cy="119.2" r="6"/>
-		<text id="st._joseph_numbers" transform="matrix(0.986 2.629912e-03 -2.593122e-03 1 703.3461 121.3115)" class="st19 st7 st20">10</text>
+		<circle id="st_joseph_circle" class="st17" cx="706.7" cy="119.2" r="6"/>
+		<text id="st_joseph_numbers" transform="matrix(0.986 2.629912e-03 -2.593122e-03 1 703.3461 121.3115)" class="st19 st7 st20">10</text>
 		<circle id="laporte_circle" class="st17" cx="673.6" cy="128.4" r="6"/>
 		<text id="laporte_numbers" transform="matrix(0.986 2.629912e-03 -2.593122e-03 1 670.238 130.5264)" class="st19 st7 st20">10</text>
 		<circle id="porter_circle" class="st17" cx="646.6" cy="140.2" r="6"/>

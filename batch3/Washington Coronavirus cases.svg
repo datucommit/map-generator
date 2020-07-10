@@ -31,7 +31,7 @@
 		v39.9H445.1V566.3z M579.8,521.4H913v84.8H579.8V521.4z"/>
 	<text id="title" transform="matrix(1 0 0 1 32.8483 35.8371)" class="st2 st3 st4">COVID-19 in Washington on</text>
 	<text id="date" transform="matrix(1 0 0 1 267.4693 35.8371)" class="st2 st3 st4">April 27th, 2020</text>
-	<text transform="matrix(1 0 0 1 61.3743 95.7314)" class="st2 st3 st5">State Confirmed Cases By County</text>
+	<text id="confirmed" transform="matrix(1 0 0 1 61.3743 95.7314)" class="st2 st3 st5">State Confirmed Cases By County</text>
 	<g>
 		<text transform="matrix(1 0 0 1 61.396 132.4719)" class="st6 st7 st8">Adams  15</text>
 		<text transform="matrix(1 0 0 1 61.3958 157.4624)" class="st6 st7 st8">Asotin  13</text>
@@ -41,37 +41,37 @@
 		<text transform="matrix(1 0 0 1 61.3743 257.4242)" class="st6 st7 st8">Clark  10</text>
 		<text transform="matrix(1 0 0 1 61.3743 282.4144)" class="st6 st7 st8">Columbia  4</text>
 		<text transform="matrix(1 0 0 1 61.3743 307.4047)" class="st6 st7 st8">Cowlitz  3</text>
-		<text id="Yuma_53_x09__8_" transform="matrix(1 0 0 1 61.3742 332.395)" class="st6 st7 st8">Douglas  9</text>
+		<text transform="matrix(1 0 0 1 61.3742 332.395)" class="st6 st7 st8">Douglas  9</text>
 		<text transform="matrix(1 0 0 1 61.3742 357.3857)" class="st6 st7 st8">Ferry  549</text>
 		<text transform="matrix(1 0 0 1 61.3743 382.3759)" class="st6 st7 st8">Franklin  448</text>
 		<text transform="matrix(1 0 0 1 61.3744 407.366)" class="st6 st7 st8">Garfield  263</text>
+		<text transform="matrix(1 0 0 1 61.3745 432.357)" class="st6 st7 st8">Pacific  9</text>
+		<text transform="matrix(1 0 0 1 179.8545 132.472)" class="st6 st7 st8">Pend Oreille  549</text>
+		<text transform="matrix(1 0 0 1 179.8544 157.4621)" class="st6 st7 st8">Pierce  448</text>
 		<text transform="matrix(1 0 0 1 179.8547 182.4528)" class="st6 st7 st8">Grant  18</text>
 		<text transform="matrix(1 0 0 1 179.8547 207.4434)" class="st6 st7 st8">Grays Harbor  11</text>
 		<text transform="matrix(1 0 0 1 179.8547 232.4338)" class="st6 st7 st8">Island  18</text>
 		<text transform="matrix(1 0 0 1 179.8547 257.4241)" class="st6 st7 st8">Jefferson  11</text>
-		<text id="Yuma_53_x09__7_" transform="matrix(1 0 0 1 179.8544 282.4142)" class="st6 st7 st8">King  9</text>
+		<text transform="matrix(1 0 0 1 179.8544 282.4142)" class="st6 st7 st8">King  9</text>
 		<text transform="matrix(1 0 0 1 179.8544 307.4048)" class="st6 st7 st8">Kitsap  549</text>
 		<text transform="matrix(1 0 0 1 179.8547 332.3948)" class="st6 st7 st8">Kittitas  448</text>
 		<text transform="matrix(1 0 0 1 179.8543 357.3859)" class="st6 st7 st8">Klickitat  263</text>
-		<text transform="matrix(1 0 0 1 312.8946 232.4334)" class="st6 st7 st8">Snohomish  448</text>
+		<text transform="matrix(1 0 0 1 179.8547 382.3764)" class="st6 st7 st8">Lewis  18</text>
+		<text transform="matrix(1 0 0 1 179.8547 407.366)" class="st6 st7 st8">Lincoln  11</text>
+		<text transform="matrix(1 0 0 1 179.8546 432.3566)" class="st6 st7 st8">Mason  18</text>
+		<text transform="matrix(1 0 0 1 312.8946 132.472)" class="st6 st7 st8">Okanogan  11</text>
+		<text transform="matrix(1 0 0 1 312.8946 157.4622)" class="st6 st7 st8">San Juan  263</text>
+		<text transform="matrix(1 0 0 1 312.8946 182.4528)" class="st6 st7 st8">Skagit  18</text>
 		<text transform="matrix(1 0 0 1 312.8944 207.4431)" class="st6 st7 st8">Skamania  448</text>
+		<text transform="matrix(1 0 0 1 312.8946 232.4334)" class="st6 st7 st8">Snohomish  448</text>
 		<text transform="matrix(1 0 0 1 312.8947 257.4238)" class="st6 st7 st8">Spokane  263</text>
 		<text transform="matrix(1 0 0 1 312.8947 282.4144)" class="st6 st7 st8">Stevens  18</text>
 		<text transform="matrix(1 0 0 1 312.8947 307.4047)" class="st6 st7 st8">Thurston  11</text>
 		<text transform="matrix(1 0 0 1 312.8947 332.3948)" class="st6 st7 st8">Wahkiakum   18</text>
 		<text transform="matrix(1 0 0 1 312.8947 357.3852)" class="st6 st7 st8">Walla Walla  11</text>
-		<text id="Yuma_53_x09__6_" transform="matrix(1 0 0 1 312.8944 382.376)" class="st6 st7 st8">Whatcom  9</text>
+		<text transform="matrix(1 0 0 1 312.8944 382.376)" class="st6 st7 st8">Whatcom  9</text>
 		<text transform="matrix(1 0 0 1 312.8944 407.3659)" class="st6 st7 st8">Whitman  549</text>
 		<text transform="matrix(1 0 0 1 312.8947 432.3568)" class="st6 st7 st8">Yakima  448</text>
-		<text transform="matrix(1 0 0 1 179.8547 382.3764)" class="st6 st7 st8">Lewis  18</text>
-		<text transform="matrix(1 0 0 1 179.8547 407.366)" class="st6 st7 st8">Lincoln  11</text>
-		<text transform="matrix(1 0 0 1 179.8546 432.3566)" class="st6 st7 st8">Mason  18</text>
-		<text transform="matrix(1 0 0 1 312.8946 132.472)" class="st6 st7 st8">Okanogan  11</text>
-		<text id="Yuma_53_x09__5_" transform="matrix(1 0 0 1 61.3745 432.357)" class="st6 st7 st8">Pacific  9</text>
-		<text transform="matrix(1 0 0 1 179.8545 132.472)" class="st6 st7 st8">Pend Oreille  549</text>
-		<text transform="matrix(1 0 0 1 179.8544 157.4621)" class="st6 st7 st8">Pierce  448</text>
-		<text transform="matrix(1 0 0 1 312.8946 157.4622)" class="st6 st7 st8">San Juan  263</text>
-		<text transform="matrix(1 0 0 1 312.8946 182.4528)" class="st6 st7 st8">Skagit  18</text>
 	</g>
 </g>
 <g id="TYPES_1_">
@@ -247,8 +247,8 @@
 	<text id="garfield_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 812.4341 367.9115)" class="st12 st7 st13">10</text>
 	<circle id="adams_circle" class="st9" cx="775.6" cy="317" r="8.4"/>
 	<text id="adams_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 771.64 318.8991)" class="st12 st7 st13">10</text>
-	<circle id="walla_walla_circle_1_" class="st9" cx="797" cy="372.5" r="8.4"/>
-	<text id="walla_walla_numbers_1_" transform="matrix(1 2.629991e-03 -2.629991e-03 1 792.9941 374.3914)" class="st12 st7 st13">10</text>
+	<circle id="columbia_circle" class="st9" cx="797" cy="372.5" r="8.4"/>
+	<text id="columbia_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 792.9941 374.3914)" class="st12 st7 st13">10</text>
 	<circle id="walla_walla_circle" class="st9" cx="767" cy="368.9" r="8.4"/>
 	<text id="walla_walla_numbers" transform="matrix(1 2.629991e-03 -2.629991e-03 1 762.9999 370.7392)" class="st12 st7 st13">10</text>
 	<circle id="franklin_circle" class="st9" cx="748.2" cy="343.7" r="8.4"/>
