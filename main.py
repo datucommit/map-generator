@@ -1,3 +1,4 @@
+from gevent import monkey; monkey.patch_all()
 import os
 from bottle import route, request, static_file, run, template, get, response
 import csv
