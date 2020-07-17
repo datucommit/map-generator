@@ -51,6 +51,21 @@ script = """
 	function parseOrZero(val){
 		return val ? parseInt(val.replace(/,/g, '')) : 0
 	}
+	
+	function toDataURL(url, callback) {
+	    console.log('TODATAURL')
+        var xhr = new XMLHttpRequest();
+        xhr.onload = function() {
+            var reader = new FileReader();
+            reader.onloadend = function() {
+                callback(reader.result);
+            }
+            reader.readAsDataURL(xhr.response);
+        };
+        xhr.open('GET', url);
+        xhr.responseType = 'blob';
+        xhr.send();
+    }
 
 	function displayCasesList(){
 		/* THIS IS FOR WHEN THE TEXT ELEMENTS BECOME TSPANS
@@ -439,6 +454,9 @@ script = """
 
 	}
 	console.log('ABSOLUTELY DONE')
+	toDataURL(document.querySelector('image').getAttribute('xlink:href'), function(dataUrl) {
+                document.querySelector('image').setAttribute('xlink:href', dataUrl)
+            })
 	]]>
 	</script>"""
 
@@ -512,10 +530,11 @@ def do_upload():
         svg_string += script_prefix + json.dumps(fj) + script
         # close svg again
         svg_string += '</svg>'
-        pablo_script = "<script>Pablo(document.querySelector('body > svg')).download('png', '" + filename + '.png' + """', function (result) {
+        pablo_script = "<script>setTimeout(function () {Pablo(document.querySelector('body > svg')).download('png', '" + filename + '.png' + """', function (result) {
             console.log((result.error ? 'Fail' : 'Success'));
-        });</script>"""
-        return '<html><body>' + svg_string + '</body><script src="http://pablojs.com/downloads/pablo.js"></script>' + pablo_script + '</html>'
+        });}, 1000);</script>"""
+
+        return '<html><script src="http://pablojs.com/downloads/pablo.js"></script><body>' + svg_string + '</body>' + pablo_script + '</html>'
 
 
 
