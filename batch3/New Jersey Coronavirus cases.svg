@@ -36,21 +36,21 @@
 	<text id="date" transform="matrix(1 0 0 1 260.4693 35.8372)" class="st2 st3 st4">April 27th, 2020</text>
 	<text id="state_confirmed" transform="matrix(1 0 0 1 125.1513 232.6852)" class="st2 st3 st5">State Confirmed Cases By County</text>
 	<g>
+		<text transform="matrix(1 0 0 1 124.8683 274.0709)" class="st6 st7 st8">Atlantic  10</text>
 		<text transform="matrix(1 0 0 1 124.8466 300.4915)" class="st6 st7 st8">Bergen  10</text>
 		<text transform="matrix(1 0 0 1 124.8466 326.912)" class="st6 st7 st8">Burlington  10</text>
 		<text transform="matrix(1 0 0 1 124.8466 353.3326)" class="st6 st7 st8">Camden  10</text>
 		<text transform="matrix(1 0 0 1 124.8466 379.753)" class="st6 st7 st8">Cape May  10</text>
-		<text transform="matrix(1 0 0 1 124.8683 274.0709)" class="st6 st7 st8">Atlantic  10</text>
 		<text transform="matrix(1 0 0 1 124.8467 406.1734)" class="st6 st7 st8">Cumberland  10</text>
 		<text transform="matrix(1 0 0 1 124.8466 432.5938)" class="st6 st7 st8">Essex  10</text>
 		<text transform="matrix(1 0 0 1 249.148 274.0709)" class="st6 st7 st8">Gloucester  10</text>
-		<text transform="matrix(1 0 0 1 249.148 326.9124)" class="st6 st7 st8">Hunterdon  10</text>
 		<text transform="matrix(1 0 0 1 249.1478 300.4918)" class="st6 st7 st8">Hudson  10</text>
+		<text transform="matrix(1 0 0 1 249.148 326.9124)" class="st6 st7 st8">Hunterdon  10</text>
+		<text transform="matrix(1 0 0 1 249.1477 353.3328)" class="st6 st7 st8">Mercer  10</text>
 		<text transform="matrix(1 0 0 1 249.148 379.753)" class="st6 st7 st8">Middlesex  10</text>
 		<text transform="matrix(1 0 0 1 249.148 406.173)" class="st6 st7 st8">Monmouth  10</text>
 		<text transform="matrix(1 0 0 1 249.148 432.5942)" class="st6 st7 st8">Morris  10</text>
 		<text transform="matrix(1 0 0 1 384.9082 274.0712)" class="st6 st7 st8">Ocean  10</text>
-		<text transform="matrix(1 0 0 1 249.1477 353.3328)" class="st6 st7 st8">Mercer  10</text>
 		<text transform="matrix(1 0 0 1 384.908 300.4916)" class="st6 st7 st8">Passaic  10</text>
 		<text transform="matrix(1 0 0 1 384.908 326.912)" class="st6 st7 st8">Salem  10</text>
 		<text transform="matrix(1 0 0 1 384.908 353.3326)" class="st6 st7 st8">Somerset  10</text>
