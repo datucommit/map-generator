@@ -550,4 +550,6 @@
 		<text id="lake_numbers" transform="matrix(0.986 2.629912e-03 -2.593122e-03 1 618.6348 148.3372)" class="st15 st7 st16">10</text>
 	</g>
 </g>
+	<image style="overflow:visible;" width="160" height="104" id="LOGO" xlink:href="../maps/SR Logos/Indiana.png"  transform="matrix(0.4392 0 0 0.4392 838.7281 5.0807)">
+	</image>
 </svg>
